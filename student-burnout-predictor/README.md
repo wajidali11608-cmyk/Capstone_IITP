@@ -1,4 +1,4 @@
-# 🧠 Student Burnout Prediction System
+#  Student Burnout Prediction System
 
 AI-powered predictive pipeline that uses micro-behavioural data to detect and prevent student burnout.
 

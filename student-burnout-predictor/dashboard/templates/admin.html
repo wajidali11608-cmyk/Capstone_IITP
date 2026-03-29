@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Burnout Predictor — Admin Dashboard</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0"></script>
+</head>
+
+<body>
+    <!-- Background Animated Blobs -->
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay" class="loading-overlay">
+        <div class="spinner"></div>
+        <p class="loading-text">Loading dashboard data...</p>
+    </div>
+
+    <!-- Header -->
+    <header class="header slide-down">
+        <h1>Overview Dashboard</h1>
+        <p>AI-powered micro-behavioural analysis and student records</p>
+        <div class="header-nav">
+            <a href="/" class="active">Overview Dashboard</a>
+            <a href="/student">Launch Student Portal ↗</a>
+        </div>
+    </header>
+
+    <main class="container fade-in">
+        <!-- Stats Row -->
+        <section class="stats-row stagger-1">
+            <div class="stat-card total">
+                <div class="stat-value" id="stat-total">—</div>
+                <div class="stat-label">Total Students</div>
+            </div>
+            <div class="stat-card low">
+                <div class="stat-value" id="stat-low">—</div>
+                <div class="stat-label">Low Risk</div>
+            </div>
+            <div class="stat-card medium">
+                <div class="stat-value" id="stat-medium">—</div>
+                <div class="stat-label">Medium Risk</div>
+            </div>
+            <div class="stat-card high">
+                <div class="stat-value" id="stat-high">—</div>
+                <div class="stat-label">High Risk</div>
+            </div>
+        </section>
+
+        <!-- Charts Grid -->
+        <section class="dashboard-grid stagger-2">
+            <div class="card glass-card">
+                <div class="card-header">
+                    <div class="icon glow-blue">📊</div>
+                    <h2>Burnout Risk Distribution</h2>
+                </div>
+                <div class="chart-container">
+                    <canvas id="distribution-chart"></canvas>
+                </div>
+            </div>
+
+            <div class="card glass-card">
+                <div class="card-header">
+                    <div class="icon glow-purple">📈</div>
+                    <h2>Risk Trend Over Weeks</h2>
+                </div>
+                <div class="chart-container">
+                    <canvas id="trend-chart"></canvas>
+                </div>
+            </div>
+
+            <div class="card full-width glass-card">
+                <div class="card-header">
+                    <div class="icon glow-cyan">🔍</div>
+                    <h2>Global Feature Importance (SHAP Analysis)</h2>
+                </div>
+                <div class="chart-container" style="height: 350px;">
+                    <canvas id="feature-chart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- Student Search -->
+        <section class="search-section card glass-card stagger-3">
+            <div class="card-header">
+                <div class="icon glow-green">🎓</div>
+                <h2>Student Lookup & Details</h2>
+            </div>
+            <div class="search-bar">
+                <input type="text" id="student-search" placeholder="Search by Student ID (e.g., STU-...)"
+                    oninput="searchStudent()">
+                <select id="risk-filter" onchange="searchStudent()">
+                    <option value="">All Risk Levels</option>
+                    <option value="High">High Risk</option>
+                    <option value="Medium">Medium Risk</option>
+                    <option value="Low">Low Risk</option>
+                </select>
+                <button onclick="searchStudent()">Search</button>
+            </div>
+            <div class="student-table-wrapper">
+                <table class="student-table">
+                    <thead>
+                        <tr>
+                            <th>Student ID</th>
+                            <th>Risk Level</th>
+                        </tr>
+                    </thead>
+                    <tbody id="student-tbody"></tbody>
+                </table>
+            </div>
+            <div id="student-result" class="student-result"></div>
+        </section>
+    </main>
+    <script src="/static/js/admin.js"></script>
+</body>
+
+</html>

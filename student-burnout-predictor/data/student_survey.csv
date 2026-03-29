@@ -1,0 +1,2401 @@
+student_id,week,sleep_hours,study_hours,late_submissions,stress_level,social_activity_freq,emotional_state,exercise_hours,screen_time,burnout_label
+STU-0224D9EC,1,,7.5,2,5,4,"Feeling okay, nothing special",,9.0,1
+STU-0224D9EC,2,8.3,5.5,1,5,3,"Doing alright, could be better",1.2,9.0,1
+STU-0224D9EC,3,7.7,8.8,1,5,3,"Average day, going through the motions",2.0,7.7,1
+STU-0224D9EC,4,7.4,8.9,2,6,3,"Average day, going through the motions",1.3,7.5,1
+STU-0224D9EC,5,7.6,6.5,1,3,3,"Feeling okay, nothing special",1.9,8.4,0
+STU-0224D9EC,6,6.3,8.4,2,6,5,Feeling calm and focused,1.8,8.2,1
+STU-0224D9EC,7,6.3,6.6,2,6,3,"Feeling okay, nothing special",2.3,8.0,1
+STU-0224D9EC,8,7.8,7.0,1,5,5,Things are manageable but not exciting,2.1,9.2,0
+STU-0224D9EC,9,7.6,7.8,1,5,4,Feeling indifferent about things,1.4,7.7,0
+STU-0224D9EC,10,6.8,10.6,2,4,3,Feeling overwhelmed with assignments,2.1,9.7,1
+STU-0224D9EC,11,8.4,8.8,1,5,4,"Neither good nor bad, just normal",1.6,6.7,0
+STU-0224D9EC,12,,7.2,1,5,4,Just getting by day to day,2.1,6.8,0
+STU-F23376DD,1,6.0,5.1,1,4,2,"Doing alright, could be better",1.7,8.9,1
+STU-F23376DD,2,5.2,6.5,1,5,2,Struggling to concentrate on anything,2.1,9.4,1
+STU-F23376DD,3,6.3,6.0,0,4,2,Happy and well-rested,2.9,10.9,0
+STU-F23376DD,4,6.7,6.6,1,5,3,Feeling confident about exams,2.3,9.5,1
+STU-F23376DD,5,6.2,6.2,1,5,1,"Feeling okay, nothing special",2.0,9.5,1
+STU-F23376DD,6,6.2,8.5,1,7,1,"Average day, going through the motions",1.8,10.7,1
+STU-F23376DD,7,6.2,8.4,1,5,2,Feeling hopeless about my grades,1.9,10.6,1
+STU-F23376DD,8,6.6,6.4,1,4,2,"Good energy, looking forward to classes",2.5,10.5,1
+STU-F23376DD,9,5.0,6.4,1,5,1,Feeling anxious about everything,2.6,12.0,1
+STU-F23376DD,10,5.9,6.2,1,5,2,Struggling to concentrate on anything,2.3,10.4,1
+STU-F23376DD,11,5.6,7.9,0,6,1,"Average day, going through the motions",2.1,10.3,1
+STU-F23376DD,12,5.9,7.4,1,4,2,Feeling calm and focused,2.7,10.6,1
+STU-706D9F27,1,6.8,8.1,0,4,3,"Average day, going through the motions",2.0,8.6,0
+STU-706D9F27,2,7.2,8.6,0,4,2,Feeling numb and disconnected,2.0,8.4,0
+STU-706D9F27,3,6.7,8.7,0,5,0,"Good energy, looking forward to classes",1.8,9.9,1
+STU-706D9F27,4,6.7,6.7,1,5,2,Just getting by day to day,2.4,8.7,1
+STU-706D9F27,5,7.2,7.6,1,5,1,Feeling confident about exams,1.3,8.1,1
+STU-706D9F27,6,7.8,7.9,1,6,4,Feeling indifferent about things,1.9,9.7,1
+STU-706D9F27,7,7.3,9.2,0,6,2,"Average day, going through the motions",1.6,8.9,1
+STU-706D9F27,8,7.4,7.1,0,6,1,"Neither good nor bad, just normal",1.3,8.4,1
+STU-706D9F27,9,6.4,9.8,1,5,2,"Doing alright, could be better",0.8,7.7,1
+STU-706D9F27,10,7.9,8.7,1,6,0,Happy and well-rested,2.3,9.9,1
+STU-706D9F27,11,7.4,6.7,1,6,2,"Doing alright, could be better",1.1,7.8,1
+STU-706D9F27,12,7.6,5.8,1,6,1,"Feeling okay, nothing special",1.3,9.3,1
+STU-25C594AA,1,6.6,4.5,2,3,3,"Feeling okay, nothing special",2.7,8.1,0
+STU-25C594AA,2,6.6,5.1,1,3,2,Feeling hopeless about my grades,2.5,7.2,0
+STU-25C594AA,3,6.5,4.1,1,2,2,"Doing alright, could be better",2.9,9.8,0
+STU-25C594AA,4,5.6,2.7,1,4,3,Feeling anxious about everything,2.3,9.5,1
+STU-25C594AA,5,5.3,5.0,2,4,0,Struggling to concentrate on anything,1.5,10.2,1
+STU-25C594AA,6,5.6,4.0,2,5,2,"Routine day, nothing remarkable",1.4,8.6,1
+STU-25C594AA,7,6.4,3.5,2,5,0,Feeling hopeless about my grades,1.2,10.0,1
+STU-25C594AA,8,4.7,3.5,2,4,0,Too much pressure from all sides,2.0,8.6,1
+STU-25C594AA,9,6.1,2.5,3,6,1,Constantly tired no matter how much I sleep,0.7,10.0,2
+STU-25C594AA,10,5.8,3.6,4,7,0,"Can't sleep well, too much anxiety",1.1,10.0,2
+STU-25C594AA,11,4.8,5.1,3,7,0,Feeling isolated and lonely,0.5,10.1,2
+STU-25C594AA,12,4.0,4.6,4,7,0,"Can't sleep well, too much anxiety",1.1,10.8,2
+STU-8030AFE0,1,4.2,10.9,1,8,0,Exhausted and burned out from studying,1.0,10.1,2
+STU-8030AFE0,2,5.4,11.8,1,5,0,"Breaking down emotionally, can't handle it",2.1,10.1,1
+STU-8030AFE0,3,4.3,10.8,1,7,0,Dreading going to class,1.7,9.9,2
+STU-8030AFE0,4,5.9,9.6,0,5,1,Dreading going to class,2.1,8.9,1
+STU-8030AFE0,5,5.0,10.4,1,6,1,Feeling isolated and lonely,2.8,9.2,1
+STU-8030AFE0,6,5.3,8.7,0,7,3,"Breaking down emotionally, can't handle it",2.9,9.7,1
+STU-8030AFE0,7,5.7,9.2,0,4,2,Things are manageable but not exciting,2.2,8.8,1
+STU-8030AFE0,8,5.3,11.9,1,6,2,"Neither good nor bad, just normal",3.0,8.5,1
+STU-8030AFE0,9,5.5,10.0,1,4,1,"Average day, going through the motions",3.9,7.9,1
+STU-8030AFE0,10,6.6,9.5,0,4,2,Feeling great and motivated today,3.3,8.1,0
+STU-8030AFE0,11,6.3,9.3,0,4,3,"Had a productive day, feeling accomplished",3.1,8.7,0
+STU-8030AFE0,12,7.1,9.5,0,4,2,Excited about upcoming projects,3.0,8.5,0
+STU-502681DA,1,7.9,7.6,3,5,3,Things are manageable but not exciting,2.2,7.6,1
+STU-502681DA,2,6.8,6.3,2,5,4,Things are manageable but not exciting,2.7,8.2,1
+STU-502681DA,3,6.4,6.1,2,5,3,"Routine day, nothing remarkable",2.7,9.2,1
+STU-502681DA,4,7.2,5.9,2,5,2,"Feeling okay, nothing special",1.7,8.6,1
+STU-502681DA,5,5.3,7.0,1,6,3,"Average day, going through the motions",2.6,7.8,1
+STU-502681DA,6,7.3,6.6,1,5,3,Feeling indifferent about things,2.4,9.3,1
+STU-502681DA,7,5.3,6.3,3,7,3,Just getting by day to day,,5.8,1
+STU-502681DA,8,6.4,6.9,2,6,4,Happy and well-rested,2.0,7.3,1
+STU-502681DA,9,7.1,5.8,1,5,3,Feeling great and motivated today,2.5,7.3,0
+STU-502681DA,10,7.4,5.0,1,4,4,"Breaking down emotionally, can't handle it",1.9,6.9,0
+STU-502681DA,11,7.5,4.9,1,5,3,"Neither good nor bad, just normal",2.5,8.7,0
+STU-502681DA,12,6.5,6.5,2,5,3,"Average day, going through the motions",2.3,8.1,1
+STU-24FA4356,1,7.1,5.2,0,1,5,"Good energy, looking forward to classes",5.1,3.1,0
+STU-24FA4356,2,8.0,7.9,0,1,5,Enjoying the learning process,4.2,2.7,0
+STU-24FA4356,3,7.8,5.1,0,1,5,Feeling balanced and in control,4.5,3.4,0
+STU-24FA4356,4,7.6,5.3,0,1,4,Feeling calm and focused,5.0,3.6,0
+STU-24FA4356,5,7.4,5.1,0,2,4,Excited about upcoming projects,5.1,5.0,0
+STU-24FA4356,6,7.0,3.7,0,3,4,Feeling confident about exams,5.5,2.3,0
+STU-24FA4356,7,,3.2,0,1,4,Excited about upcoming projects,5.0,3.4,0
+STU-24FA4356,8,8.4,7.5,0,2,4,Enjoying the learning process,,3.8,0
+STU-24FA4356,9,6.6,5.9,0,3,5,Enjoying the learning process,5.2,5.0,0
+STU-24FA4356,10,8.6,5.2,0,2,5,Feeling great and motivated today,4.9,3.9,0
+STU-24FA4356,11,6.7,4.5,0,2,4,Feeling balanced and in control,4.3,5.4,0
+STU-24FA4356,12,7.4,5.9,0,1,4,Feeling confident about exams,4.3,4.5,0
+STU-5BC9423A,1,9.0,3.9,0,3,6,Motivated to study and stay on track,3.7,4.0,0
+STU-5BC9423A,2,9.0,4.8,0,3,4,Feeling great and motivated today,3.1,3.4,0
+STU-5BC9423A,3,7.7,7.1,0,2,4,"Had a productive day, feeling accomplished",3.5,3.2,0
+STU-5BC9423A,4,7.9,4.4,0,2,6,Feeling confident about exams,2.7,4.4,0
+STU-5BC9423A,5,8.5,5.5,1,1,4,"Good energy, looking forward to classes",3.4,4.9,0
+STU-5BC9423A,6,8.7,5.5,0,2,4,Feeling calm and focused,3.1,2.4,0
+STU-5BC9423A,7,,3.8,0,2,3,Feeling great and motivated today,3.0,4.7,0
+STU-5BC9423A,8,8.6,5.3,1,2,5,Feeling calm and focused,3.4,3.1,0
+STU-5BC9423A,9,7.9,4.2,0,3,3,Feeling balanced and in control,3.3,3.2,0
+STU-5BC9423A,10,8.1,4.4,0,2,5,"Had a productive day, feeling accomplished",2.7,3.8,0
+STU-5BC9423A,11,7.4,4.7,1,1,7,"Had a productive day, feeling accomplished",3.0,2.0,0
+STU-5BC9423A,12,,4.4,0,2,5,Motivated to study and stay on track,2.8,2.6,0
+STU-F73F2B69,1,8.6,5.9,1,2,4,"Had a productive day, feeling accomplished",3.2,6.7,0
+STU-F73F2B69,2,9.1,5.6,0,1,3,Enjoying the learning process,2.8,7.0,0
+STU-F73F2B69,3,8.7,5.8,0,1,3,Excited about upcoming projects,3.5,7.1,0
+STU-F73F2B69,4,6.9,5.5,0,1,3,Excited about upcoming projects,3.0,7.4,0
+STU-F73F2B69,5,7.7,6.4,0,1,3,Motivated to study and stay on track,3.9,6.1,0
+STU-F73F2B69,6,,5.3,1,1,3,Enjoying the learning process,3.0,7.1,0
+STU-F73F2B69,7,8.5,5.8,1,2,4,Excited about upcoming projects,3.0,6.0,0
+STU-F73F2B69,8,8.5,6.3,1,1,3,"Good energy, looking forward to classes",2.7,5.6,0
+STU-F73F2B69,9,8.3,5.6,2,1,5,Enjoying the learning process,2.5,6.2,0
+STU-F73F2B69,10,7.8,7.5,0,1,4,Feeling balanced and in control,3.8,7.7,0
+STU-F73F2B69,11,7.7,5.4,0,1,4,Happy and well-rested,4.0,8.1,0
+STU-F73F2B69,12,7.8,6.8,1,2,4,Feeling calm and focused,2.9,6.9,0
+STU-FB007F54,1,7.8,3.5,0,1,4,Enjoying the learning process,4.1,4.1,0
+STU-FB007F54,2,8.3,3.9,0,1,6,Feeling calm and focused,4.7,3.9,0
+STU-FB007F54,3,8.0,4.6,0,1,5,"Good energy, looking forward to classes",5.4,3.1,0
+STU-FB007F54,4,8.1,2.6,0,1,5,Happy and well-rested,5.7,3.3,0
+STU-FB007F54,5,7.3,4.2,0,1,5,Feeling confident about exams,4.5,4.1,0
+STU-FB007F54,6,8.5,2.1,1,3,4,Motivated to study and stay on track,3.9,2.9,0
+STU-FB007F54,7,8.3,2.4,0,3,5,Enjoying the learning process,4.3,3.6,0
+STU-FB007F54,8,7.8,3.5,0,2,3,Motivated to study and stay on track,4.1,3.6,0
+STU-FB007F54,9,8.4,2.4,0,2,4,"Had a productive day, feeling accomplished",4.4,2.0,0
+STU-FB007F54,10,8.1,4.3,0,1,4,Feeling calm and focused,4.9,4.3,0
+STU-FB007F54,11,8.2,4.9,0,1,5,Feeling calm and focused,4.3,3.4,0
+STU-FB007F54,12,7.6,3.5,0,1,4,"Had a productive day, feeling accomplished",4.3,3.4,0
+STU-3B3C7956,1,4.9,8.7,3,6,1,Struggling to concentrate on anything,0.7,9.6,2
+STU-3B3C7956,2,4.5,10.7,3,7,1,Feeling overwhelmed with assignments,1.4,10.2,2
+STU-3B3C7956,3,5.1,11.6,2,7,2,Feeling anxious about everything,1.2,8.3,2
+STU-3B3C7956,4,5.7,10.5,2,6,1,Dreading going to class,2.0,10.0,2
+STU-3B3C7956,5,5.8,10.4,2,5,1,Exhausted and burned out from studying,2.2,10.3,1
+STU-3B3C7956,6,6.5,13.0,3,6,0,Feeling anxious about everything,1.9,8.9,2
+STU-3B3C7956,7,5.7,12.4,2,6,2,"Average day, going through the motions",1.6,8.8,2
+STU-3B3C7956,8,4.9,11.7,2,6,3,"Feeling okay, nothing special",2.6,8.6,1
+STU-3B3C7956,9,5.3,12.3,2,5,1,"Feeling okay, nothing special",2.2,9.0,1
+STU-3B3C7956,10,7.6,13.3,1,5,2,Feeling confident about exams,2.7,8.4,1
+STU-3B3C7956,11,6.0,11.3,1,5,2,"Had a productive day, feeling accomplished",2.7,7.9,1
+STU-3B3C7956,12,7.2,13.4,2,4,3,Enjoying the learning process,2.7,7.2,1
+STU-DE391380,1,7.6,3.7,1,5,4,"Routine day, nothing remarkable",2.3,8.1,0
+STU-DE391380,2,7.1,6.4,2,3,4,"Neither good nor bad, just normal",2.1,6.8,0
+STU-DE391380,3,6.5,6.0,1,5,3,"Routine day, nothing remarkable",2.0,6.7,1
+STU-DE391380,4,5.3,4.1,2,5,3,"Routine day, nothing remarkable",2.0,8.0,1
+STU-DE391380,5,4.8,3.7,2,6,5,Exhausted and burned out from studying,2.1,8.2,1
+STU-DE391380,6,4.9,3.9,3,6,2,Happy and well-rested,1.9,8.1,1
+STU-DE391380,7,4.7,3.5,3,6,3,Struggling to concentrate on anything,1.6,8.0,1
+STU-DE391380,8,5.0,5.4,3,7,2,Feeling hopeless about my grades,0.7,8.7,2
+STU-DE391380,9,4.1,3.3,4,9,1,Feeling hopeless about my grades,0.8,9.3,2
+STU-DE391380,10,4.4,4.5,4,8,2,Constantly tired no matter how much I sleep,0.4,9.2,2
+STU-DE391380,11,3.6,6.2,4,8,2,Feeling numb and disconnected,0.5,11.6,2
+STU-DE391380,12,3.8,2.4,4,8,1,"Breaking down emotionally, can't handle it",0.5,9.9,2
+STU-8FE3E958,1,7.4,2.3,1,4,2,"Had a productive day, feeling accomplished",3.6,5.1,0
+STU-8FE3E958,2,7.0,3.5,1,4,3,Feeling confident about exams,3.0,7.1,0
+STU-8FE3E958,3,6.5,3.3,1,5,2,Very stressed about deadlines,3.8,5.8,1
+STU-8FE3E958,4,6.9,3.9,1,4,1,"Doing alright, could be better",3.3,8.2,0
+STU-8FE3E958,5,4.9,5.3,1,6,2,"Neither good nor bad, just normal",2.8,8.0,1
+STU-8FE3E958,6,4.8,3.9,2,6,2,Feeling indifferent about things,3.2,7.9,1
+STU-8FE3E958,7,5.7,4.5,2,6,1,Constantly tired no matter how much I sleep,2.4,7.8,1
+STU-8FE3E958,8,6.0,4.7,2,6,1,Exhausted and burned out from studying,2.2,8.0,1
+STU-8FE3E958,9,5.7,4.9,2,5,0,Feeling numb and disconnected,2.3,7.9,1
+STU-8FE3E958,10,5.5,3.5,3,7,1,Very stressed about deadlines,1.9,9.2,2
+STU-8FE3E958,11,4.5,4.2,3,7,0,Constantly tired no matter how much I sleep,2.2,8.8,2
+STU-8FE3E958,12,3.7,4.4,3,8,0,Lost all motivation to study,1.5,9.3,2
+STU-B7D96831,1,6.0,6.4,3,6,3,Dreading going to class,3.1,7.9,1
+STU-B7D96831,2,6.3,6.4,2,6,3,Enjoying the learning process,3.4,7.6,1
+STU-B7D96831,3,6.1,6.8,1,8,4,Very stressed about deadlines,3.1,8.6,1
+STU-B7D96831,4,6.2,5.5,2,6,3,Feeling numb and disconnected,3.4,6.4,1
+STU-B7D96831,5,6.6,5.7,3,6,3,Things are manageable but not exciting,3.7,6.7,1
+STU-B7D96831,6,5.2,4.6,2,5,3,"Doing alright, could be better",2.8,5.5,1
+STU-B7D96831,7,4.8,7.6,3,7,3,Feeling overwhelmed with assignments,2.9,7.3,1
+STU-B7D96831,8,5.3,6.2,3,5,5,Feeling great and motivated today,3.8,7.9,1
+STU-B7D96831,9,5.8,7.4,3,7,3,Feeling isolated and lonely,3.4,4.9,1
+STU-B7D96831,10,6.3,5.3,2,6,4,Lost all motivation to study,3.2,7.6,1
+STU-B7D96831,11,5.6,6.4,3,7,3,Things are manageable but not exciting,2.3,6.1,1
+STU-B7D96831,12,6.0,5.6,2,6,2,"Routine day, nothing remarkable",3.5,7.0,1
+STU-EE130637,1,4.3,9.9,2,7,1,"Can't sleep well, too much anxiety",1.0,13.7,2
+STU-EE130637,2,3.3,11.1,2,7,1,Exhausted and burned out from studying,0.6,15.2,2
+STU-EE130637,3,4.3,10.7,3,7,2,Feeling isolated and lonely,1.2,15.0,2
+STU-EE130637,4,5.2,11.3,2,6,0,Exhausted and burned out from studying,1.5,14.4,2
+STU-EE130637,5,3.9,10.7,3,7,2,Feeling overwhelmed with assignments,0.4,14.7,2
+STU-EE130637,6,5.3,10.7,2,8,1,Feeling anxious about everything,1.3,14.4,2
+STU-EE130637,7,3.9,11.9,3,7,1,"Breaking down emotionally, can't handle it",1.3,14.5,2
+STU-EE130637,8,5.3,12.5,2,7,1,Dreading going to class,1.2,14.0,2
+STU-EE130637,9,4.6,12.5,2,6,1,Feeling overwhelmed with assignments,1.0,15.6,2
+STU-EE130637,10,4.1,10.1,3,7,0,"Breaking down emotionally, can't handle it",1.9,14.0,2
+STU-EE130637,11,3.7,11.4,4,7,1,Struggling to concentrate on anything,0.6,14.9,2
+STU-EE130637,12,3.7,10.9,3,6,0,Feeling overwhelmed with assignments,1.9,13.9,2
+STU-C7A5CE95,1,4.8,13.6,5,7,0,Feeling overwhelmed with assignments,2.5,12.6,2
+STU-C7A5CE95,2,5.6,13.5,5,7,0,Feeling anxious about everything,1.0,13.0,2
+STU-C7A5CE95,3,4.2,12.5,4,8,0,Constantly tired no matter how much I sleep,1.2,12.8,2
+STU-C7A5CE95,4,5.8,12.7,4,6,1,Dreading going to class,1.9,13.3,2
+STU-C7A5CE95,5,5.7,13.1,4,6,0,Feeling numb and disconnected,1.9,11.7,2
+STU-C7A5CE95,6,5.6,13.7,4,6,0,Dreading going to class,1.5,13.6,2
+STU-C7A5CE95,7,5.7,13.3,5,7,0,"Can't sleep well, too much anxiety",1.9,12.4,2
+STU-C7A5CE95,8,5.3,13.0,4,6,0,Feeling overwhelmed with assignments,0.6,12.8,2
+STU-C7A5CE95,9,5.1,13.1,5,7,0,Dreading going to class,1.3,12.5,2
+STU-C7A5CE95,10,5.3,12.2,5,8,0,Very stressed about deadlines,1.6,13.6,2
+STU-C7A5CE95,11,5.4,12.8,4,7,0,Feeling numb and disconnected,1.0,12.8,2
+STU-C7A5CE95,12,6.5,13.0,5,7,0,"Can't sleep well, too much anxiety",1.1,12.3,2
+STU-61DD7C17,1,6.8,6.5,2,3,2,"Had a productive day, feeling accomplished",2.0,9.1,0
+STU-61DD7C17,2,7.9,5.7,2,4,2,"Doing alright, could be better",,7.0,0
+STU-61DD7C17,3,7.1,6.2,1,4,2,"Doing alright, could be better",1.1,10.3,1
+STU-61DD7C17,4,6.5,9.1,2,4,2,"Feeling okay, nothing special",1.4,9.4,1
+STU-61DD7C17,5,,5.3,2,5,2,Things are manageable but not exciting,1.9,9.1,1
+STU-61DD7C17,6,7.0,6.6,2,5,2,Just getting by day to day,1.4,9.8,1
+STU-61DD7C17,7,6.8,5.7,3,7,1,Feeling isolated and lonely,0.6,10.0,2
+STU-61DD7C17,8,6.6,7.6,3,6,0,Exhausted and burned out from studying,0.7,10.9,2
+STU-61DD7C17,9,5.9,7.6,4,6,0,Too much pressure from all sides,0.3,10.1,2
+STU-61DD7C17,10,6.6,7.2,4,8,0,"Breaking down emotionally, can't handle it",0.5,9.6,2
+STU-61DD7C17,11,5.3,5.2,3,8,0,Struggling to concentrate on anything,0.3,11.4,2
+STU-61DD7C17,12,5.2,5.7,4,6,1,Exhausted and burned out from studying,0.2,10.5,2
+STU-DA63357F,1,7.4,4.3,0,3,5,"Good energy, looking forward to classes",2.6,4.3,0
+STU-DA63357F,2,9.1,5.0,0,2,5,Happy and well-rested,3.1,5.2,0
+STU-DA63357F,3,7.6,2.8,0,1,5,Excited about upcoming projects,3.2,5.8,0
+STU-DA63357F,4,8.8,1.6,0,2,6,"Good energy, looking forward to classes",3.1,4.6,0
+STU-DA63357F,5,8.2,4.4,0,2,5,Motivated to study and stay on track,2.7,5.6,0
+STU-DA63357F,6,8.6,3.0,1,2,5,Feeling confident about exams,3.2,6.3,0
+STU-DA63357F,7,8.0,1.9,0,3,5,"Had a productive day, feeling accomplished",3.2,5.8,0
+STU-DA63357F,8,9.4,2.8,0,3,5,Feeling great and motivated today,3.0,4.6,0
+STU-DA63357F,9,8.4,4.2,0,2,5,Motivated to study and stay on track,2.8,5.8,0
+STU-DA63357F,10,6.8,4.3,0,3,6,Feeling balanced and in control,3.5,5.4,0
+STU-DA63357F,11,8.2,4.1,1,5,6,Feeling balanced and in control,3.0,6.3,0
+STU-DA63357F,12,,4.3,0,2,5,"Had a productive day, feeling accomplished",2.9,6.3,0
+STU-1DA76B6F,1,4.6,9.2,6,10,0,Very stressed about deadlines,0.8,16.0,2
+STU-1DA76B6F,2,5.5,9.2,5,9,0,Dreading going to class,1.4,13.8,2
+STU-1DA76B6F,3,4.8,9.9,6,8,0,Exhausted and burned out from studying,1.3,13.2,2
+STU-1DA76B6F,4,5.1,10.3,5,8,0,Dreading going to class,1.2,15.3,2
+STU-1DA76B6F,5,5.2,11.1,5,8,0,Feeling isolated and lonely,0.8,13.6,2
+STU-1DA76B6F,6,5.1,7.7,6,9,0,"Can't sleep well, too much anxiety",0.9,14.3,2
+STU-1DA76B6F,7,5.4,10.5,5,9,0,Struggling to concentrate on anything,1.0,14.6,2
+STU-1DA76B6F,8,4.3,7.0,6,8,0,Very stressed about deadlines,1.5,14.5,2
+STU-1DA76B6F,9,4.7,8.2,5,9,0,Exhausted and burned out from studying,1.1,14.7,2
+STU-1DA76B6F,10,5.1,8.9,6,8,0,Struggling to concentrate on anything,0.8,14.4,2
+STU-1DA76B6F,11,5.1,7.5,6,10,0,Feeling isolated and lonely,1.1,15.1,2
+STU-1DA76B6F,12,5.8,8.8,6,8,0,"Can't sleep well, too much anxiety",2.2,13.6,2
+STU-5C3A17F1,1,7.3,5.4,3,2,4,Feeling indifferent about things,2.2,6.4,0
+STU-5C3A17F1,2,7.1,5.2,2,5,5,"Feeling okay, nothing special",,6.7,1
+STU-5C3A17F1,3,,6.9,2,4,3,Feeling indifferent about things,2.2,5.9,0
+STU-5C3A17F1,4,5.9,6.5,2,5,4,Very stressed about deadlines,1.3,8.3,1
+STU-5C3A17F1,5,6.5,4.7,3,5,4,"Can't sleep well, too much anxiety",1.3,6.4,1
+STU-5C3A17F1,6,6.0,7.6,3,6,2,"Average day, going through the motions",1.2,8.5,1
+STU-5C3A17F1,7,5.7,5.1,3,6,3,"Breaking down emotionally, can't handle it",,7.6,1
+STU-5C3A17F1,8,6.1,5.5,3,8,1,Dreading going to class,1.5,8.1,2
+STU-5C3A17F1,9,5.7,7.7,3,5,3,"Can't sleep well, too much anxiety",0.4,8.0,1
+STU-5C3A17F1,10,5.9,4.7,3,7,3,Feeling isolated and lonely,0.5,8.1,2
+STU-5C3A17F1,11,5.6,6.4,5,7,2,Feeling isolated and lonely,0.1,9.5,2
+STU-5C3A17F1,12,4.4,7.8,4,8,1,Feeling anxious about everything,0.0,9.6,2
+STU-70DDA008,1,3.7,11.2,6,4,1,Exhausted and burned out from studying,0.1,13.1,2
+STU-70DDA008,2,3.4,11.8,6,5,0,"Breaking down emotionally, can't handle it",0.2,15.0,2
+STU-70DDA008,3,4.0,9.7,6,6,0,Struggling to concentrate on anything,0.7,13.0,2
+STU-70DDA008,4,3.2,11.5,7,6,0,Exhausted and burned out from studying,0.3,14.9,2
+STU-70DDA008,5,3.3,9.8,6,7,0,Too much pressure from all sides,0.0,13.4,2
+STU-70DDA008,6,3.1,9.9,7,8,0,Too much pressure from all sides,0.0,14.5,2
+STU-70DDA008,7,4.3,8.4,6,9,0,Feeling numb and disconnected,,13.8,2
+STU-70DDA008,8,4.1,11.6,6,6,0,Feeling isolated and lonely,0.0,16.0,2
+STU-70DDA008,9,3.2,9.6,6,6,0,Dreading going to class,0.0,13.6,2
+STU-70DDA008,10,3.8,10.7,5,5,0,Constantly tired no matter how much I sleep,0.0,14.3,2
+STU-70DDA008,11,3.8,9.5,5,7,0,Feeling isolated and lonely,0.0,14.3,2
+STU-70DDA008,12,3.8,10.4,6,7,0,Feeling numb and disconnected,0.3,15.4,2
+STU-C11BF97B,1,6.8,8.3,1,5,5,Happy and well-rested,4.2,4.6,0
+STU-C11BF97B,2,7.3,7.4,1,4,3,Feeling overwhelmed with assignments,2.9,7.3,0
+STU-C11BF97B,3,6.3,6.6,0,4,3,Excited about upcoming projects,3.3,5.5,0
+STU-C11BF97B,4,6.2,8.0,1,4,1,Feeling indifferent about things,3.2,6.3,1
+STU-C11BF97B,5,6.6,7.0,1,5,3,Motivated to study and stay on track,3.3,6.9,1
+STU-C11BF97B,6,7.3,7.0,1,4,3,Things are manageable but not exciting,2.9,6.7,0
+STU-C11BF97B,7,6.0,7.1,1,5,4,"Average day, going through the motions",4.0,8.0,1
+STU-C11BF97B,8,6.8,6.9,1,4,2,Excited about upcoming projects,3.5,5.8,0
+STU-C11BF97B,9,7.1,5.0,1,6,2,Just getting by day to day,4.5,8.2,1
+STU-C11BF97B,10,5.9,5.6,0,6,3,"Neither good nor bad, just normal",3.7,6.4,1
+STU-C11BF97B,11,6.9,6.1,1,6,3,"Feeling okay, nothing special",3.0,7.9,1
+STU-C11BF97B,12,6.5,7.3,1,5,1,"Feeling okay, nothing special",4.2,6.9,1
+STU-B2E86E4A,1,7.3,4.8,2,4,4,Exhausted and burned out from studying,2.5,4.3,0
+STU-B2E86E4A,2,6.5,2.3,2,5,4,"Average day, going through the motions",1.0,5.8,1
+STU-B2E86E4A,3,6.8,5.6,2,6,3,Things are manageable but not exciting,1.4,6.8,1
+STU-B2E86E4A,4,6.7,7.4,1,6,4,"Breaking down emotionally, can't handle it",1.4,4.1,1
+STU-B2E86E4A,5,6.8,2.8,2,5,2,Feeling calm and focused,0.8,6.5,1
+STU-B2E86E4A,6,,5.6,2,6,4,Lost all motivation to study,1.6,6.5,1
+STU-B2E86E4A,7,7.3,2.2,2,7,2,Lost all motivation to study,1.1,7.4,1
+STU-B2E86E4A,8,6.3,3.2,2,6,3,"Can't sleep well, too much anxiety",0.8,5.5,1
+STU-B2E86E4A,9,5.5,2.1,3,7,2,Feeling hopeless about my grades,0.0,8.8,2
+STU-B2E86E4A,10,5.2,5.7,4,7,2,Feeling overwhelmed with assignments,0.1,8.5,2
+STU-B2E86E4A,11,6.3,3.6,3,9,3,"Can't sleep well, too much anxiety",0.1,7.3,2
+STU-B2E86E4A,12,4.8,5.3,4,8,2,"Breaking down emotionally, can't handle it",0.6,7.8,2
+STU-2F2EA7CB,1,7.2,4.9,2,4,1,Lost all motivation to study,2.8,7.8,1
+STU-2F2EA7CB,2,6.2,3.1,2,5,1,Lost all motivation to study,3.9,8.9,1
+STU-2F2EA7CB,3,7.8,5.9,1,5,2,"Doing alright, could be better",3.0,7.9,0
+STU-2F2EA7CB,4,7.9,5.7,2,5,1,"Average day, going through the motions",3.0,8.9,1
+STU-2F2EA7CB,5,7.1,5.3,2,4,1,"Feeling okay, nothing special",3.6,7.3,1
+STU-2F2EA7CB,6,,5.6,2,4,3,Exhausted and burned out from studying,3.6,8.9,0
+STU-2F2EA7CB,7,6.9,7.9,3,5,3,Motivated to study and stay on track,3.2,8.7,1
+STU-2F2EA7CB,8,7.4,6.9,3,6,1,"Doing alright, could be better",3.1,8.0,1
+STU-2F2EA7CB,9,7.3,7.3,3,5,2,"Doing alright, could be better",3.5,8.1,1
+STU-2F2EA7CB,10,6.3,5.2,2,4,1,Feeling indifferent about things,3.4,8.0,1
+STU-2F2EA7CB,11,7.1,5.3,3,5,1,Lost all motivation to study,3.3,8.9,1
+STU-2F2EA7CB,12,6.3,4.4,2,5,1,Things are manageable but not exciting,2.7,8.7,1
+STU-0DBD7513,1,7.2,5.8,2,3,3,Just getting by day to day,4.1,7.8,0
+STU-0DBD7513,2,7.9,5.0,2,4,4,Very stressed about deadlines,4.7,7.2,0
+STU-0DBD7513,3,7.4,7.2,2,6,3,Feeling isolated and lonely,3.7,6.6,1
+STU-0DBD7513,4,7.2,6.1,2,5,2,"Good energy, looking forward to classes",3.8,8.6,1
+STU-0DBD7513,5,6.5,6.3,2,6,3,Feeling balanced and in control,2.9,8.6,1
+STU-0DBD7513,6,6.0,6.6,3,5,3,Just getting by day to day,2.7,7.6,1
+STU-0DBD7513,7,4.7,5.0,3,7,2,Feeling hopeless about my grades,3.1,9.5,2
+STU-0DBD7513,8,6.0,6.5,3,7,2,Feeling anxious about everything,3.6,9.5,1
+STU-0DBD7513,9,5.0,8.6,4,7,0,Dreading going to class,2.6,9.7,2
+STU-0DBD7513,10,6.0,7.5,4,8,1,Very stressed about deadlines,2.5,9.9,2
+STU-0DBD7513,11,5.5,7.1,4,8,0,Feeling hopeless about my grades,3.5,11.0,2
+STU-0DBD7513,12,4.8,5.7,5,8,1,Feeling anxious about everything,2.6,10.4,2
+STU-19EFED29,1,6.3,5.0,2,5,2,Feeling great and motivated today,1.6,7.5,1
+STU-19EFED29,2,6.7,5.4,2,4,2,"Feeling okay, nothing special",1.4,6.5,1
+STU-19EFED29,3,6.7,6.0,2,5,2,"Doing alright, could be better",1.4,8.0,1
+STU-19EFED29,4,5.3,6.8,2,7,3,"Average day, going through the motions",1.7,6.1,1
+STU-19EFED29,5,6.9,6.0,3,5,2,Struggling to concentrate on anything,1.6,9.0,1
+STU-19EFED29,6,6.9,7.0,3,4,2,"Average day, going through the motions",1.7,6.4,1
+STU-19EFED29,7,7.1,6.5,2,6,2,Feeling indifferent about things,1.3,8.8,1
+STU-19EFED29,8,6.2,8.5,2,6,4,Things are manageable but not exciting,1.8,6.3,1
+STU-19EFED29,9,6.5,5.5,2,5,2,Feeling indifferent about things,1.5,7.1,1
+STU-19EFED29,10,6.9,5.5,2,5,3,"Doing alright, could be better",1.4,7.4,1
+STU-19EFED29,11,,7.1,3,4,3,Things are manageable but not exciting,1.6,6.9,1
+STU-19EFED29,12,5.8,7.1,3,6,2,"Neither good nor bad, just normal",0.9,7.1,1
+STU-E73126D6,1,5.2,9.2,5,7,2,Feeling anxious about everything,1.6,7.7,2
+STU-E73126D6,2,5.3,9.3,3,6,2,Feeling anxious about everything,2.0,6.8,1
+STU-E73126D6,3,5.2,7.3,4,6,2,Feeling isolated and lonely,2.2,7.0,1
+STU-E73126D6,4,4.6,8.4,3,5,1,Feeling hopeless about my grades,2.1,6.8,1
+STU-E73126D6,5,6.1,8.3,3,4,2,Dreading going to class,2.8,7.0,1
+STU-E73126D6,6,5.3,6.9,3,4,3,Feeling numb and disconnected,3.1,7.9,1
+STU-E73126D6,7,6.6,9.8,3,3,3,"Good energy, looking forward to classes",2.8,8.4,1
+STU-E73126D6,8,5.6,9.6,2,4,2,Just getting by day to day,3.1,6.3,1
+STU-E73126D6,9,6.3,8.2,2,4,3,"Routine day, nothing remarkable",2.7,7.2,1
+STU-E73126D6,10,5.6,9.0,3,3,2,Feeling calm and focused,2.8,5.7,1
+STU-E73126D6,11,6.3,9.6,2,3,4,Enjoying the learning process,3.4,7.2,0
+STU-E73126D6,12,6.1,8.0,2,2,4,Motivated to study and stay on track,3.8,6.3,0
+STU-51659E1D,1,6.1,5.0,2,5,4,"Neither good nor bad, just normal",3.6,7.3,1
+STU-51659E1D,2,6.3,6.5,1,5,3,Feeling indifferent about things,2.6,5.9,1
+STU-51659E1D,3,5.7,5.4,1,6,4,Just getting by day to day,3.0,6.2,1
+STU-51659E1D,4,5.7,6.2,2,5,1,Feeling calm and focused,2.1,7.0,1
+STU-51659E1D,5,5.4,6.5,3,4,2,"Doing alright, could be better",2.3,5.9,1
+STU-51659E1D,6,4.6,7.3,2,6,2,"Can't sleep well, too much anxiety",2.5,7.4,1
+STU-51659E1D,7,5.0,5.9,3,7,3,Feeling overwhelmed with assignments,1.9,6.3,2
+STU-51659E1D,8,4.4,7.8,3,7,1,Feeling overwhelmed with assignments,2.1,6.8,2
+STU-51659E1D,9,4.2,5.4,3,6,2,Exhausted and burned out from studying,2.0,6.5,2
+STU-51659E1D,10,5.0,5.0,4,6,2,Constantly tired no matter how much I sleep,1.6,7.4,2
+STU-51659E1D,11,3.2,5.8,4,8,1,Feeling anxious about everything,0.8,8.5,2
+STU-51659E1D,12,3.6,7.4,4,10,2,Feeling numb and disconnected,2.1,8.8,2
+STU-F88815C8,1,3.0,13.0,4,8,0,Lost all motivation to study,0.0,14.1,2
+STU-F88815C8,2,3.6,14.0,3,9,0,Very stressed about deadlines,0.3,13.5,2
+STU-F88815C8,3,3.6,12.0,3,7,2,Constantly tired no matter how much I sleep,0.0,12.4,2
+STU-F88815C8,4,3.4,12.8,3,9,1,Feeling hopeless about my grades,0.0,14.1,2
+STU-F88815C8,5,4.2,13.9,3,7,1,Too much pressure from all sides,0.0,13.8,2
+STU-F88815C8,6,,11.9,3,7,0,Feeling anxious about everything,0.0,12.7,2
+STU-F88815C8,7,3.4,14.0,4,9,0,Exhausted and burned out from studying,0.0,15.8,2
+STU-F88815C8,8,4.6,11.6,3,8,0,"Breaking down emotionally, can't handle it",0.0,13.4,2
+STU-F88815C8,9,3.0,13.9,4,7,0,"Breaking down emotionally, can't handle it",0.3,14.5,2
+STU-F88815C8,10,4.3,11.5,3,8,0,Feeling hopeless about my grades,0.2,14.5,2
+STU-F88815C8,11,3.2,12.8,3,8,0,Constantly tired no matter how much I sleep,0.5,13.3,2
+STU-F88815C8,12,4.2,11.7,4,7,1,Feeling hopeless about my grades,0.0,14.1,2
+STU-BFB291F2,1,7.7,4.6,1,1,3,Feeling calm and focused,3.7,4.5,0
+STU-BFB291F2,2,9.2,4.6,1,2,3,Excited about upcoming projects,2.4,4.4,0
+STU-BFB291F2,3,8.6,7.0,0,1,2,Feeling great and motivated today,3.1,5.7,0
+STU-BFB291F2,4,,3.9,0,1,3,"Had a productive day, feeling accomplished",2.7,4.5,0
+STU-BFB291F2,5,8.2,5.0,1,2,4,Happy and well-rested,2.6,4.5,0
+STU-BFB291F2,6,8.1,3.0,1,2,4,Feeling calm and focused,3.1,5.8,0
+STU-BFB291F2,7,,6.4,1,2,4,Excited about upcoming projects,2.9,3.8,0
+STU-BFB291F2,8,8.5,5.8,0,1,4,Enjoying the learning process,3.4,5.3,0
+STU-BFB291F2,9,8.8,4.1,1,2,5,Motivated to study and stay on track,2.8,4.1,0
+STU-BFB291F2,10,8.1,5.2,0,1,4,Feeling great and motivated today,3.1,5.4,0
+STU-BFB291F2,11,8.5,5.4,1,1,3,Enjoying the learning process,2.3,5.8,0
+STU-BFB291F2,12,8.4,4.2,0,1,3,Feeling calm and focused,2.3,4.5,0
+STU-54C40AA2,1,,6.8,2,5,3,Very stressed about deadlines,2.2,6.0,1
+STU-54C40AA2,2,7.6,7.9,2,4,2,"Routine day, nothing remarkable",2.0,6.4,0
+STU-54C40AA2,3,7.2,4.9,2,4,2,Just getting by day to day,2.1,7.5,1
+STU-54C40AA2,4,6.5,6.7,2,4,3,Constantly tired no matter how much I sleep,2.3,6.7,0
+STU-54C40AA2,5,7.0,7.6,2,6,1,Things are manageable but not exciting,2.0,7.2,1
+STU-54C40AA2,6,7.4,6.5,2,6,1,Dreading going to class,1.6,8.3,1
+STU-54C40AA2,7,6.3,3.6,2,7,0,Constantly tired no matter how much I sleep,0.5,7.1,2
+STU-54C40AA2,8,5.2,5.3,3,7,1,"Can't sleep well, too much anxiety",1.0,7.8,2
+STU-54C40AA2,9,4.8,4.8,3,7,0,"Breaking down emotionally, can't handle it",0.6,10.7,2
+STU-54C40AA2,10,6.4,6.9,3,7,0,Feeling numb and disconnected,1.1,9.3,2
+STU-54C40AA2,11,5.4,5.7,4,9,0,Constantly tired no matter how much I sleep,1.1,11.3,2
+STU-54C40AA2,12,5.0,6.0,3,8,0,Constantly tired no matter how much I sleep,0.7,9.8,2
+STU-ADA96696,1,6.1,6.5,3,9,0,Feeling isolated and lonely,0.2,12.6,2
+STU-ADA96696,2,4.6,7.4,2,9,0,Lost all motivation to study,,12.9,2
+STU-ADA96696,3,5.2,8.1,2,10,0,Exhausted and burned out from studying,0.7,13.0,2
+STU-ADA96696,4,6.1,7.3,3,10,0,Feeling numb and disconnected,0.2,13.3,2
+STU-ADA96696,5,6.0,10.9,1,9,0,Too much pressure from all sides,0.9,13.6,2
+STU-ADA96696,6,4.4,8.8,3,10,0,Feeling isolated and lonely,0.4,12.5,2
+STU-ADA96696,7,6.0,6.9,3,10,0,Lost all motivation to study,0.0,12.6,2
+STU-ADA96696,8,5.4,8.2,3,10,0,Lost all motivation to study,0.4,12.4,2
+STU-ADA96696,9,5.2,7.4,3,9,1,Dreading going to class,0.8,12.5,2
+STU-ADA96696,10,5.9,8.1,3,10,0,Constantly tired no matter how much I sleep,0.3,12.9,2
+STU-ADA96696,11,6.0,7.2,2,10,0,Too much pressure from all sides,1.2,13.7,2
+STU-ADA96696,12,6.3,9.4,3,10,0,Exhausted and burned out from studying,0.0,12.7,2
+STU-23117662,1,8.5,6.4,2,4,2,"Average day, going through the motions",2.7,5.3,0
+STU-23117662,2,7.2,8.5,3,6,1,"Doing alright, could be better",2.8,6.2,1
+STU-23117662,3,5.9,7.9,2,5,1,Just getting by day to day,2.6,6.7,1
+STU-23117662,4,6.7,6.9,3,5,2,Very stressed about deadlines,3.2,4.6,1
+STU-23117662,5,7.5,8.0,2,6,2,Feeling calm and focused,2.8,6.8,1
+STU-23117662,6,7.5,7.2,1,4,2,"Neither good nor bad, just normal",2.3,8.1,0
+STU-23117662,7,6.1,7.9,2,4,0,"Average day, going through the motions",3.4,6.6,1
+STU-23117662,8,7.6,8.3,2,5,2,Just getting by day to day,2.8,7.0,1
+STU-23117662,9,7.0,9.0,2,4,2,Things are manageable but not exciting,3.3,6.0,1
+STU-23117662,10,5.9,8.4,1,5,2,Happy and well-rested,3.2,7.5,1
+STU-23117662,11,7.2,7.0,2,5,3,"Feeling okay, nothing special",2.4,6.1,1
+STU-23117662,12,5.9,7.3,1,4,1,Lost all motivation to study,3.0,6.7,1
+STU-D9DA3279,1,5.7,8.5,4,10,0,Feeling anxious about everything,0.8,14.0,2
+STU-D9DA3279,2,5.7,8.7,2,10,0,Feeling hopeless about my grades,0.9,13.9,2
+STU-D9DA3279,3,4.7,9.0,3,8,0,Constantly tired no matter how much I sleep,0.9,13.9,2
+STU-D9DA3279,4,5.3,7.7,3,10,0,Feeling overwhelmed with assignments,1.4,14.1,2
+STU-D9DA3279,5,6.1,7.3,2,9,0,Struggling to concentrate on anything,0.2,14.9,2
+STU-D9DA3279,6,5.3,9.4,2,9,0,Feeling isolated and lonely,1.1,14.1,2
+STU-D9DA3279,7,5.8,10.5,3,9,0,Lost all motivation to study,0.5,14.2,2
+STU-D9DA3279,8,5.0,8.9,2,9,0,Feeling hopeless about my grades,0.1,13.4,2
+STU-D9DA3279,9,3.7,8.2,2,10,0,Feeling numb and disconnected,0.9,15.5,2
+STU-D9DA3279,10,5.7,10.2,3,8,0,Feeling numb and disconnected,1.2,13.8,2
+STU-D9DA3279,11,5.5,9.8,2,10,0,Feeling hopeless about my grades,1.5,13.7,2
+STU-D9DA3279,12,5.9,10.0,2,10,0,Dreading going to class,1.5,13.9,2
+STU-AA6F9EB3,1,8.1,5.2,0,3,3,Enjoying the learning process,5.9,6.6,0
+STU-AA6F9EB3,2,,4.2,0,4,4,Feeling balanced and in control,6.0,6.1,0
+STU-AA6F9EB3,3,7.4,4.5,0,1,4,Feeling calm and focused,5.1,4.8,0
+STU-AA6F9EB3,4,7.9,5.1,0,2,3,Motivated to study and stay on track,5.8,6.0,0
+STU-AA6F9EB3,5,8.0,6.5,0,3,3,Feeling calm and focused,5.5,6.5,0
+STU-AA6F9EB3,6,7.7,5.1,0,3,3,"Good energy, looking forward to classes",5.0,5.2,0
+STU-AA6F9EB3,7,7.4,5.7,0,3,2,Happy and well-rested,5.9,5.7,0
+STU-AA6F9EB3,8,8.2,4.0,0,1,3,Motivated to study and stay on track,5.4,5.5,0
+STU-AA6F9EB3,9,7.7,5.5,0,3,4,Feeling great and motivated today,6.1,5.5,0
+STU-AA6F9EB3,10,8.2,6.4,0,3,3,Happy and well-rested,6.0,5.3,0
+STU-AA6F9EB3,11,8.6,5.6,0,2,3,Feeling confident about exams,5.3,7.2,0
+STU-AA6F9EB3,12,7.1,6.3,0,2,3,Happy and well-rested,5.4,6.9,0
+STU-97CEE028,1,6.0,5.3,2,4,2,"Routine day, nothing remarkable",3.7,8.0,1
+STU-97CEE028,2,6.5,7.0,3,7,1,Feeling anxious about everything,2.6,7.1,1
+STU-97CEE028,3,6.3,6.2,2,4,2,Things are manageable but not exciting,3.2,8.8,1
+STU-97CEE028,4,7.9,3.6,2,5,3,"Feeling okay, nothing special",3.6,6.3,0
+STU-97CEE028,5,6.9,5.9,3,5,0,Happy and well-rested,2.9,7.8,1
+STU-97CEE028,6,,3.4,2,6,1,Motivated to study and stay on track,3.2,8.7,1
+STU-97CEE028,7,7.7,3.3,3,7,1,"Good energy, looking forward to classes",3.2,7.2,1
+STU-97CEE028,8,6.7,5.0,2,5,2,"Doing alright, could be better",4.0,6.3,1
+STU-97CEE028,9,,5.7,2,6,2,Just getting by day to day,4.1,6.9,1
+STU-97CEE028,10,6.8,4.0,2,4,2,Things are manageable but not exciting,4.1,7.4,0
+STU-97CEE028,11,7.1,4.9,2,5,4,Things are manageable but not exciting,3.7,6.6,0
+STU-97CEE028,12,6.5,5.6,2,5,1,"Average day, going through the motions",2.9,8.2,1
+STU-30798C0A,1,4.0,9.7,3,8,0,Constantly tired no matter how much I sleep,0.6,11.4,2
+STU-30798C0A,2,3.9,8.5,3,7,2,Feeling overwhelmed with assignments,0.0,13.1,2
+STU-30798C0A,3,3.8,9.0,3,6,1,"Breaking down emotionally, can't handle it",1.1,12.6,2
+STU-30798C0A,4,5.2,7.4,3,7,0,Dreading going to class,0.4,12.1,2
+STU-30798C0A,5,4.0,7.1,3,8,0,Feeling overwhelmed with assignments,0.8,13.7,2
+STU-30798C0A,6,3.2,9.4,3,7,1,Struggling to concentrate on anything,0.4,14.2,2
+STU-30798C0A,7,5.2,9.2,2,7,0,Exhausted and burned out from studying,0.4,12.2,2
+STU-30798C0A,8,3.4,9.0,3,7,1,Too much pressure from all sides,0.3,11.5,2
+STU-30798C0A,9,4.7,10.7,3,6,0,Very stressed about deadlines,0.2,13.0,2
+STU-30798C0A,10,3.5,9.1,3,8,0,Lost all motivation to study,0.2,14.5,2
+STU-30798C0A,11,3.2,7.7,3,8,0,Too much pressure from all sides,1.4,12.2,2
+STU-30798C0A,12,3.0,7.9,2,7,1,Feeling overwhelmed with assignments,0.6,12.4,2
+STU-151F8422,1,7.6,4.2,0,2,4,Feeling great and motivated today,4.2,6.6,0
+STU-151F8422,2,7.3,6.0,0,1,2,Feeling calm and focused,4.0,5.7,0
+STU-151F8422,3,8.4,5.7,0,1,3,Feeling calm and focused,3.4,7.2,0
+STU-151F8422,4,7.4,4.7,0,1,5,Feeling great and motivated today,3.8,4.9,0
+STU-151F8422,5,7.6,3.7,0,1,3,Feeling balanced and in control,3.4,4.7,0
+STU-151F8422,6,7.8,5.8,0,2,5,Excited about upcoming projects,3.8,4.6,0
+STU-151F8422,7,,4.3,0,1,3,Feeling calm and focused,3.7,7.3,0
+STU-151F8422,8,8.6,5.9,0,1,4,Excited about upcoming projects,3.7,5.6,0
+STU-151F8422,9,8.3,3.3,0,2,4,Motivated to study and stay on track,2.7,5.5,0
+STU-151F8422,10,9.2,6.9,0,2,4,"Had a productive day, feeling accomplished",3.8,6.2,0
+STU-151F8422,11,7.7,3.7,1,3,4,Feeling balanced and in control,4.2,5.9,0
+STU-151F8422,12,7.4,5.1,0,1,2,Feeling calm and focused,3.5,5.4,0
+STU-F8D53BB5,1,4.3,9.1,3,10,0,Constantly tired no matter how much I sleep,0.0,10.4,2
+STU-F8D53BB5,2,4.7,6.4,2,9,1,"Breaking down emotionally, can't handle it",0.0,10.6,2
+STU-F8D53BB5,3,4.7,7.7,3,9,0,Feeling isolated and lonely,0.0,10.5,2
+STU-F8D53BB5,4,,8.5,2,9,1,Lost all motivation to study,0.1,10.6,2
+STU-F8D53BB5,5,5.7,8.3,2,10,0,Struggling to concentrate on anything,0.4,10.1,2
+STU-F8D53BB5,6,5.3,10.6,3,10,1,"Can't sleep well, too much anxiety",0.0,11.2,2
+STU-F8D53BB5,7,3.6,7.6,4,10,0,Feeling anxious about everything,0.0,8.6,2
+STU-F8D53BB5,8,5.1,8.8,4,8,1,Feeling anxious about everything,0.3,10.1,2
+STU-F8D53BB5,9,4.7,7.7,3,10,1,"Breaking down emotionally, can't handle it",0.6,10.0,2
+STU-F8D53BB5,10,4.0,9.5,3,9,0,"Breaking down emotionally, can't handle it",0.2,8.5,2
+STU-F8D53BB5,11,4.5,8.2,2,8,0,Very stressed about deadlines,0.0,9.6,2
+STU-F8D53BB5,12,4.0,10.8,4,8,1,Lost all motivation to study,0.0,10.3,2
+STU-C4C7C460,1,7.4,5.1,2,3,3,Feeling isolated and lonely,2.9,6.4,0
+STU-C4C7C460,2,6.8,3.5,1,5,2,Feeling great and motivated today,3.4,5.6,1
+STU-C4C7C460,3,6.3,4.5,2,4,3,Feeling anxious about everything,2.2,6.2,1
+STU-C4C7C460,4,,5.8,2,8,1,Things are manageable but not exciting,3.3,5.5,1
+STU-C4C7C460,5,7.5,4.8,2,6,1,"Doing alright, could be better",3.1,7.1,1
+STU-C4C7C460,6,6.0,5.0,2,6,2,Feeling calm and focused,1.5,7.8,1
+STU-C4C7C460,7,6.6,3.1,2,7,2,Very stressed about deadlines,2.9,7.7,1
+STU-C4C7C460,8,5.5,4.0,4,7,1,"Breaking down emotionally, can't handle it",1.5,7.2,2
+STU-C4C7C460,9,5.4,4.4,5,7,3,Lost all motivation to study,1.9,8.5,2
+STU-C4C7C460,10,5.3,5.4,3,9,2,Feeling isolated and lonely,1.5,7.3,2
+STU-C4C7C460,11,5.9,4.2,5,8,1,Feeling numb and disconnected,1.5,8.5,2
+STU-C4C7C460,12,4.2,6.3,4,9,0,Too much pressure from all sides,1.4,8.4,2
+STU-749126D7,1,7.0,6.6,0,4,5,"Average day, going through the motions",1.5,5.3,0
+STU-749126D7,2,6.4,7.3,1,5,5,"Feeling okay, nothing special",1.8,5.6,0
+STU-749126D7,3,6.1,5.6,1,6,4,Things are manageable but not exciting,2.5,5.1,1
+STU-749126D7,4,5.8,8.2,1,5,3,"Average day, going through the motions",1.5,6.2,1
+STU-749126D7,5,6.4,7.6,2,8,4,Just getting by day to day,1.8,7.0,1
+STU-749126D7,6,5.5,6.2,1,6,3,Happy and well-rested,1.2,6.5,1
+STU-749126D7,7,5.0,6.8,3,7,2,Feeling numb and disconnected,1.6,7.2,2
+STU-749126D7,8,5.2,7.4,2,6,2,Constantly tired no matter how much I sleep,0.1,7.3,1
+STU-749126D7,9,5.3,5.6,3,7,2,Very stressed about deadlines,,8.0,2
+STU-749126D7,10,4.4,5.8,3,7,2,Feeling hopeless about my grades,0.8,6.7,2
+STU-749126D7,11,4.6,5.5,2,8,2,Struggling to concentrate on anything,0.8,7.9,2
+STU-749126D7,12,4.8,4.6,3,8,1,Too much pressure from all sides,0.0,8.6,2
+STU-2AB4340C,1,8.9,4.1,0,1,5,Motivated to study and stay on track,2.9,5.0,0
+STU-2AB4340C,2,8.3,5.4,0,1,5,Excited about upcoming projects,3.9,4.4,0
+STU-2AB4340C,3,7.4,5.2,0,1,5,Happy and well-rested,3.5,4.6,0
+STU-2AB4340C,4,7.2,5.5,0,1,5,Excited about upcoming projects,3.1,4.1,0
+STU-2AB4340C,5,8.2,5.1,0,1,5,Enjoying the learning process,2.9,3.6,0
+STU-2AB4340C,6,7.9,6.0,0,1,4,"Good energy, looking forward to classes",3.2,2.7,0
+STU-2AB4340C,7,8.0,5.3,0,1,5,Feeling balanced and in control,3.1,3.2,0
+STU-2AB4340C,8,7.7,4.2,0,1,5,Enjoying the learning process,3.0,3.2,0
+STU-2AB4340C,9,7.8,4.2,0,1,5,Motivated to study and stay on track,3.4,4.8,0
+STU-2AB4340C,10,7.8,5.8,0,1,4,Motivated to study and stay on track,3.5,3.4,0
+STU-2AB4340C,11,8.9,4.1,0,1,5,Happy and well-rested,2.8,2.5,0
+STU-2AB4340C,12,9.1,3.7,0,1,4,Feeling balanced and in control,2.9,3.4,0
+STU-C354E7B0,1,3.5,12.7,6,8,0,Feeling isolated and lonely,0.8,11.5,2
+STU-C354E7B0,2,3.1,14.0,6,7,0,Struggling to concentrate on anything,1.0,12.0,2
+STU-C354E7B0,3,4.4,14.0,7,6,0,Feeling numb and disconnected,0.8,13.4,2
+STU-C354E7B0,4,4.7,11.9,7,6,0,Exhausted and burned out from studying,1.2,12.2,2
+STU-C354E7B0,5,3.6,12.4,6,7,0,Feeling numb and disconnected,0.6,12.1,2
+STU-C354E7B0,6,3.9,12.3,7,7,0,Very stressed about deadlines,1.5,12.9,2
+STU-C354E7B0,7,4.2,10.7,6,6,0,Feeling isolated and lonely,1.0,11.1,2
+STU-C354E7B0,8,4.0,13.0,6,7,0,Constantly tired no matter how much I sleep,0.6,12.0,2
+STU-C354E7B0,9,4.1,13.6,6,7,0,Exhausted and burned out from studying,1.3,12.1,2
+STU-C354E7B0,10,4.4,12.8,7,6,0,Lost all motivation to study,1.2,11.7,2
+STU-C354E7B0,11,,13.7,6,7,0,Constantly tired no matter how much I sleep,2.2,12.9,2
+STU-C354E7B0,12,3.7,10.9,7,8,0,Feeling anxious about everything,0.6,12.5,2
+STU-3283EA68,1,6.7,7.2,2,5,4,Things are manageable but not exciting,2.1,9.9,1
+STU-3283EA68,2,7.4,7.3,2,5,3,"Routine day, nothing remarkable",2.3,9.6,1
+STU-3283EA68,3,7.0,6.7,1,5,4,"Can't sleep well, too much anxiety",2.4,9.3,0
+STU-3283EA68,4,7.6,7.8,2,6,3,Just getting by day to day,1.4,9.6,1
+STU-3283EA68,5,7.1,6.2,1,6,4,Just getting by day to day,2.2,9.8,1
+STU-3283EA68,6,7.9,7.4,1,6,2,Feeling indifferent about things,3.0,9.6,1
+STU-3283EA68,7,5.9,7.0,2,5,3,"Doing alright, could be better",2.0,9.7,1
+STU-3283EA68,8,6.4,7.6,2,4,2,Happy and well-rested,2.1,9.8,1
+STU-3283EA68,9,7.0,5.6,2,5,4,"Doing alright, could be better",1.7,10.5,1
+STU-3283EA68,10,6.0,7.5,1,5,4,"Routine day, nothing remarkable",2.1,9.6,1
+STU-3283EA68,11,6.6,7.1,2,6,4,"Feeling okay, nothing special",2.2,10.6,1
+STU-3283EA68,12,6.5,8.0,2,5,4,Feeling calm and focused,1.1,9.9,1
+STU-70747FF4,1,5.8,9.5,2,4,2,"Doing alright, could be better",2.7,9.2,1
+STU-70747FF4,2,6.5,7.8,2,3,3,Just getting by day to day,2.5,8.6,0
+STU-70747FF4,3,6.8,5.3,1,3,2,Just getting by day to day,3.4,8.8,0
+STU-70747FF4,4,8.1,5.8,2,3,2,Just getting by day to day,3.1,9.6,0
+STU-70747FF4,5,7.0,8.0,2,5,2,"Routine day, nothing remarkable",3.2,7.9,1
+STU-70747FF4,6,7.5,7.3,2,2,2,Feeling indifferent about things,2.9,9.8,0
+STU-70747FF4,7,6.7,7.0,0,4,2,"Doing alright, could be better",3.8,8.8,0
+STU-70747FF4,8,6.9,6.7,1,3,1,"Neither good nor bad, just normal",2.6,9.3,0
+STU-70747FF4,9,5.4,7.2,2,3,2,Motivated to study and stay on track,3.2,8.0,0
+STU-70747FF4,10,6.3,7.1,2,5,2,Feeling indifferent about things,3.5,8.7,1
+STU-70747FF4,11,7.4,6.9,1,4,3,Feeling numb and disconnected,3.9,9.3,0
+STU-70747FF4,12,7.8,8.5,2,4,2,Feeling calm and focused,2.7,7.1,0
+STU-F0422793,1,5.8,5.7,2,5,3,Feeling indifferent about things,2.5,7.3,1
+STU-F0422793,2,4.1,2.8,1,4,3,Enjoying the learning process,2.4,9.0,1
+STU-F0422793,3,5.0,3.9,3,5,3,Feeling great and motivated today,2.8,8.4,1
+STU-F0422793,4,5.1,4.2,1,5,2,Dreading going to class,2.4,10.0,1
+STU-F0422793,5,4.7,5.4,2,6,1,"Neither good nor bad, just normal",1.8,9.9,1
+STU-F0422793,6,5.7,4.7,3,6,2,"Routine day, nothing remarkable",1.7,9.1,1
+STU-F0422793,7,4.7,5.4,3,7,2,Very stressed about deadlines,1.9,8.1,2
+STU-F0422793,8,4.4,3.1,3,7,2,Feeling numb and disconnected,1.8,10.4,2
+STU-F0422793,9,4.4,5.8,4,7,1,Feeling overwhelmed with assignments,0.8,10.6,2
+STU-F0422793,10,5.3,4.1,4,7,2,Feeling anxious about everything,1.3,8.7,2
+STU-F0422793,11,4.1,5.7,4,7,1,Feeling isolated and lonely,1.4,10.5,2
+STU-F0422793,12,3.0,5.8,4,8,0,Constantly tired no matter how much I sleep,0.2,9.6,2
+STU-DB532F69,1,8.6,4.9,1,2,3,Just getting by day to day,2.5,6.8,0
+STU-DB532F69,2,7.5,5.9,2,3,3,Feeling great and motivated today,1.6,8.4,0
+STU-DB532F69,3,6.7,7.4,2,4,2,"Routine day, nothing remarkable",1.6,7.4,1
+STU-DB532F69,4,7.2,6.1,2,4,2,"Had a productive day, feeling accomplished",2.0,8.6,1
+STU-DB532F69,5,6.8,3.9,3,4,3,"Average day, going through the motions",1.8,9.0,1
+STU-DB532F69,6,8.1,4.0,2,6,2,"Feeling okay, nothing special",1.2,8.3,1
+STU-DB532F69,7,6.2,4.6,2,5,1,"Can't sleep well, too much anxiety",0.6,9.7,1
+STU-DB532F69,8,6.2,5.9,3,5,2,"Can't sleep well, too much anxiety",0.5,9.9,1
+STU-DB532F69,9,6.5,5.2,3,6,1,Lost all motivation to study,1.2,8.8,1
+STU-DB532F69,10,6.3,4.9,3,8,1,Feeling anxious about everything,0.7,10.0,2
+STU-DB532F69,11,6.3,5.0,3,6,1,Feeling isolated and lonely,0.2,9.4,2
+STU-DB532F69,12,5.5,5.5,3,7,1,Very stressed about deadlines,0.0,10.8,2
+STU-606CCBD6,1,6.0,5.1,2,4,1,Very stressed about deadlines,2.0,6.7,1
+STU-606CCBD6,2,7.5,6.1,2,4,2,Things are manageable but not exciting,2.3,6.5,0
+STU-606CCBD6,3,6.2,6.4,2,3,3,"Doing alright, could be better",2.4,6.7,0
+STU-606CCBD6,4,6.1,7.2,2,4,1,Things are manageable but not exciting,2.3,5.8,1
+STU-606CCBD6,5,7.9,7.0,1,5,1,"Routine day, nothing remarkable",2.4,6.3,1
+STU-606CCBD6,6,5.8,6.5,2,5,2,Things are manageable but not exciting,2.2,5.3,1
+STU-606CCBD6,7,6.3,5.2,2,6,1,"Feeling okay, nothing special",2.6,6.7,1
+STU-606CCBD6,8,7.0,5.1,3,4,2,"Average day, going through the motions",1.9,7.2,1
+STU-606CCBD6,9,6.4,5.3,2,5,2,Exhausted and burned out from studying,2.4,5.7,1
+STU-606CCBD6,10,5.5,7.0,2,4,1,Feeling indifferent about things,2.2,5.0,1
+STU-606CCBD6,11,6.2,5.4,3,3,3,"Neither good nor bad, just normal",2.1,6.4,0
+STU-606CCBD6,12,6.7,7.3,2,4,1,"Average day, going through the motions",2.9,8.3,1
+STU-EC2ED436,1,4.5,12.7,4,5,0,"Can't sleep well, too much anxiety",0.3,10.3,2
+STU-EC2ED436,2,4.9,13.3,4,6,0,Feeling overwhelmed with assignments,0.7,10.4,2
+STU-EC2ED436,3,3.2,11.8,4,7,0,Feeling hopeless about my grades,0.4,11.8,2
+STU-EC2ED436,4,,12.2,4,6,0,Constantly tired no matter how much I sleep,1.0,11.0,2
+STU-EC2ED436,5,4.4,11.2,4,6,0,"Breaking down emotionally, can't handle it",1.4,11.4,2
+STU-EC2ED436,6,3.8,12.6,4,7,0,Feeling anxious about everything,0.8,11.3,2
+STU-EC2ED436,7,3.9,11.7,4,6,0,Constantly tired no matter how much I sleep,0.8,10.5,2
+STU-EC2ED436,8,4.2,13.1,4,9,0,Feeling isolated and lonely,1.1,9.6,2
+STU-EC2ED436,9,4.9,12.6,4,7,0,Feeling overwhelmed with assignments,0.6,12.8,2
+STU-EC2ED436,10,4.8,12.4,3,7,0,Exhausted and burned out from studying,0.6,11.7,2
+STU-EC2ED436,11,3.9,11.8,3,7,0,Feeling isolated and lonely,1.6,12.2,2
+STU-EC2ED436,12,4.2,12.4,3,8,0,"Breaking down emotionally, can't handle it",1.0,12.2,2
+STU-AFE8742F,1,5.2,10.8,5,8,1,Feeling isolated and lonely,2.1,8.7,2
+STU-AFE8742F,2,5.2,9.8,4,6,1,"Breaking down emotionally, can't handle it",2.1,7.5,2
+STU-AFE8742F,3,6.6,8.8,4,7,2,Feeling numb and disconnected,2.5,8.4,2
+STU-AFE8742F,4,5.6,10.5,4,5,2,Constantly tired no matter how much I sleep,2.7,7.6,1
+STU-AFE8742F,5,5.4,10.0,4,7,2,Very stressed about deadlines,2.5,7.5,2
+STU-AFE8742F,6,5.8,9.3,4,6,0,Too much pressure from all sides,2.9,5.9,2
+STU-AFE8742F,7,5.7,9.8,3,5,3,Feeling indifferent about things,3.3,5.6,1
+STU-AFE8742F,8,6.4,9.5,3,5,3,"Doing alright, could be better",3.4,8.1,1
+STU-AFE8742F,9,8.1,11.4,4,5,3,"Doing alright, could be better",3.9,6.2,1
+STU-AFE8742F,10,7.7,8.3,4,5,3,Excited about upcoming projects,4.0,6.7,1
+STU-AFE8742F,11,,9.7,3,4,4,"Good energy, looking forward to classes",3.7,4.9,1
+STU-AFE8742F,12,6.6,10.9,3,3,4,Excited about upcoming projects,4.0,7.3,0
+STU-C57C7C0A,1,6.5,3.6,1,5,3,Excited about upcoming projects,2.9,4.4,1
+STU-C57C7C0A,2,5.4,6.2,1,5,1,Feeling indifferent about things,3.3,5.8,1
+STU-C57C7C0A,3,6.6,4.0,2,5,3,"Routine day, nothing remarkable",2.9,5.9,1
+STU-C57C7C0A,4,6.3,3.8,3,6,1,Things are manageable but not exciting,3.2,5.5,1
+STU-C57C7C0A,5,4.9,5.2,2,7,2,Dreading going to class,2.5,5.9,1
+STU-C57C7C0A,6,6.0,3.7,3,6,2,"Routine day, nothing remarkable",2.0,7.5,1
+STU-C57C7C0A,7,4.9,5.0,3,7,3,Very stressed about deadlines,1.9,7.6,2
+STU-C57C7C0A,8,5.3,3.9,3,8,0,Feeling anxious about everything,2.3,7.3,2
+STU-C57C7C0A,9,4.1,2.1,3,9,0,Feeling overwhelmed with assignments,1.5,6.5,2
+STU-C57C7C0A,10,4.2,4.2,3,8,0,Feeling hopeless about my grades,0.8,7.5,2
+STU-C57C7C0A,11,3.2,4.6,4,9,0,"Breaking down emotionally, can't handle it",1.4,7.2,2
+STU-C57C7C0A,12,3.4,4.2,5,7,0,Struggling to concentrate on anything,1.1,8.2,2
+STU-11C7716D,1,4.7,10.1,5,6,0,Feeling anxious about everything,1.2,10.9,2
+STU-11C7716D,2,4.0,9.0,5,7,1,Feeling isolated and lonely,1.5,11.4,2
+STU-11C7716D,3,3.7,10.8,4,7,0,Feeling overwhelmed with assignments,1.6,12.3,2
+STU-11C7716D,4,3.5,10.7,5,6,0,Very stressed about deadlines,1.7,9.2,2
+STU-11C7716D,5,5.0,10.9,5,6,0,Exhausted and burned out from studying,1.8,9.9,2
+STU-11C7716D,6,3.6,11.3,4,6,0,Too much pressure from all sides,1.4,9.4,2
+STU-11C7716D,7,4.5,10.7,6,5,0,Feeling numb and disconnected,1.4,10.1,2
+STU-11C7716D,8,5.8,10.1,5,8,0,Feeling numb and disconnected,1.0,10.3,2
+STU-11C7716D,9,3.8,8.5,4,8,0,Feeling anxious about everything,1.3,10.7,2
+STU-11C7716D,10,,11.7,4,7,0,Feeling anxious about everything,1.3,11.1,2
+STU-11C7716D,11,4.2,9.4,5,6,0,Feeling overwhelmed with assignments,1.5,10.0,2
+STU-11C7716D,12,5.3,10.0,5,6,0,Lost all motivation to study,1.5,10.3,2
+STU-040F90C5,1,7.9,5.7,2,4,3,Feeling indifferent about things,3.9,9.1,0
+STU-040F90C5,2,6.9,6.5,2,4,5,"Neither good nor bad, just normal",3.8,10.0,0
+STU-040F90C5,3,6.1,7.0,3,5,4,"Routine day, nothing remarkable",3.6,9.9,1
+STU-040F90C5,4,7.4,4.9,2,6,5,"Can't sleep well, too much anxiety",3.8,9.0,1
+STU-040F90C5,5,6.7,6.0,2,6,3,Feeling hopeless about my grades,3.9,9.8,1
+STU-040F90C5,6,7.1,5.0,3,5,4,"Routine day, nothing remarkable",3.3,9.7,1
+STU-040F90C5,7,6.5,6.5,2,6,4,Constantly tired no matter how much I sleep,3.1,10.4,1
+STU-040F90C5,8,7.9,6.5,2,4,4,Just getting by day to day,3.4,9.8,0
+STU-040F90C5,9,6.6,5.8,2,4,4,"Average day, going through the motions",4.3,9.4,0
+STU-040F90C5,10,6.9,4.6,2,4,3,Struggling to concentrate on anything,3.3,8.6,0
+STU-040F90C5,11,8.2,6.3,2,5,4,"Routine day, nothing remarkable",4.1,10.2,0
+STU-040F90C5,12,6.8,7.7,3,7,4,Things are manageable but not exciting,3.4,10.0,1
+STU-9436BAFF,1,5.9,3.6,3,4,4,Dreading going to class,2.0,6.3,1
+STU-9436BAFF,2,6.3,6.4,1,3,3,"Had a productive day, feeling accomplished",1.3,6.9,0
+STU-9436BAFF,3,7.1,7.0,2,4,2,Just getting by day to day,1.8,7.0,1
+STU-9436BAFF,4,5.8,5.1,2,5,4,Happy and well-rested,2.4,7.0,1
+STU-9436BAFF,5,5.5,6.1,3,3,4,Feeling numb and disconnected,1.1,6.9,1
+STU-9436BAFF,6,6.8,3.5,3,5,3,Too much pressure from all sides,1.0,7.1,1
+STU-9436BAFF,7,4.6,6.8,3,6,4,Feeling numb and disconnected,0.4,8.4,1
+STU-9436BAFF,8,6.0,5.6,3,4,4,Dreading going to class,1.4,8.7,1
+STU-9436BAFF,9,5.0,4.9,4,7,1,Constantly tired no matter how much I sleep,0.6,10.0,2
+STU-9436BAFF,10,5.0,6.4,4,7,1,Feeling hopeless about my grades,1.1,9.4,2
+STU-9436BAFF,11,5.4,6.2,4,6,1,Feeling overwhelmed with assignments,0.0,10.9,2
+STU-9436BAFF,12,4.8,7.0,5,9,1,Exhausted and burned out from studying,0.5,8.6,2
+STU-CED4040F,1,3.3,10.2,6,8,0,Dreading going to class,0.8,13.0,2
+STU-CED4040F,2,4.2,10.9,5,9,0,Struggling to concentrate on anything,0.6,13.1,2
+STU-CED4040F,3,4.8,10.0,7,8,0,Feeling anxious about everything,1.5,11.5,2
+STU-CED4040F,4,3.2,12.7,7,8,0,Lost all motivation to study,1.5,13.0,2
+STU-CED4040F,5,3.4,9.9,6,8,0,Constantly tired no matter how much I sleep,1.1,11.7,2
+STU-CED4040F,6,4.9,9.5,7,7,0,Too much pressure from all sides,1.3,12.5,2
+STU-CED4040F,7,3.3,11.2,6,7,0,Constantly tired no matter how much I sleep,1.2,12.5,2
+STU-CED4040F,8,3.6,11.7,6,7,0,Lost all motivation to study,0.8,11.9,2
+STU-CED4040F,9,4.8,10.5,6,8,0,Feeling overwhelmed with assignments,1.0,12.6,2
+STU-CED4040F,10,3.7,12.4,6,8,0,Exhausted and burned out from studying,1.4,12.5,2
+STU-CED4040F,11,3.7,10.9,6,8,0,Feeling isolated and lonely,1.5,13.0,2
+STU-CED4040F,12,3.5,10.1,6,9,0,Dreading going to class,1.2,12.4,2
+STU-436CE015,1,5.6,8.2,2,5,4,"Good energy, looking forward to classes",3.5,7.2,1
+STU-436CE015,2,6.2,8.4,2,4,3,"Routine day, nothing remarkable",3.4,7.6,1
+STU-436CE015,3,5.8,8.7,1,4,3,Feeling balanced and in control,3.2,7.5,0
+STU-436CE015,4,6.1,9.1,1,3,3,"Neither good nor bad, just normal",3.6,8.1,0
+STU-436CE015,5,5.8,10.5,2,4,4,"Feeling okay, nothing special",3.5,8.7,1
+STU-436CE015,6,5.8,9.3,1,5,4,"Average day, going through the motions",3.5,7.7,1
+STU-436CE015,7,5.7,8.6,3,4,3,"Average day, going through the motions",3.7,8.2,1
+STU-436CE015,8,6.1,9.4,2,4,5,"Average day, going through the motions",3.5,8.8,0
+STU-436CE015,9,5.8,9.5,1,4,4,"Neither good nor bad, just normal",4.0,8.1,0
+STU-436CE015,10,6.4,7.7,1,3,4,Feeling indifferent about things,4.2,8.0,0
+STU-436CE015,11,6.1,9.2,2,3,4,Feeling indifferent about things,3.1,9.6,0
+STU-436CE015,12,5.7,9.9,1,4,3,"Routine day, nothing remarkable",3.2,9.9,1
+STU-0B9DA9B4,1,6.8,7.7,0,4,3,Exhausted and burned out from studying,2.8,8.3,0
+STU-0B9DA9B4,2,6.3,6.2,1,4,3,"Neither good nor bad, just normal",3.3,6.6,0
+STU-0B9DA9B4,3,6.0,5.9,1,4,4,"Neither good nor bad, just normal",1.9,5.5,0
+STU-0B9DA9B4,4,5.5,4.5,1,5,3,Feeling isolated and lonely,2.5,8.0,1
+STU-0B9DA9B4,5,7.2,4.7,2,6,2,Things are manageable but not exciting,2.5,6.2,1
+STU-0B9DA9B4,6,5.4,7.4,1,5,3,Feeling indifferent about things,2.3,8.4,1
+STU-0B9DA9B4,7,5.9,6.9,2,4,2,Feeling numb and disconnected,2.5,8.8,1
+STU-0B9DA9B4,8,5.6,6.8,2,4,4,Feeling overwhelmed with assignments,1.5,8.7,1
+STU-0B9DA9B4,9,5.8,5.5,3,6,3,Feeling isolated and lonely,1.5,8.9,1
+STU-0B9DA9B4,10,6.0,6.0,4,5,1,"Breaking down emotionally, can't handle it",0.6,8.4,1
+STU-0B9DA9B4,11,4.7,4.9,3,7,1,Feeling isolated and lonely,1.4,9.1,2
+STU-0B9DA9B4,12,4.4,8.0,4,7,1,Feeling numb and disconnected,0.8,8.9,2
+STU-AD603AC7,1,7.4,3.8,0,2,4,Feeling balanced and in control,3.0,5.1,0
+STU-AD603AC7,2,7.9,1.1,0,2,4,Feeling balanced and in control,2.9,4.3,0
+STU-AD603AC7,3,8.2,5.2,0,2,5,Motivated to study and stay on track,2.8,4.9,0
+STU-AD603AC7,4,8.1,2.4,0,2,4,Excited about upcoming projects,3.6,4.4,0
+STU-AD603AC7,5,6.6,2.3,0,1,5,Motivated to study and stay on track,3.5,3.4,0
+STU-AD603AC7,6,6.8,2.3,0,2,3,Enjoying the learning process,3.4,4.3,0
+STU-AD603AC7,7,8.0,2.5,0,1,5,Motivated to study and stay on track,3.2,4.7,0
+STU-AD603AC7,8,7.9,2.6,0,3,5,Feeling confident about exams,3.4,4.6,0
+STU-AD603AC7,9,7.8,2.0,0,2,4,Feeling confident about exams,,4.5,0
+STU-AD603AC7,10,7.5,3.8,0,1,4,Enjoying the learning process,3.4,3.5,0
+STU-AD603AC7,11,7.8,1.4,0,2,6,Enjoying the learning process,3.0,4.4,0
+STU-AD603AC7,12,7.7,4.2,0,2,4,Happy and well-rested,2.7,3.5,0
+STU-217F611A,1,7.0,6.5,2,6,4,Just getting by day to day,3.0,10.6,1
+STU-217F611A,2,7.8,5.0,2,5,3,"Breaking down emotionally, can't handle it",3.6,8.9,1
+STU-217F611A,3,7.5,5.8,2,5,4,Things are manageable but not exciting,4.1,9.9,1
+STU-217F611A,4,7.5,7.1,2,5,2,Things are manageable but not exciting,3.7,9.4,1
+STU-217F611A,5,7.6,6.4,2,4,3,Motivated to study and stay on track,3.6,9.5,0
+STU-217F611A,6,7.6,8.0,0,5,3,Things are manageable but not exciting,2.9,8.9,0
+STU-217F611A,7,6.5,6.4,1,6,4,"Neither good nor bad, just normal",3.5,8.8,1
+STU-217F611A,8,7.9,5.9,2,5,2,"Feeling okay, nothing special",3.4,10.7,1
+STU-217F611A,9,6.4,5.6,1,4,4,Feeling balanced and in control,3.6,9.6,0
+STU-217F611A,10,,5.4,1,6,3,"Average day, going through the motions",3.8,9.4,1
+STU-217F611A,11,7.4,4.3,2,4,4,Constantly tired no matter how much I sleep,3.2,9.8,0
+STU-217F611A,12,7.5,7.3,2,4,3,Motivated to study and stay on track,3.8,12.0,0
+STU-911CD1DC,1,5.4,9.4,7,10,0,Feeling overwhelmed with assignments,0.0,10.2,2
+STU-911CD1DC,2,4.4,7.7,6,9,0,"Breaking down emotionally, can't handle it",0.1,9.1,2
+STU-911CD1DC,3,4.7,8.5,7,9,1,"Can't sleep well, too much anxiety",0.1,9.4,2
+STU-911CD1DC,4,4.7,8.9,6,7,0,Feeling hopeless about my grades,0.4,10.7,2
+STU-911CD1DC,5,5.1,8.9,6,6,0,Feeling numb and disconnected,0.2,11.2,2
+STU-911CD1DC,6,4.7,7.6,6,9,0,Too much pressure from all sides,0.0,10.3,2
+STU-911CD1DC,7,5.1,9.2,7,8,0,"Can't sleep well, too much anxiety",0.3,9.7,2
+STU-911CD1DC,8,4.6,9.1,6,7,0,Very stressed about deadlines,0.6,11.1,2
+STU-911CD1DC,9,4.1,8.4,6,7,0,Constantly tired no matter how much I sleep,0.0,11.1,2
+STU-911CD1DC,10,3.7,9.1,7,8,0,Lost all motivation to study,0.4,10.6,2
+STU-911CD1DC,11,6.0,6.3,6,9,0,Feeling isolated and lonely,0.2,10.1,2
+STU-911CD1DC,12,5.3,9.5,7,9,0,Struggling to concentrate on anything,0.0,9.5,2
+STU-B48168F7,1,6.7,5.6,1,4,1,Things are manageable but not exciting,3.0,10.5,1
+STU-B48168F7,2,7.1,7.3,1,4,2,Just getting by day to day,,11.4,1
+STU-B48168F7,3,6.2,5.7,0,3,0,Feeling numb and disconnected,2.7,11.1,0
+STU-B48168F7,4,6.4,6.5,1,3,1,Just getting by day to day,2.6,9.6,0
+STU-B48168F7,5,6.0,5.8,0,4,1,"Routine day, nothing remarkable",2.5,10.4,1
+STU-B48168F7,6,5.5,8.0,2,5,2,Feeling overwhelmed with assignments,2.9,9.4,1
+STU-B48168F7,7,6.4,6.4,1,4,1,"Doing alright, could be better",2.7,9.7,1
+STU-B48168F7,8,6.4,6.9,1,2,0,Feeling indifferent about things,2.5,8.5,0
+STU-B48168F7,9,5.8,7.6,1,5,2,"Breaking down emotionally, can't handle it",2.7,10.0,1
+STU-B48168F7,10,6.3,5.8,1,4,2,"Had a productive day, feeling accomplished",2.7,9.0,0
+STU-B48168F7,11,5.4,7.6,0,3,0,"Average day, going through the motions",2.3,10.5,1
+STU-B48168F7,12,6.3,8.7,2,4,1,Feeling indifferent about things,2.7,10.5,1
+STU-12490D53,1,4.9,5.0,1,4,2,Feeling overwhelmed with assignments,2.1,9.3,1
+STU-12490D53,2,6.1,5.0,2,6,2,"Feeling okay, nothing special",2.3,8.3,1
+STU-12490D53,3,4.6,7.6,1,4,1,Just getting by day to day,3.2,8.0,1
+STU-12490D53,4,6.4,5.7,2,4,1,"Doing alright, could be better",2.3,8.1,1
+STU-12490D53,5,,5.5,1,4,2,"Neither good nor bad, just normal",2.3,8.0,1
+STU-12490D53,6,5.6,7.1,2,4,2,"Had a productive day, feeling accomplished",2.2,8.1,1
+STU-12490D53,7,5.1,5.0,2,5,1,Things are manageable but not exciting,2.7,8.5,1
+STU-12490D53,8,6.4,5.5,1,5,0,"Doing alright, could be better",3.2,7.0,1
+STU-12490D53,9,7.1,6.9,2,5,2,"Neither good nor bad, just normal",2.7,8.0,1
+STU-12490D53,10,6.5,5.1,2,5,2,Feeling indifferent about things,2.7,8.6,1
+STU-12490D53,11,5.0,5.2,1,6,0,"Feeling okay, nothing special",3.7,8.9,1
+STU-12490D53,12,5.7,7.9,2,5,1,Constantly tired no matter how much I sleep,2.4,7.7,1
+STU-3C8C45CA,1,8.5,7.4,1,5,3,Too much pressure from all sides,2.3,7.5,0
+STU-3C8C45CA,2,7.2,6.5,1,6,2,"Average day, going through the motions",2.1,8.9,1
+STU-3C8C45CA,3,7.2,5.6,1,5,4,Just getting by day to day,2.6,8.6,0
+STU-3C8C45CA,4,7.5,7.7,1,6,3,Feeling isolated and lonely,2.4,7.5,1
+STU-3C8C45CA,5,6.9,6.9,1,7,4,Things are manageable but not exciting,2.2,9.0,1
+STU-3C8C45CA,6,7.3,7.6,1,6,2,"Routine day, nothing remarkable",2.4,8.8,1
+STU-3C8C45CA,7,7.0,8.5,0,5,3,Exhausted and burned out from studying,2.5,7.5,0
+STU-3C8C45CA,8,7.9,6.9,1,6,5,Feeling numb and disconnected,2.1,6.7,0
+STU-3C8C45CA,9,6.7,7.0,0,6,3,"Doing alright, could be better",2.4,7.9,1
+STU-3C8C45CA,10,7.7,6.5,2,6,4,Just getting by day to day,3.0,8.7,1
+STU-3C8C45CA,11,7.1,6.2,1,6,2,Feeling indifferent about things,2.7,8.8,1
+STU-3C8C45CA,12,7.0,6.5,2,7,4,Happy and well-rested,2.5,5.5,1
+STU-D9E885E1,1,7.6,5.8,2,2,3,"Feeling okay, nothing special",3.4,5.0,0
+STU-D9E885E1,2,6.9,5.2,2,5,2,"Breaking down emotionally, can't handle it",3.2,5.8,1
+STU-D9E885E1,3,7.5,2.9,1,3,3,Feeling indifferent about things,2.4,7.2,0
+STU-D9E885E1,4,7.0,4.8,1,5,2,"Doing alright, could be better",3.0,7.0,1
+STU-D9E885E1,5,6.6,4.2,2,4,1,Just getting by day to day,2.3,5.8,1
+STU-D9E885E1,6,6.5,3.3,2,5,1,"Doing alright, could be better",2.6,7.4,1
+STU-D9E885E1,7,6.1,4.7,3,7,1,Feeling anxious about everything,2.6,7.0,2
+STU-D9E885E1,8,6.0,4.6,3,5,0,Feeling isolated and lonely,1.3,6.4,1
+STU-D9E885E1,9,6.1,3.9,3,6,0,Too much pressure from all sides,2.0,7.8,1
+STU-D9E885E1,10,,4.7,4,4,1,Lost all motivation to study,1.3,7.7,1
+STU-D9E885E1,11,6.4,4.8,4,7,1,"Breaking down emotionally, can't handle it",1.6,7.9,2
+STU-D9E885E1,12,5.9,3.6,4,7,0,Lost all motivation to study,1.0,9.6,2
+STU-DBB79D66,1,6.7,6.0,1,1,6,Excited about upcoming projects,5.2,4.2,0
+STU-DBB79D66,2,8.3,2.6,0,2,6,"Had a productive day, feeling accomplished",6.2,5.4,0
+STU-DBB79D66,3,6.7,6.1,0,1,5,Feeling great and motivated today,6.0,4.7,0
+STU-DBB79D66,4,8.4,6.7,0,2,5,"Good energy, looking forward to classes",5.4,5.2,0
+STU-DBB79D66,5,6.7,6.0,0,1,5,Motivated to study and stay on track,5.7,3.0,0
+STU-DBB79D66,6,7.7,7.2,0,1,7,Feeling great and motivated today,5.3,3.2,0
+STU-DBB79D66,7,6.6,6.1,0,1,5,Feeling balanced and in control,6.1,3.9,0
+STU-DBB79D66,8,8.3,6.5,0,1,4,Feeling confident about exams,5.4,5.1,0
+STU-DBB79D66,9,7.3,5.7,0,2,6,Excited about upcoming projects,5.6,3.7,0
+STU-DBB79D66,10,6.6,6.0,0,1,6,"Had a productive day, feeling accomplished",5.6,4.0,0
+STU-DBB79D66,11,7.2,4.7,0,2,6,"Good energy, looking forward to classes",4.8,2.7,0
+STU-DBB79D66,12,7.5,5.0,0,3,4,Feeling confident about exams,6.1,4.5,0
+STU-D3F627EC,1,7.9,4.8,0,1,3,Happy and well-rested,5.3,5.4,0
+STU-D3F627EC,2,7.1,6.0,0,2,3,Excited about upcoming projects,5.1,5.3,0
+STU-D3F627EC,3,7.5,5.8,0,1,3,Feeling calm and focused,5.5,6.3,0
+STU-D3F627EC,4,8.9,2.8,0,2,3,Excited about upcoming projects,5.3,6.0,0
+STU-D3F627EC,5,8.8,4.8,1,1,4,Enjoying the learning process,5.4,6.7,0
+STU-D3F627EC,6,7.6,6.8,1,2,3,Feeling confident about exams,4.9,5.5,0
+STU-D3F627EC,7,8.0,3.3,0,2,4,Enjoying the learning process,4.7,5.0,0
+STU-D3F627EC,8,7.0,3.3,0,1,2,Enjoying the learning process,4.4,5.9,0
+STU-D3F627EC,9,,4.3,0,2,4,"Good energy, looking forward to classes",6.1,6.0,0
+STU-D3F627EC,10,7.8,4.0,0,1,4,Excited about upcoming projects,5.3,5.5,0
+STU-D3F627EC,11,9.2,3.0,0,1,4,"Good energy, looking forward to classes",5.0,4.5,0
+STU-D3F627EC,12,7.8,4.4,0,2,3,Motivated to study and stay on track,5.4,5.7,0
+STU-D142FA45,1,7.5,3.2,1,3,4,Feeling isolated and lonely,3.4,9.1,0
+STU-D142FA45,2,6.8,3.9,2,5,3,Just getting by day to day,4.1,8.2,1
+STU-D142FA45,3,7.6,5.1,0,5,4,Constantly tired no matter how much I sleep,2.9,8.0,0
+STU-D142FA45,4,6.2,3.2,2,4,3,"Can't sleep well, too much anxiety",2.7,8.3,1
+STU-D142FA45,5,6.8,1.0,1,6,4,"Doing alright, could be better",2.4,8.6,1
+STU-D142FA45,6,,2.9,3,7,2,"Breaking down emotionally, can't handle it",2.8,7.8,1
+STU-D142FA45,7,6.5,3.9,2,6,3,Too much pressure from all sides,2.7,10.4,1
+STU-D142FA45,8,6.2,7.0,3,7,4,Feeling hopeless about my grades,2.4,10.0,1
+STU-D142FA45,9,5.7,2.3,2,7,3,Feeling numb and disconnected,2.3,10.7,1
+STU-D142FA45,10,5.0,3.2,4,6,1,Lost all motivation to study,1.6,10.3,2
+STU-D142FA45,11,6.1,4.9,3,8,2,Dreading going to class,2.6,9.9,2
+STU-D142FA45,12,5.5,5.0,3,8,3,Struggling to concentrate on anything,1.1,10.3,2
+STU-3B1ACF4A,1,7.0,8.0,2,4,0,Happy and well-rested,1.6,7.5,1
+STU-3B1ACF4A,2,6.1,10.3,1,5,2,Enjoying the learning process,2.4,6.9,1
+STU-3B1ACF4A,3,6.7,8.2,2,5,1,Feeling confident about exams,2.1,7.0,1
+STU-3B1ACF4A,4,7.3,7.2,2,5,2,Feeling indifferent about things,2.0,8.0,1
+STU-3B1ACF4A,5,6.1,8.0,2,4,2,Just getting by day to day,3.1,7.1,1
+STU-3B1ACF4A,6,5.8,7.4,1,4,2,Feeling calm and focused,2.6,6.6,1
+STU-3B1ACF4A,7,6.8,7.4,2,6,2,Just getting by day to day,2.4,5.8,1
+STU-3B1ACF4A,8,7.3,7.0,1,5,2,Exhausted and burned out from studying,3.0,6.0,1
+STU-3B1ACF4A,9,7.5,8.4,0,5,1,"Routine day, nothing remarkable",,6.7,1
+STU-3B1ACF4A,10,6.5,9.0,2,6,2,Feeling isolated and lonely,2.3,5.6,1
+STU-3B1ACF4A,11,7.0,8.2,0,5,1,"Average day, going through the motions",1.7,5.7,1
+STU-3B1ACF4A,12,6.2,8.5,1,4,2,Feeling great and motivated today,2.8,5.7,0
+STU-40ACAE16,1,7.8,2.2,0,1,5,"Good energy, looking forward to classes",5.5,3.6,0
+STU-40ACAE16,2,8.5,5.0,0,2,4,Motivated to study and stay on track,,3.5,0
+STU-40ACAE16,3,7.8,4.6,0,2,4,"Had a productive day, feeling accomplished",5.5,4.0,0
+STU-40ACAE16,4,7.0,5.0,0,1,4,"Had a productive day, feeling accomplished",5.4,3.4,0
+STU-40ACAE16,5,7.5,4.5,0,4,5,Feeling calm and focused,5.3,4.2,0
+STU-40ACAE16,6,7.3,3.6,0,1,5,Enjoying the learning process,5.4,3.0,0
+STU-40ACAE16,7,,5.9,0,4,5,Excited about upcoming projects,5.5,4.4,0
+STU-40ACAE16,8,8.3,5.0,0,3,5,Happy and well-rested,5.1,3.0,0
+STU-40ACAE16,9,7.3,5.6,0,2,4,Motivated to study and stay on track,5.5,3.2,0
+STU-40ACAE16,10,7.1,6.6,0,2,4,Feeling confident about exams,5.6,2.7,0
+STU-40ACAE16,11,7.8,6.0,0,2,5,Enjoying the learning process,5.2,2.9,0
+STU-40ACAE16,12,7.5,3.9,0,1,4,Happy and well-rested,4.6,3.0,0
+STU-72894AF2,1,6.2,8.5,1,4,2,"Neither good nor bad, just normal",2.3,6.6,1
+STU-72894AF2,2,6.4,7.9,1,4,2,Too much pressure from all sides,3.4,7.3,0
+STU-72894AF2,3,6.3,7.5,1,5,0,Motivated to study and stay on track,2.5,7.1,1
+STU-72894AF2,4,5.9,7.4,0,4,2,Feeling indifferent about things,2.4,7.8,0
+STU-72894AF2,5,,7.1,1,5,2,Feeling confident about exams,2.2,6.7,1
+STU-72894AF2,6,5.4,8.4,0,6,0,"Routine day, nothing remarkable",2.1,5.4,1
+STU-72894AF2,7,5.4,7.0,0,4,2,Feeling numb and disconnected,2.6,6.8,0
+STU-72894AF2,8,7.6,8.9,1,4,1,Just getting by day to day,1.6,6.1,1
+STU-72894AF2,9,6.4,8.8,0,4,0,Just getting by day to day,2.5,6.0,1
+STU-72894AF2,10,6.3,10.0,1,4,1,"Good energy, looking forward to classes",2.2,6.2,1
+STU-72894AF2,11,6.5,9.9,1,5,2,"Had a productive day, feeling accomplished",2.8,5.7,1
+STU-72894AF2,12,7.2,8.0,0,5,1,Feeling numb and disconnected,2.2,7.2,1
+STU-9394D120,1,5.6,8.8,3,7,0,Constantly tired no matter how much I sleep,2.0,11.2,2
+STU-9394D120,2,4.5,8.4,3,7,0,Very stressed about deadlines,1.9,10.0,2
+STU-9394D120,3,5.6,10.8,4,7,1,Too much pressure from all sides,2.1,10.3,2
+STU-9394D120,4,,7.4,3,7,0,Exhausted and burned out from studying,2.4,9.1,2
+STU-9394D120,5,5.5,9.4,3,6,1,Too much pressure from all sides,2.5,10.1,2
+STU-9394D120,6,5.5,10.0,3,7,2,Too much pressure from all sides,,11.0,2
+STU-9394D120,7,6.5,8.3,2,7,2,"Feeling okay, nothing special",3.1,9.4,1
+STU-9394D120,8,6.9,9.9,2,6,2,Feeling confident about exams,2.8,10.3,1
+STU-9394D120,9,5.0,9.1,3,5,1,"Neither good nor bad, just normal",2.2,10.1,1
+STU-9394D120,10,7.3,10.3,2,5,3,Feeling balanced and in control,2.7,9.5,1
+STU-9394D120,11,7.5,8.9,2,5,3,Feeling calm and focused,3.8,8.4,1
+STU-9394D120,12,7.6,7.8,2,5,3,"Had a productive day, feeling accomplished",2.9,9.2,1
+STU-8CD8A5BF,1,5.3,7.8,2,6,4,Dreading going to class,3.5,8.4,1
+STU-8CD8A5BF,2,6.7,6.3,3,6,4,"Doing alright, could be better",4.0,7.3,1
+STU-8CD8A5BF,3,6.0,7.7,3,6,3,Exhausted and burned out from studying,3.6,7.9,1
+STU-8CD8A5BF,4,6.6,6.5,2,5,4,"Neither good nor bad, just normal",3.8,9.1,1
+STU-8CD8A5BF,5,5.3,6.1,3,7,3,"Feeling okay, nothing special",4.1,9.6,1
+STU-8CD8A5BF,6,6.0,5.6,3,5,3,"Neither good nor bad, just normal",3.8,8.6,1
+STU-8CD8A5BF,7,5.5,5.1,3,5,3,Dreading going to class,4.1,9.0,1
+STU-8CD8A5BF,8,6.4,8.7,2,6,2,"Neither good nor bad, just normal",4.0,8.6,1
+STU-8CD8A5BF,9,6.3,6.9,3,5,4,Feeling great and motivated today,3.3,7.9,1
+STU-8CD8A5BF,10,6.8,6.5,3,6,2,Feeling confident about exams,4.1,9.8,1
+STU-8CD8A5BF,11,5.7,8.5,2,4,4,"Doing alright, could be better",3.9,8.4,1
+STU-8CD8A5BF,12,6.5,7.2,2,5,2,"Feeling okay, nothing special",4.0,8.5,1
+STU-9A3432CB,1,5.2,6.8,2,8,2,"Can't sleep well, too much anxiety",2.6,8.2,2
+STU-9A3432CB,2,5.7,9.7,2,7,0,Feeling isolated and lonely,1.6,8.6,2
+STU-9A3432CB,3,6.0,9.1,1,7,1,Feeling overwhelmed with assignments,2.8,7.8,1
+STU-9A3432CB,4,4.6,9.6,2,8,1,"Can't sleep well, too much anxiety",2.6,7.6,2
+STU-9A3432CB,5,5.2,9.0,1,6,1,"Breaking down emotionally, can't handle it",2.6,7.4,1
+STU-9A3432CB,6,6.5,7.6,1,6,2,Feeling hopeless about my grades,2.5,8.1,1
+STU-9A3432CB,7,,7.7,1,6,3,"Average day, going through the motions",2.7,7.6,1
+STU-9A3432CB,8,5.9,8.6,0,6,3,Just getting by day to day,3.9,8.0,1
+STU-9A3432CB,9,5.9,10.5,1,5,1,"Average day, going through the motions",4.2,7.0,1
+STU-9A3432CB,10,6.2,9.5,1,5,2,Motivated to study and stay on track,3.4,7.7,1
+STU-9A3432CB,11,6.6,8.2,0,4,3,Enjoying the learning process,3.4,8.4,0
+STU-9A3432CB,12,7.4,6.4,0,4,0,Feeling calm and focused,3.4,6.6,0
+STU-A30327D7,1,,3.9,0,2,6,Feeling balanced and in control,5.0,3.7,0
+STU-A30327D7,2,7.7,6.2,0,2,4,Feeling great and motivated today,4.5,4.9,0
+STU-A30327D7,3,6.9,4.8,0,1,5,Enjoying the learning process,4.9,5.0,0
+STU-A30327D7,4,6.5,3.8,0,3,4,"Good energy, looking forward to classes",5.5,5.6,0
+STU-A30327D7,5,7.2,4.9,0,3,5,Motivated to study and stay on track,4.7,3.2,0
+STU-A30327D7,6,7.2,5.6,1,3,4,Feeling great and motivated today,4.8,5.5,0
+STU-A30327D7,7,5.9,5.0,0,2,4,Feeling great and motivated today,,4.8,0
+STU-A30327D7,8,6.8,5.3,1,4,5,Motivated to study and stay on track,5.2,5.0,0
+STU-A30327D7,9,5.7,4.6,0,1,3,Happy and well-rested,4.2,4.9,0
+STU-A30327D7,10,7.6,4.3,0,1,3,Happy and well-rested,4.7,4.8,0
+STU-A30327D7,11,7.0,5.3,0,3,4,"Had a productive day, feeling accomplished",5.0,4.6,0
+STU-A30327D7,12,7.7,6.2,0,1,4,Motivated to study and stay on track,4.9,5.4,0
+STU-ED50DAC1,1,5.5,9.5,3,6,1,"Breaking down emotionally, can't handle it",0.1,11.6,2
+STU-ED50DAC1,2,4.0,9.1,3,7,3,Constantly tired no matter how much I sleep,0.9,11.2,2
+STU-ED50DAC1,3,4.9,10.3,2,6,2,Very stressed about deadlines,1.2,11.4,2
+STU-ED50DAC1,4,4.8,11.3,3,7,2,Very stressed about deadlines,1.5,11.7,2
+STU-ED50DAC1,5,4.5,8.8,3,4,2,Struggling to concentrate on anything,1.2,9.3,1
+STU-ED50DAC1,6,5.7,9.3,2,5,3,Feeling anxious about everything,,11.7,1
+STU-ED50DAC1,7,5.6,10.1,2,6,1,Excited about upcoming projects,1.1,9.9,2
+STU-ED50DAC1,8,6.7,8.8,1,3,4,Just getting by day to day,1.4,11.1,0
+STU-ED50DAC1,9,6.2,11.1,1,5,4,Feeling indifferent about things,1.9,8.0,1
+STU-ED50DAC1,10,6.8,8.1,1,5,4,Motivated to study and stay on track,2.0,8.7,1
+STU-ED50DAC1,11,6.2,10.9,1,5,3,Enjoying the learning process,3.0,8.4,1
+STU-ED50DAC1,12,6.5,8.3,1,5,3,Feeling balanced and in control,2.9,8.0,1
+STU-91D4F349,1,8.1,3.8,1,4,7,Happy and well-rested,4.4,3.1,0
+STU-91D4F349,2,7.1,6.5,1,4,5,"Had a productive day, feeling accomplished",4.5,3.5,0
+STU-91D4F349,3,8.2,3.2,1,2,4,"Had a productive day, feeling accomplished",4.7,4.1,0
+STU-91D4F349,4,8.6,4.2,0,2,5,Enjoying the learning process,3.7,4.6,0
+STU-91D4F349,5,8.8,3.2,1,2,3,Feeling calm and focused,4.4,3.5,0
+STU-91D4F349,6,8.0,5.9,0,3,6,Happy and well-rested,5.0,4.3,0
+STU-91D4F349,7,8.7,4.2,1,2,3,Motivated to study and stay on track,5.0,4.1,0
+STU-91D4F349,8,7.8,4.0,0,2,4,Feeling calm and focused,5.0,4.6,0
+STU-91D4F349,9,8.5,3.7,0,3,5,Happy and well-rested,3.9,5.2,0
+STU-91D4F349,10,7.1,2.9,1,3,4,Feeling confident about exams,4.7,4.4,0
+STU-91D4F349,11,9.3,5.1,1,3,5,Motivated to study and stay on track,4.3,3.7,0
+STU-91D4F349,12,8.9,5.3,0,5,4,Happy and well-rested,4.4,4.1,0
+STU-4891EEE3,1,6.7,4.1,1,4,3,"Average day, going through the motions",2.7,8.1,0
+STU-4891EEE3,2,,4.9,2,5,4,Just getting by day to day,2.2,8.1,1
+STU-4891EEE3,3,6.0,4.8,1,4,3,Just getting by day to day,2.1,9.9,1
+STU-4891EEE3,4,5.8,5.8,2,5,4,Too much pressure from all sides,2.0,8.3,1
+STU-4891EEE3,5,5.5,2.1,2,6,2,Very stressed about deadlines,1.3,6.3,1
+STU-4891EEE3,6,4.5,3.3,2,5,3,"Had a productive day, feeling accomplished",1.1,8.8,1
+STU-4891EEE3,7,5.8,5.3,3,7,3,Very stressed about deadlines,1.4,10.3,2
+STU-4891EEE3,8,4.6,3.7,2,5,3,Feeling hopeless about my grades,1.1,10.3,1
+STU-4891EEE3,9,5.0,5.3,3,7,2,Very stressed about deadlines,0.9,9.8,2
+STU-4891EEE3,10,4.4,4.6,3,7,3,"Breaking down emotionally, can't handle it",1.4,8.8,2
+STU-4891EEE3,11,5.2,3.9,3,7,1,"Breaking down emotionally, can't handle it",1.0,10.2,2
+STU-4891EEE3,12,,4.5,4,8,2,Struggling to concentrate on anything,0.6,10.3,2
+STU-5673F428,1,8.3,5.7,0,2,6,Excited about upcoming projects,4.6,3.2,0
+STU-5673F428,2,8.7,4.6,0,3,5,Enjoying the learning process,4.1,5.3,0
+STU-5673F428,3,9.5,5.5,0,3,5,Feeling great and motivated today,4.6,4.3,0
+STU-5673F428,4,6.8,4.5,0,1,6,Feeling balanced and in control,4.6,4.4,0
+STU-5673F428,5,7.4,4.5,0,3,6,Enjoying the learning process,4.1,5.4,0
+STU-5673F428,6,9.4,5.7,0,2,5,Enjoying the learning process,4.3,3.9,0
+STU-5673F428,7,7.9,4.2,0,1,5,Feeling confident about exams,4.7,5.0,0
+STU-5673F428,8,8.1,5.3,1,1,6,"Had a productive day, feeling accomplished",4.1,4.2,0
+STU-5673F428,9,8.6,6.1,0,1,6,Happy and well-rested,4.3,6.7,0
+STU-5673F428,10,9.3,6.7,0,3,6,Feeling confident about exams,4.4,3.8,0
+STU-5673F428,11,8.6,7.2,0,1,6,Happy and well-rested,4.4,4.0,0
+STU-5673F428,12,9.7,6.1,0,1,5,Feeling great and motivated today,4.1,5.2,0
+STU-30347107,1,4.7,8.5,3,6,2,Feeling isolated and lonely,1.6,10.3,2
+STU-30347107,2,4.5,9.4,4,7,1,Feeling anxious about everything,0.6,9.8,2
+STU-30347107,3,5.3,8.6,2,6,1,Feeling isolated and lonely,,10.8,2
+STU-30347107,4,6.2,8.0,3,6,2,Struggling to concentrate on anything,2.3,10.3,1
+STU-30347107,5,5.8,8.1,3,5,2,Very stressed about deadlines,2.6,9.1,1
+STU-30347107,6,4.9,9.3,2,5,4,Feeling anxious about everything,2.7,9.9,1
+STU-30347107,7,4.5,8.5,2,5,2,"Neither good nor bad, just normal",2.7,10.1,1
+STU-30347107,8,5.9,8.4,2,6,3,"Doing alright, could be better",3.5,8.3,1
+STU-30347107,9,5.9,9.6,2,4,3,Struggling to concentrate on anything,3.1,10.2,1
+STU-30347107,10,7.2,8.4,2,5,3,Enjoying the learning process,3.1,7.8,1
+STU-30347107,11,5.4,9.6,1,5,4,Feeling confident about exams,3.7,10.6,1
+STU-30347107,12,6.7,9.3,1,4,4,"Had a productive day, feeling accomplished",3.3,9.5,0
+STU-2E39CFC5,1,8.4,4.1,0,1,6,"Good energy, looking forward to classes",2.9,4.6,0
+STU-2E39CFC5,2,8.3,4.9,0,1,6,Feeling balanced and in control,3.5,4.8,0
+STU-2E39CFC5,3,6.6,4.1,0,1,5,Feeling calm and focused,2.9,5.4,0
+STU-2E39CFC5,4,,4.5,0,1,4,Happy and well-rested,3.6,4.5,0
+STU-2E39CFC5,5,7.4,6.2,0,1,3,Enjoying the learning process,2.2,5.9,0
+STU-2E39CFC5,6,7.8,6.6,1,1,5,Feeling balanced and in control,3.1,3.5,0
+STU-2E39CFC5,7,7.9,5.1,0,2,5,Feeling balanced and in control,3.7,3.7,0
+STU-2E39CFC5,8,7.8,6.9,0,1,6,Enjoying the learning process,3.1,5.4,0
+STU-2E39CFC5,9,7.8,6.1,0,1,5,Feeling great and motivated today,3.6,4.4,0
+STU-2E39CFC5,10,8.1,5.7,0,1,5,Feeling balanced and in control,2.9,5.0,0
+STU-2E39CFC5,11,8.3,4.1,0,1,5,"Good energy, looking forward to classes",2.8,2.9,0
+STU-2E39CFC5,12,7.9,5.7,0,1,7,Feeling great and motivated today,2.8,3.8,0
+STU-DBD3EA76,1,7.1,7.0,3,3,3,"Good energy, looking forward to classes",4.4,8.9,0
+STU-DBD3EA76,2,5.8,6.8,1,4,2,Struggling to concentrate on anything,4.4,7.9,0
+STU-DBD3EA76,3,6.1,6.2,2,3,2,Excited about upcoming projects,4.3,8.8,0
+STU-DBD3EA76,4,5.1,5.4,2,4,3,Things are manageable but not exciting,3.7,9.8,1
+STU-DBD3EA76,5,6.9,5.8,1,3,3,Feeling great and motivated today,4.0,11.7,0
+STU-DBD3EA76,6,6.7,5.2,2,3,2,Enjoying the learning process,3.2,8.9,0
+STU-DBD3EA76,7,5.3,4.7,2,4,3,Things are manageable but not exciting,,9.0,1
+STU-DBD3EA76,8,6.5,6.9,1,4,2,"Neither good nor bad, just normal",4.1,7.9,0
+STU-DBD3EA76,9,6.2,6.8,2,3,2,Just getting by day to day,3.4,8.3,0
+STU-DBD3EA76,10,5.5,5.3,1,5,2,"Average day, going through the motions",4.0,10.5,1
+STU-DBD3EA76,11,6.0,5.8,2,4,2,"Can't sleep well, too much anxiety",,9.4,1
+STU-DBD3EA76,12,5.2,6.5,2,3,0,Feeling balanced and in control,4.0,10.3,1
+STU-3AB055BA,1,5.8,8.8,1,7,0,Feeling overwhelmed with assignments,2.0,7.8,2
+STU-3AB055BA,2,5.9,9.6,2,6,1,Too much pressure from all sides,2.2,10.7,1
+STU-3AB055BA,3,6.6,9.1,2,7,1,Very stressed about deadlines,,9.9,2
+STU-3AB055BA,4,6.0,9.9,1,4,0,Feeling isolated and lonely,2.1,9.5,1
+STU-3AB055BA,5,5.6,9.1,1,4,1,Constantly tired no matter how much I sleep,2.7,9.5,1
+STU-3AB055BA,6,7.0,8.0,2,4,1,Too much pressure from all sides,1.9,10.3,1
+STU-3AB055BA,7,6.0,9.6,1,4,2,"Routine day, nothing remarkable",2.7,9.3,1
+STU-3AB055BA,8,7.0,9.7,0,5,3,"Doing alright, could be better",2.7,9.9,1
+STU-3AB055BA,9,7.2,10.3,1,4,2,"Average day, going through the motions",3.7,8.2,1
+STU-3AB055BA,10,6.5,11.2,0,3,2,Feeling confident about exams,3.9,9.5,0
+STU-3AB055BA,11,7.9,8.7,0,4,3,Happy and well-rested,3.1,8.4,0
+STU-3AB055BA,12,7.0,11.1,0,3,4,"Had a productive day, feeling accomplished",4.0,8.2,0
+STU-880D6013,1,5.5,6.5,1,2,3,"Routine day, nothing remarkable",3.7,6.3,0
+STU-880D6013,2,5.7,5.6,2,4,3,Feeling indifferent about things,3.2,4.8,1
+STU-880D6013,3,5.7,6.1,1,3,2,Happy and well-rested,2.9,6.4,0
+STU-880D6013,4,6.5,6.0,2,5,2,Feeling overwhelmed with assignments,3.1,6.4,1
+STU-880D6013,5,6.9,5.6,2,6,2,"Good energy, looking forward to classes",2.7,6.7,1
+STU-880D6013,6,6.0,4.7,2,4,2,Lost all motivation to study,2.9,7.4,1
+STU-880D6013,7,5.4,7.8,2,6,2,"Can't sleep well, too much anxiety",2.0,7.6,1
+STU-880D6013,8,4.3,5.3,2,7,1,Lost all motivation to study,2.6,9.1,2
+STU-880D6013,9,4.4,5.8,3,6,1,Feeling isolated and lonely,1.6,7.8,2
+STU-880D6013,10,5.4,7.5,3,6,0,Feeling isolated and lonely,2.0,6.2,2
+STU-880D6013,11,4.1,5.6,3,7,0,Struggling to concentrate on anything,2.0,8.3,2
+STU-880D6013,12,4.4,5.6,4,7,1,Very stressed about deadlines,,6.9,2
+STU-66EBF40E,1,7.5,7.0,1,3,2,Happy and well-rested,3.6,7.8,0
+STU-66EBF40E,2,7.0,8.1,0,4,3,Happy and well-rested,3.1,8.3,0
+STU-66EBF40E,3,6.9,7.4,0,4,2,"Doing alright, could be better",3.6,8.6,0
+STU-66EBF40E,4,7.9,7.7,0,4,2,Just getting by day to day,4.1,9.8,0
+STU-66EBF40E,5,8.0,6.6,0,4,2,Feeling great and motivated today,2.8,9.6,0
+STU-66EBF40E,6,5.9,7.3,0,5,1,"Routine day, nothing remarkable",3.9,9.1,1
+STU-66EBF40E,7,7.7,7.3,1,3,2,Feeling numb and disconnected,3.4,9.5,0
+STU-66EBF40E,8,6.1,6.5,1,4,1,Things are manageable but not exciting,3.4,9.2,1
+STU-66EBF40E,9,7.7,5.7,0,5,1,Things are manageable but not exciting,3.0,9.3,0
+STU-66EBF40E,10,6.9,7.0,0,3,2,Things are manageable but not exciting,3.6,7.9,0
+STU-66EBF40E,11,7.8,5.4,0,3,4,Feeling confident about exams,2.9,8.9,0
+STU-66EBF40E,12,6.7,9.8,1,4,1,Feeling balanced and in control,3.7,8.1,1
+STU-A3DFE8AF,1,4.8,9.6,6,7,0,Constantly tired no matter how much I sleep,0.2,14.9,2
+STU-A3DFE8AF,2,4.0,9.0,6,8,0,Feeling numb and disconnected,0.1,16.0,2
+STU-A3DFE8AF,3,4.8,9.9,5,8,0,"Breaking down emotionally, can't handle it",0.0,14.0,2
+STU-A3DFE8AF,4,4.1,8.7,6,8,0,Struggling to concentrate on anything,0.9,15.1,2
+STU-A3DFE8AF,5,3.5,10.8,6,9,0,Very stressed about deadlines,0.8,13.4,2
+STU-A3DFE8AF,6,4.0,9.4,6,9,0,Feeling hopeless about my grades,0.1,13.5,2
+STU-A3DFE8AF,7,3.8,9.0,6,9,0,Feeling numb and disconnected,0.2,14.1,2
+STU-A3DFE8AF,8,3.6,10.4,6,7,0,Very stressed about deadlines,0.5,15.1,2
+STU-A3DFE8AF,9,4.1,9.0,5,6,0,Exhausted and burned out from studying,0.6,14.1,2
+STU-A3DFE8AF,10,4.0,9.7,6,8,0,Feeling hopeless about my grades,0.5,14.5,2
+STU-A3DFE8AF,11,3.5,10.7,6,9,0,Feeling anxious about everything,1.2,14.5,2
+STU-A3DFE8AF,12,3.9,10.8,7,9,0,Feeling hopeless about my grades,0.0,12.8,2
+STU-3BF2FD7E,1,10.0,3.0,0,1,5,Enjoying the learning process,3.0,4.4,0
+STU-3BF2FD7E,2,9.2,5.1,1,1,5,"Had a productive day, feeling accomplished",2.7,4.9,0
+STU-3BF2FD7E,3,8.6,3.6,1,2,4,Happy and well-rested,3.2,4.1,0
+STU-3BF2FD7E,4,9.0,2.3,1,1,5,"Good energy, looking forward to classes",2.6,4.5,0
+STU-3BF2FD7E,5,7.6,3.3,1,1,5,Feeling confident about exams,3.1,5.3,0
+STU-3BF2FD7E,6,9.3,3.9,0,2,5,Feeling calm and focused,2.9,5.2,0
+STU-3BF2FD7E,7,8.4,5.2,0,1,4,Feeling confident about exams,2.7,5.1,0
+STU-3BF2FD7E,8,8.9,2.9,0,2,5,Excited about upcoming projects,3.1,5.0,0
+STU-3BF2FD7E,9,8.2,5.9,0,2,4,"Had a productive day, feeling accomplished",,4.7,0
+STU-3BF2FD7E,10,9.5,4.8,0,1,4,Enjoying the learning process,3.1,4.2,0
+STU-3BF2FD7E,11,8.6,3.8,0,1,5,"Had a productive day, feeling accomplished",3.0,4.3,0
+STU-3BF2FD7E,12,8.8,5.0,0,2,6,Enjoying the learning process,2.8,5.4,0
+STU-D5A4DC86,1,7.5,6.1,0,2,6,Enjoying the learning process,3.9,7.4,0
+STU-D5A4DC86,2,7.1,4.2,0,3,5,Feeling calm and focused,4.9,5.4,0
+STU-D5A4DC86,3,8.6,5.4,0,3,4,Feeling confident about exams,4.4,7.4,0
+STU-D5A4DC86,4,6.7,7.1,0,3,4,Feeling confident about exams,5.0,6.5,0
+STU-D5A4DC86,5,7.9,5.9,0,2,4,Excited about upcoming projects,3.9,5.5,0
+STU-D5A4DC86,6,7.4,5.5,0,3,4,Feeling calm and focused,4.9,7.6,0
+STU-D5A4DC86,7,8.0,4.3,0,5,5,"Had a productive day, feeling accomplished",4.9,6.0,0
+STU-D5A4DC86,8,7.3,5.3,0,3,5,Excited about upcoming projects,4.3,7.8,0
+STU-D5A4DC86,9,7.1,6.7,0,4,5,"Good energy, looking forward to classes",4.0,6.4,0
+STU-D5A4DC86,10,7.5,5.7,0,3,5,Feeling calm and focused,4.4,7.4,0
+STU-D5A4DC86,11,7.4,6.1,0,5,4,Excited about upcoming projects,4.4,7.4,0
+STU-D5A4DC86,12,7.1,6.0,0,4,5,Feeling balanced and in control,,5.4,0
+STU-9CAE7334,1,6.9,2.7,1,3,4,Excited about upcoming projects,3.7,6.7,0
+STU-9CAE7334,2,7.2,2.2,0,3,3,"Had a productive day, feeling accomplished",3.1,5.7,0
+STU-9CAE7334,3,7.1,2.5,1,2,2,Excited about upcoming projects,3.8,6.3,0
+STU-9CAE7334,4,8.0,4.9,0,2,3,Motivated to study and stay on track,3.2,7.2,0
+STU-9CAE7334,5,6.5,3.8,1,2,4,Motivated to study and stay on track,2.7,7.1,0
+STU-9CAE7334,6,7.3,1.8,0,2,3,Feeling balanced and in control,3.1,5.6,0
+STU-9CAE7334,7,6.3,3.5,0,1,4,Feeling balanced and in control,3.0,5.8,0
+STU-9CAE7334,8,7.1,4.3,1,4,3,Motivated to study and stay on track,3.2,7.1,0
+STU-9CAE7334,9,6.6,4.4,1,1,4,Feeling balanced and in control,3.3,5.2,0
+STU-9CAE7334,10,7.7,3.0,0,2,4,Feeling balanced and in control,3.6,7.7,0
+STU-9CAE7334,11,7.5,4.9,1,2,4,Feeling confident about exams,2.9,6.6,0
+STU-9CAE7334,12,6.5,4.6,0,2,5,Feeling confident about exams,3.1,6.4,0
+STU-2792AE95,1,6.5,7.3,1,4,4,"Had a productive day, feeling accomplished",2.5,8.4,0
+STU-2792AE95,2,7.0,5.8,1,4,3,Feeling indifferent about things,2.9,7.3,0
+STU-2792AE95,3,6.6,6.2,2,4,4,"Feeling okay, nothing special",2.5,7.0,0
+STU-2792AE95,4,5.8,6.4,2,5,3,"Average day, going through the motions",2.9,6.9,1
+STU-2792AE95,5,6.1,6.4,2,5,4,"Routine day, nothing remarkable",1.7,7.0,1
+STU-2792AE95,6,5.7,6.7,3,4,3,Feeling confident about exams,1.8,8.5,1
+STU-2792AE95,7,5.1,7.9,3,6,2,Feeling numb and disconnected,1.6,7.5,1
+STU-2792AE95,8,4.7,7.0,3,5,3,Feeling isolated and lonely,2.0,7.5,1
+STU-2792AE95,9,4.1,6.7,3,6,3,Very stressed about deadlines,1.6,9.8,2
+STU-2792AE95,10,5.0,5.8,3,7,1,Too much pressure from all sides,1.4,10.7,2
+STU-2792AE95,11,5.1,7.2,3,7,1,Feeling numb and disconnected,1.7,9.6,2
+STU-2792AE95,12,4.6,7.8,3,7,3,Feeling numb and disconnected,1.4,8.8,2
+STU-E395CFB4,1,4.3,9.1,3,8,0,Very stressed about deadlines,1.6,12.5,2
+STU-E395CFB4,2,4.8,11.0,3,9,1,Feeling anxious about everything,1.6,12.6,2
+STU-E395CFB4,3,5.0,9.9,4,10,0,Feeling anxious about everything,2.0,10.1,2
+STU-E395CFB4,4,5.3,8.1,4,9,0,Dreading going to class,1.7,13.1,2
+STU-E395CFB4,5,4.6,8.8,4,9,0,Feeling hopeless about my grades,1.5,11.2,2
+STU-E395CFB4,6,4.6,9.8,3,10,0,Constantly tired no matter how much I sleep,1.2,11.7,2
+STU-E395CFB4,7,5.2,8.1,4,9,0,Feeling anxious about everything,1.9,12.4,2
+STU-E395CFB4,8,3.9,9.3,4,8,0,Dreading going to class,0.8,10.5,2
+STU-E395CFB4,9,4.8,10.4,4,9,0,Lost all motivation to study,1.4,11.8,2
+STU-E395CFB4,10,4.5,8.4,4,9,0,"Breaking down emotionally, can't handle it",1.8,10.0,2
+STU-E395CFB4,11,4.7,8.1,5,10,0,Feeling overwhelmed with assignments,2.0,11.0,2
+STU-E395CFB4,12,3.6,9.1,5,9,0,Constantly tired no matter how much I sleep,1.1,11.6,2
+STU-D45B73DC,1,6.8,7.2,1,4,5,Feeling anxious about everything,2.3,7.2,0
+STU-D45B73DC,2,6.8,6.1,2,4,2,Just getting by day to day,2.5,7.7,1
+STU-D45B73DC,3,6.0,5.7,1,5,4,"Neither good nor bad, just normal",2.9,7.2,1
+STU-D45B73DC,4,6.2,8.1,2,3,2,Constantly tired no matter how much I sleep,1.1,6.4,1
+STU-D45B73DC,5,7.4,5.3,3,4,4,Feeling confident about exams,1.8,7.8,0
+STU-D45B73DC,6,6.1,7.7,2,6,3,Very stressed about deadlines,1.5,7.5,1
+STU-D45B73DC,7,5.7,8.1,3,7,3,Dreading going to class,1.2,8.5,2
+STU-D45B73DC,8,6.3,7.5,3,6,2,Too much pressure from all sides,1.7,8.2,1
+STU-D45B73DC,9,4.9,5.5,4,5,2,"Can't sleep well, too much anxiety",0.9,9.3,1
+STU-D45B73DC,10,4.9,8.0,5,7,2,Feeling overwhelmed with assignments,1.5,9.2,2
+STU-D45B73DC,11,5.0,5.5,4,7,1,Exhausted and burned out from studying,1.3,10.4,2
+STU-D45B73DC,12,5.2,5.8,3,8,2,"Breaking down emotionally, can't handle it",0.8,10.6,2
+STU-1549E67D,1,6.5,6.9,2,6,1,"Routine day, nothing remarkable",1.6,7.5,1
+STU-1549E67D,2,7.2,6.5,1,6,2,"Neither good nor bad, just normal",1.4,6.9,1
+STU-1549E67D,3,6.7,7.3,3,4,2,Feeling indifferent about things,1.8,6.8,1
+STU-1549E67D,4,6.4,9.1,2,3,2,Just getting by day to day,1.8,7.6,1
+STU-1549E67D,5,,7.5,2,4,2,"Feeling okay, nothing special",2.9,6.8,0
+STU-1549E67D,6,6.3,8.4,2,5,2,Just getting by day to day,2.0,7.9,1
+STU-1549E67D,7,5.3,8.2,1,4,2,"Had a productive day, feeling accomplished",2.4,6.3,1
+STU-1549E67D,8,6.0,9.7,2,6,1,Things are manageable but not exciting,1.6,6.6,1
+STU-1549E67D,9,6.4,7.6,3,5,1,"Neither good nor bad, just normal",1.4,6.5,1
+STU-1549E67D,10,7.7,7.7,2,7,2,"Neither good nor bad, just normal",1.5,5.8,1
+STU-1549E67D,11,6.1,5.4,2,5,2,Feeling isolated and lonely,1.3,8.3,1
+STU-1549E67D,12,6.6,8.1,2,3,1,"Breaking down emotionally, can't handle it",1.6,5.9,1
+STU-FE6AD37F,1,6.6,8.5,1,3,1,"Neither good nor bad, just normal",1.9,6.3,0
+STU-FE6AD37F,2,7.7,9.2,0,5,2,"Average day, going through the motions",1.7,6.1,1
+STU-FE6AD37F,3,7.2,8.1,1,4,2,Things are manageable but not exciting,2.9,5.6,0
+STU-FE6AD37F,4,6.8,7.5,0,4,3,Just getting by day to day,1.4,6.8,0
+STU-FE6AD37F,5,6.6,8.5,1,6,3,Too much pressure from all sides,2.6,5.9,1
+STU-FE6AD37F,6,7.1,10.5,1,5,2,"Average day, going through the motions",2.7,6.9,1
+STU-FE6AD37F,7,6.4,7.9,0,4,4,Things are manageable but not exciting,,7.3,0
+STU-FE6AD37F,8,7.2,8.7,1,5,3,"Feeling okay, nothing special",3.0,6.7,0
+STU-FE6AD37F,9,7.5,9.1,1,4,3,"Neither good nor bad, just normal",1.8,6.5,0
+STU-FE6AD37F,10,6.8,9.7,0,4,1,Struggling to concentrate on anything,2.8,4.3,0
+STU-FE6AD37F,11,8.0,8.8,1,3,3,Constantly tired no matter how much I sleep,2.8,5.9,0
+STU-FE6AD37F,12,7.3,10.0,0,3,2,Excited about upcoming projects,1.8,6.6,0
+STU-7E0621D3,1,7.9,9.9,0,5,3,"Good energy, looking forward to classes",1.9,10.1,1
+STU-7E0621D3,2,8.4,8.9,0,5,4,Very stressed about deadlines,1.8,8.7,0
+STU-7E0621D3,3,7.1,6.7,1,5,3,"Feeling okay, nothing special",1.5,9.1,1
+STU-7E0621D3,4,8.1,7.5,1,4,5,"Neither good nor bad, just normal",2.0,9.3,0
+STU-7E0621D3,5,7.3,7.6,1,4,4,"Neither good nor bad, just normal",2.3,8.9,0
+STU-7E0621D3,6,7.1,6.5,1,4,4,Feeling balanced and in control,2.0,10.2,0
+STU-7E0621D3,7,6.2,7.0,0,3,4,"Can't sleep well, too much anxiety",1.7,8.0,0
+STU-7E0621D3,8,6.7,7.1,2,6,5,"Feeling okay, nothing special",1.8,9.1,1
+STU-7E0621D3,9,7.4,7.1,0,5,3,"Doing alright, could be better",2.1,8.6,0
+STU-7E0621D3,10,6.6,7.9,1,3,3,Feeling anxious about everything,2.0,8.3,0
+STU-7E0621D3,11,7.1,7.6,1,4,2,"Routine day, nothing remarkable",1.1,8.7,1
+STU-7E0621D3,12,6.9,6.4,0,5,3,"Doing alright, could be better",2.2,8.5,0
+STU-FFEB4307,1,4.6,9.2,3,6,0,Feeling isolated and lonely,0.0,15.1,2
+STU-FFEB4307,2,5.3,9.1,3,7,0,Lost all motivation to study,1.0,13.3,2
+STU-FFEB4307,3,5.0,9.7,3,8,0,Lost all motivation to study,0.2,15.9,2
+STU-FFEB4307,4,5.0,10.1,3,6,2,Constantly tired no matter how much I sleep,0.0,13.4,2
+STU-FFEB4307,5,4.7,9.7,3,8,1,Feeling numb and disconnected,0.5,13.5,2
+STU-FFEB4307,6,4.3,9.8,4,6,1,Exhausted and burned out from studying,0.0,14.0,2
+STU-FFEB4307,7,4.8,8.3,2,8,2,Struggling to concentrate on anything,0.0,14.2,2
+STU-FFEB4307,8,5.0,8.0,3,7,0,Too much pressure from all sides,0.2,13.4,2
+STU-FFEB4307,9,4.3,9.4,2,9,2,Feeling anxious about everything,0.2,16.0,2
+STU-FFEB4307,10,5.0,9.9,3,8,0,Constantly tired no matter how much I sleep,0.3,15.2,2
+STU-FFEB4307,11,3.5,9.3,3,8,1,Constantly tired no matter how much I sleep,0.0,14.4,2
+STU-FFEB4307,12,5.2,9.1,3,8,1,Lost all motivation to study,0.6,15.3,2
+STU-D430F94D,1,7.9,4.2,0,2,5,"Good energy, looking forward to classes",3.6,4.8,0
+STU-D430F94D,2,7.4,4.3,0,3,5,Happy and well-rested,4.5,4.4,0
+STU-D430F94D,3,7.7,6.2,0,3,6,Enjoying the learning process,3.6,4.1,0
+STU-D430F94D,4,,2.8,0,2,6,Enjoying the learning process,3.9,3.1,0
+STU-D430F94D,5,7.6,5.8,0,3,5,Happy and well-rested,3.3,4.2,0
+STU-D430F94D,6,8.8,2.5,0,3,5,Excited about upcoming projects,3.9,5.7,0
+STU-D430F94D,7,8.8,4.4,0,4,6,Feeling calm and focused,3.1,5.4,0
+STU-D430F94D,8,7.8,3.4,0,2,6,Feeling balanced and in control,3.8,4.7,0
+STU-D430F94D,9,7.6,2.9,0,4,5,Excited about upcoming projects,3.8,4.4,0
+STU-D430F94D,10,9.3,4.1,0,2,6,"Good energy, looking forward to classes",,3.5,0
+STU-D430F94D,11,7.5,3.6,0,1,5,Feeling great and motivated today,3.5,3.0,0
+STU-D430F94D,12,8.4,5.6,1,3,5,Motivated to study and stay on track,4.2,4.0,0
+STU-DA3AA188,1,3.9,9.7,4,10,1,Feeling numb and disconnected,0.0,14.9,2
+STU-DA3AA188,2,3.7,8.3,5,10,0,Struggling to concentrate on anything,0.8,13.2,2
+STU-DA3AA188,3,4.7,9.6,5,9,1,Dreading going to class,0.5,15.3,2
+STU-DA3AA188,4,4.0,9.1,5,8,2,Very stressed about deadlines,0.0,14.2,2
+STU-DA3AA188,5,4.2,8.0,4,10,0,"Breaking down emotionally, can't handle it",0.4,14.8,2
+STU-DA3AA188,6,4.8,8.4,4,7,0,Feeling numb and disconnected,0.0,14.3,2
+STU-DA3AA188,7,,9.6,4,9,1,Dreading going to class,1.1,14.8,2
+STU-DA3AA188,8,4.4,11.4,4,9,1,Feeling numb and disconnected,1.2,16.0,2
+STU-DA3AA188,9,3.1,10.1,4,8,0,Very stressed about deadlines,0.5,14.6,2
+STU-DA3AA188,10,3.0,7.4,4,7,0,Feeling isolated and lonely,0.6,15.2,2
+STU-DA3AA188,11,3.8,10.0,4,9,0,Very stressed about deadlines,0.2,14.9,2
+STU-DA3AA188,12,3.7,9.7,4,9,0,Lost all motivation to study,0.8,14.8,2
+STU-EE12899E,1,8.6,1.4,1,3,4,Excited about upcoming projects,5.0,6.2,0
+STU-EE12899E,2,7.7,2.2,0,2,3,"Good energy, looking forward to classes",5.1,6.3,0
+STU-EE12899E,3,7.5,3.2,0,2,5,Motivated to study and stay on track,4.3,4.9,0
+STU-EE12899E,4,7.9,2.6,0,3,5,Enjoying the learning process,4.9,5.3,0
+STU-EE12899E,5,8.3,1.0,0,2,5,Excited about upcoming projects,5.2,6.7,0
+STU-EE12899E,6,7.6,2.9,1,2,5,Happy and well-rested,4.1,4.6,0
+STU-EE12899E,7,8.0,3.8,0,4,5,"Had a productive day, feeling accomplished",3.9,6.2,0
+STU-EE12899E,8,8.1,3.7,0,2,4,Feeling calm and focused,3.7,5.3,0
+STU-EE12899E,9,7.7,2.6,1,2,2,Motivated to study and stay on track,4.3,5.9,0
+STU-EE12899E,10,,2.3,0,2,6,Feeling confident about exams,4.6,5.4,0
+STU-EE12899E,11,6.9,2.9,0,3,5,Feeling great and motivated today,4.2,5.7,0
+STU-EE12899E,12,8.0,3.0,0,2,5,Happy and well-rested,5.0,6.5,0
+STU-1AFCC0F0,1,7.7,6.9,0,5,4,Enjoying the learning process,3.6,7.4,0
+STU-1AFCC0F0,2,7.0,4.8,2,5,5,Things are manageable but not exciting,4.0,7.3,0
+STU-1AFCC0F0,3,6.6,5.0,2,4,4,Struggling to concentrate on anything,3.3,6.1,0
+STU-1AFCC0F0,4,6.3,5.6,2,6,3,Just getting by day to day,3.4,7.9,1
+STU-1AFCC0F0,5,6.0,5.5,2,5,4,Feeling numb and disconnected,3.2,8.0,1
+STU-1AFCC0F0,6,6.3,5.6,3,6,3,Just getting by day to day,2.5,8.3,1
+STU-1AFCC0F0,7,5.2,5.3,2,5,3,Lost all motivation to study,2.5,9.7,1
+STU-1AFCC0F0,8,5.9,7.2,2,6,2,"Can't sleep well, too much anxiety",2.4,8.4,1
+STU-1AFCC0F0,9,5.0,6.1,4,6,2,"Can't sleep well, too much anxiety",2.9,8.9,1
+STU-1AFCC0F0,10,4.9,4.7,3,7,2,Feeling overwhelmed with assignments,1.9,8.7,2
+STU-1AFCC0F0,11,5.7,5.0,4,7,1,Feeling isolated and lonely,2.0,9.5,2
+STU-1AFCC0F0,12,5.8,4.8,4,8,2,Feeling numb and disconnected,2.2,10.3,2
+STU-AB5E5D99,1,6.4,9.6,1,6,4,"Neither good nor bad, just normal",1.8,6.7,1
+STU-AB5E5D99,2,6.2,9.3,2,5,2,"Routine day, nothing remarkable",2.0,7.7,1
+STU-AB5E5D99,3,6.9,7.9,1,3,3,"Feeling okay, nothing special",2.5,7.0,0
+STU-AB5E5D99,4,6.7,7.8,1,6,4,Feeling overwhelmed with assignments,1.7,7.3,1
+STU-AB5E5D99,5,,9.0,1,5,5,"Neither good nor bad, just normal",2.4,7.2,0
+STU-AB5E5D99,6,6.7,8.4,0,5,3,Things are manageable but not exciting,1.7,7.5,1
+STU-AB5E5D99,7,8.3,10.7,1,6,4,"Good energy, looking forward to classes",1.7,6.9,1
+STU-AB5E5D99,8,6.6,8.9,1,4,5,"Average day, going through the motions",1.5,7.3,0
+STU-AB5E5D99,9,6.1,7.2,2,4,3,Happy and well-rested,2.2,7.7,1
+STU-AB5E5D99,10,7.2,6.6,1,5,4,"Routine day, nothing remarkable",2.2,7.5,0
+STU-AB5E5D99,11,6.2,6.7,1,7,4,Motivated to study and stay on track,2.9,8.8,1
+STU-AB5E5D99,12,8.3,8.8,0,7,4,"Feeling okay, nothing special",1.8,8.1,1
+STU-2DBD8E0F,1,6.2,5.2,0,3,4,Enjoying the learning process,3.2,2.8,0
+STU-2DBD8E0F,2,8.1,3.5,0,3,3,Feeling balanced and in control,4.0,2.0,0
+STU-2DBD8E0F,3,6.9,4.3,0,4,3,Feeling calm and focused,3.2,3.7,0
+STU-2DBD8E0F,4,7.3,2.6,0,3,5,Excited about upcoming projects,3.6,3.3,0
+STU-2DBD8E0F,5,7.1,3.9,0,2,4,"Good energy, looking forward to classes",3.4,2.1,0
+STU-2DBD8E0F,6,7.4,4.8,0,3,2,Happy and well-rested,3.5,3.2,0
+STU-2DBD8E0F,7,8.1,4.0,0,3,4,Feeling great and motivated today,4.6,3.0,0
+STU-2DBD8E0F,8,7.4,4.3,0,2,3,Feeling balanced and in control,3.7,2.0,0
+STU-2DBD8E0F,9,7.1,3.1,0,3,4,Feeling confident about exams,2.9,2.5,0
+STU-2DBD8E0F,10,7.8,4.4,0,2,3,Feeling calm and focused,4.2,2.3,0
+STU-2DBD8E0F,11,7.2,5.2,0,2,4,Feeling balanced and in control,3.8,4.5,0
+STU-2DBD8E0F,12,7.1,5.1,0,2,4,Happy and well-rested,3.4,2.3,0
+STU-FDBC0D21,1,6.6,3.8,1,5,3,"Had a productive day, feeling accomplished",4.3,7.1,1
+STU-FDBC0D21,2,5.7,4.8,1,5,3,Just getting by day to day,3.7,9.2,1
+STU-FDBC0D21,3,6.9,2.6,0,5,2,Enjoying the learning process,4.1,7.2,0
+STU-FDBC0D21,4,6.6,4.4,1,4,4,"Feeling okay, nothing special",4.3,8.0,0
+STU-FDBC0D21,5,6.3,3.6,2,4,1,"Routine day, nothing remarkable",3.4,8.3,1
+STU-FDBC0D21,6,5.3,2.4,3,6,2,Happy and well-rested,3.9,6.9,1
+STU-FDBC0D21,7,5.3,3.9,2,6,1,Struggling to concentrate on anything,3.6,10.1,1
+STU-FDBC0D21,8,5.1,5.4,2,6,2,Feeling isolated and lonely,3.1,9.3,1
+STU-FDBC0D21,9,5.2,4.5,2,7,1,"Breaking down emotionally, can't handle it",3.2,9.6,2
+STU-FDBC0D21,10,5.2,5.1,2,6,2,Feeling overwhelmed with assignments,2.2,8.6,1
+STU-FDBC0D21,11,4.2,6.2,3,7,0,Struggling to concentrate on anything,2.9,9.7,2
+STU-FDBC0D21,12,6.2,4.9,4,8,0,Lost all motivation to study,2.3,11.7,2
+STU-F7C361EC,1,8.3,7.3,0,2,6,"Had a productive day, feeling accomplished",3.8,5.5,0
+STU-F7C361EC,2,7.2,6.0,1,2,5,Feeling confident about exams,4.5,6.0,0
+STU-F7C361EC,3,7.4,5.0,0,2,5,Feeling calm and focused,5.1,5.5,0
+STU-F7C361EC,4,8.0,4.5,0,1,5,"Had a productive day, feeling accomplished",4.1,4.7,0
+STU-F7C361EC,5,8.4,4.4,1,3,6,Feeling balanced and in control,5.0,4.6,0
+STU-F7C361EC,6,,4.8,0,3,6,Feeling confident about exams,4.8,5.6,0
+STU-F7C361EC,7,7.0,4.9,0,2,6,Excited about upcoming projects,4.0,4.3,0
+STU-F7C361EC,8,7.7,3.7,0,2,7,Feeling great and motivated today,5.1,4.8,0
+STU-F7C361EC,9,7.5,4.3,0,3,6,Feeling confident about exams,4.9,3.9,0
+STU-F7C361EC,10,7.0,3.7,0,2,6,Enjoying the learning process,3.8,4.7,0
+STU-F7C361EC,11,6.7,4.2,0,2,5,Feeling confident about exams,4.4,4.5,0
+STU-F7C361EC,12,7.3,5.3,1,2,6,Excited about upcoming projects,4.7,5.1,0
+STU-7249E9A4,1,5.1,13.7,6,8,0,Feeling numb and disconnected,1.3,10.0,2
+STU-7249E9A4,2,,12.0,6,9,0,Lost all motivation to study,0.6,11.5,2
+STU-7249E9A4,3,5.4,12.3,6,9,0,Too much pressure from all sides,0.4,9.4,2
+STU-7249E9A4,4,5.5,11.4,6,10,0,Constantly tired no matter how much I sleep,0.1,12.2,2
+STU-7249E9A4,5,5.8,14.0,7,8,0,"Breaking down emotionally, can't handle it",0.5,10.3,2
+STU-7249E9A4,6,4.0,11.7,5,7,0,Constantly tired no matter how much I sleep,0.0,9.8,2
+STU-7249E9A4,7,5.1,12.7,6,9,0,Too much pressure from all sides,0.4,12.3,2
+STU-7249E9A4,8,5.3,9.8,6,9,1,"Can't sleep well, too much anxiety",0.3,10.3,2
+STU-7249E9A4,9,5.5,12.6,6,9,0,Lost all motivation to study,0.6,11.3,2
+STU-7249E9A4,10,7.0,11.9,6,9,0,"Can't sleep well, too much anxiety",0.0,11.3,2
+STU-7249E9A4,11,4.9,12.6,5,8,0,Very stressed about deadlines,0.2,11.0,2
+STU-7249E9A4,12,4.4,12.4,6,9,0,"Breaking down emotionally, can't handle it",0.5,10.3,2
+STU-A5E1F76F,1,4.0,10.6,4,3,0,Lost all motivation to study,1.0,8.5,2
+STU-A5E1F76F,2,5.1,9.3,4,5,1,Constantly tired no matter how much I sleep,1.1,8.6,2
+STU-A5E1F76F,3,4.7,11.4,3,4,1,Feeling overwhelmed with assignments,1.5,9.2,1
+STU-A5E1F76F,4,4.2,9.1,3,4,3,Feeling isolated and lonely,2.1,8.9,1
+STU-A5E1F76F,5,5.7,11.4,5,5,0,Exhausted and burned out from studying,1.4,7.8,2
+STU-A5E1F76F,6,5.6,12.2,3,5,1,Feeling overwhelmed with assignments,1.5,9.1,2
+STU-A5E1F76F,7,6.4,11.1,3,4,1,"Feeling okay, nothing special",2.0,7.5,1
+STU-A5E1F76F,8,5.6,8.6,3,3,1,Feeling indifferent about things,1.7,7.7,1
+STU-A5E1F76F,9,6.2,12.3,2,5,2,"Routine day, nothing remarkable",1.9,7.2,1
+STU-A5E1F76F,10,5.9,11.6,2,5,3,"Good energy, looking forward to classes",2.8,7.0,1
+STU-A5E1F76F,11,7.0,11.1,2,3,1,Feeling great and motivated today,3.1,6.8,1
+STU-A5E1F76F,12,7.0,12.3,1,1,2,Feeling calm and focused,2.3,7.2,0
+STU-3C9CC9B6,1,7.9,3.4,0,1,7,"Good energy, looking forward to classes",4.7,4.1,0
+STU-3C9CC9B6,2,8.3,5.1,2,1,4,Feeling confident about exams,3.2,3.6,0
+STU-3C9CC9B6,3,6.9,4.5,1,1,5,Feeling great and motivated today,3.8,4.4,0
+STU-3C9CC9B6,4,7.6,4.9,0,1,5,Feeling confident about exams,3.7,3.9,0
+STU-3C9CC9B6,5,8.8,4.9,1,1,5,"Good energy, looking forward to classes",4.2,4.9,0
+STU-3C9CC9B6,6,8.2,3.9,0,1,6,"Had a productive day, feeling accomplished",3.2,4.9,0
+STU-3C9CC9B6,7,7.5,4.2,0,2,5,Feeling confident about exams,4.1,4.1,0
+STU-3C9CC9B6,8,9.3,4.1,0,1,6,Happy and well-rested,3.5,2.8,0
+STU-3C9CC9B6,9,7.9,5.3,0,1,5,Happy and well-rested,4.0,4.0,0
+STU-3C9CC9B6,10,8.7,4.9,0,2,4,Motivated to study and stay on track,4.2,4.2,0
+STU-3C9CC9B6,11,7.4,6.5,0,2,5,Happy and well-rested,3.7,4.2,0
+STU-3C9CC9B6,12,8.2,5.7,0,1,6,Feeling confident about exams,4.1,3.9,0
+STU-AB035F63,1,3.9,10.3,4,8,0,"Can't sleep well, too much anxiety",1.6,14.8,2
+STU-AB035F63,2,5.0,9.3,4,9,0,Constantly tired no matter how much I sleep,0.3,14.7,2
+STU-AB035F63,3,4.2,8.1,5,7,0,"Breaking down emotionally, can't handle it",1.2,14.4,2
+STU-AB035F63,4,3.0,7.5,5,7,0,Constantly tired no matter how much I sleep,0.5,13.0,2
+STU-AB035F63,5,5.1,10.8,5,8,0,Struggling to concentrate on anything,0.8,15.6,2
+STU-AB035F63,6,4.1,8.7,4,9,0,Lost all motivation to study,0.3,13.7,2
+STU-AB035F63,7,4.1,10.6,5,8,0,Dreading going to class,0.6,14.9,2
+STU-AB035F63,8,5.0,9.4,5,9,0,Feeling isolated and lonely,0.6,14.8,2
+STU-AB035F63,9,5.1,10.3,4,8,0,Lost all motivation to study,0.7,13.1,2
+STU-AB035F63,10,4.3,10.2,4,9,0,Very stressed about deadlines,0.9,14.5,2
+STU-AB035F63,11,4.7,8.0,4,6,0,"Breaking down emotionally, can't handle it",1.2,14.4,2
+STU-AB035F63,12,4.8,9.4,4,8,0,Feeling hopeless about my grades,1.0,13.5,2
+STU-0B280B5F,1,5.4,5.0,2,2,5,Feeling balanced and in control,4.6,7.5,0
+STU-0B280B5F,2,6.7,3.9,1,4,3,"Can't sleep well, too much anxiety",4.5,5.2,0
+STU-0B280B5F,3,5.8,4.0,1,5,4,Just getting by day to day,4.6,5.7,1
+STU-0B280B5F,4,4.8,6.5,1,5,2,Feeling confident about exams,4.1,6.6,1
+STU-0B280B5F,5,4.8,5.0,1,5,3,Feeling indifferent about things,4.2,5.4,1
+STU-0B280B5F,6,5.3,4.2,2,4,3,Things are manageable but not exciting,3.6,8.0,1
+STU-0B280B5F,7,4.1,5.5,2,6,3,"Can't sleep well, too much anxiety",4.0,7.4,1
+STU-0B280B5F,8,3.9,7.2,3,6,2,"Breaking down emotionally, can't handle it",3.7,7.7,1
+STU-0B280B5F,9,5.8,3.0,2,6,1,Constantly tired no matter how much I sleep,3.1,8.0,1
+STU-0B280B5F,10,4.2,4.5,2,8,3,Struggling to concentrate on anything,3.0,8.4,2
+STU-0B280B5F,11,4.0,5.3,3,7,2,Constantly tired no matter how much I sleep,2.8,7.2,2
+STU-0B280B5F,12,3.8,4.4,3,7,3,Feeling overwhelmed with assignments,3.1,9.9,2
+STU-681DA6B5,1,7.5,7.3,0,3,5,Feeling confident about exams,2.6,5.8,0
+STU-681DA6B5,2,,7.3,0,3,6,Feeling balanced and in control,3.3,4.3,0
+STU-681DA6B5,3,7.0,5.3,0,4,5,Happy and well-rested,3.3,5.3,0
+STU-681DA6B5,4,7.2,5.5,0,3,5,"Good energy, looking forward to classes",3.3,7.2,0
+STU-681DA6B5,5,6.9,5.4,0,3,6,Feeling great and motivated today,3.9,6.1,0
+STU-681DA6B5,6,6.4,5.4,0,5,6,"Had a productive day, feeling accomplished",3.2,5.5,0
+STU-681DA6B5,7,7.0,4.9,0,3,6,Happy and well-rested,3.8,6.0,0
+STU-681DA6B5,8,6.8,5.8,0,3,5,Feeling confident about exams,4.5,5.8,0
+STU-681DA6B5,9,6.8,7.8,0,3,6,Enjoying the learning process,3.6,6.2,0
+STU-681DA6B5,10,6.8,5.0,0,5,6,Excited about upcoming projects,3.8,5.9,0
+STU-681DA6B5,11,8.3,5.7,0,4,4,Feeling great and motivated today,3.0,6.6,0
+STU-681DA6B5,12,5.6,4.8,0,3,6,Excited about upcoming projects,3.1,6.4,0
+STU-CDA23BD5,1,6.3,4.4,0,4,0,Too much pressure from all sides,3.1,7.5,0
+STU-CDA23BD5,2,5.3,7.3,2,3,2,"Feeling okay, nothing special",2.9,7.8,0
+STU-CDA23BD5,3,6.5,7.8,2,4,2,Feeling calm and focused,4.1,7.6,1
+STU-CDA23BD5,4,5.2,6.7,0,3,2,Just getting by day to day,3.4,8.7,0
+STU-CDA23BD5,5,6.8,5.2,1,3,1,"Feeling okay, nothing special",3.5,8.5,0
+STU-CDA23BD5,6,6.1,6.5,1,4,1,"Routine day, nothing remarkable",3.4,7.6,1
+STU-CDA23BD5,7,6.5,7.3,1,3,2,Struggling to concentrate on anything,3.9,8.8,0
+STU-CDA23BD5,8,,5.7,0,4,2,"Average day, going through the motions",3.4,8.0,0
+STU-CDA23BD5,9,6.9,6.4,2,3,0,Just getting by day to day,3.0,8.3,0
+STU-CDA23BD5,10,6.0,7.0,1,4,3,Feeling indifferent about things,3.7,8.3,0
+STU-CDA23BD5,11,6.7,6.6,1,5,2,"Average day, going through the motions",3.2,7.9,1
+STU-CDA23BD5,12,6.2,7.1,0,4,1,Excited about upcoming projects,3.2,8.2,0
+STU-909D45A9,1,3.0,12.2,4,10,0,Constantly tired no matter how much I sleep,0.2,11.5,2
+STU-909D45A9,2,3.4,14.0,4,7,0,Dreading going to class,0.0,10.7,2
+STU-909D45A9,3,3.7,14.0,4,8,0,Feeling hopeless about my grades,0.6,10.3,2
+STU-909D45A9,4,3.7,12.2,6,10,0,Dreading going to class,0.8,10.7,2
+STU-909D45A9,5,3.6,12.8,5,8,0,Very stressed about deadlines,0.8,10.3,2
+STU-909D45A9,6,3.0,14.0,5,9,0,Feeling isolated and lonely,0.8,11.6,2
+STU-909D45A9,7,3.6,13.6,4,9,1,Lost all motivation to study,0.2,10.0,2
+STU-909D45A9,8,3.9,13.9,5,10,0,Feeling isolated and lonely,1.0,11.4,2
+STU-909D45A9,9,,13.8,4,9,0,"Breaking down emotionally, can't handle it",0.3,11.5,2
+STU-909D45A9,10,3.3,13.6,5,8,0,Constantly tired no matter how much I sleep,0.9,11.0,2
+STU-909D45A9,11,3.8,13.2,4,9,0,Exhausted and burned out from studying,0.4,11.2,2
+STU-909D45A9,12,4.2,14.0,5,8,1,Feeling anxious about everything,,11.4,2
+STU-A2E1711C,1,8.2,4.7,0,2,4,"Good energy, looking forward to classes",4.2,7.1,0
+STU-A2E1711C,2,9.2,5.0,0,3,4,Motivated to study and stay on track,4.5,6.2,0
+STU-A2E1711C,3,9.2,3.3,0,3,3,Feeling calm and focused,4.8,6.7,0
+STU-A2E1711C,4,9.2,4.5,0,4,4,"Had a productive day, feeling accomplished",3.7,5.3,0
+STU-A2E1711C,5,8.4,5.9,0,2,4,Excited about upcoming projects,4.7,6.1,0
+STU-A2E1711C,6,7.6,4.8,1,2,3,"Had a productive day, feeling accomplished",,4.7,0
+STU-A2E1711C,7,9.1,5.7,0,2,3,Motivated to study and stay on track,5.2,5.8,0
+STU-A2E1711C,8,9.0,4.2,0,2,3,Excited about upcoming projects,4.6,8.1,0
+STU-A2E1711C,9,8.9,4.4,0,3,4,Motivated to study and stay on track,5.0,6.4,0
+STU-A2E1711C,10,9.8,4.3,0,2,4,"Had a productive day, feeling accomplished",4.7,6.0,0
+STU-A2E1711C,11,9.0,2.9,0,2,3,Feeling confident about exams,4.4,7.3,0
+STU-A2E1711C,12,9.1,3.3,0,4,4,Feeling confident about exams,3.9,6.1,0
+STU-4A64161E,1,5.3,6.4,1,4,2,Feeling indifferent about things,2.5,7.4,1
+STU-4A64161E,2,6.0,8.4,1,4,4,Feeling numb and disconnected,1.8,7.5,0
+STU-4A64161E,3,5.9,7.0,2,2,2,Excited about upcoming projects,0.7,7.8,0
+STU-4A64161E,4,5.8,8.4,1,4,4,"Doing alright, could be better",0.7,7.5,1
+STU-4A64161E,5,5.1,6.5,1,3,4,Feeling calm and focused,1.8,8.2,0
+STU-4A64161E,6,5.8,6.2,2,3,5,"Doing alright, could be better",2.3,8.5,0
+STU-4A64161E,7,5.7,7.1,2,4,2,"Feeling okay, nothing special",1.0,7.2,1
+STU-4A64161E,8,7.0,6.9,2,3,4,Just getting by day to day,1.1,6.2,0
+STU-4A64161E,9,5.3,5.6,3,4,3,"Neither good nor bad, just normal",1.3,7.1,1
+STU-4A64161E,10,5.4,5.9,2,4,3,"Average day, going through the motions",2.4,8.7,1
+STU-4A64161E,11,5.9,6.3,2,3,4,Happy and well-rested,1.9,8.1,0
+STU-4A64161E,12,5.9,7.0,2,5,3,"Breaking down emotionally, can't handle it",1.3,7.9,1
+STU-6F3F6739,1,3.2,12.8,3,9,0,Constantly tired no matter how much I sleep,1.0,11.8,2
+STU-6F3F6739,2,4.0,12.4,2,7,1,Dreading going to class,0.8,14.1,2
+STU-6F3F6739,3,3.6,13.5,2,9,0,Feeling hopeless about my grades,,12.6,2
+STU-6F3F6739,4,4.5,13.0,3,8,0,Lost all motivation to study,0.6,13.4,2
+STU-6F3F6739,5,3.0,13.6,3,7,0,Feeling hopeless about my grades,0.6,13.8,2
+STU-6F3F6739,6,4.4,13.6,2,8,0,Feeling numb and disconnected,0.4,15.2,2
+STU-6F3F6739,7,4.2,13.2,3,8,0,Feeling anxious about everything,0.5,13.3,2
+STU-6F3F6739,8,3.7,11.5,4,8,0,Very stressed about deadlines,0.3,13.5,2
+STU-6F3F6739,9,3.8,13.7,3,9,0,"Can't sleep well, too much anxiety",0.3,13.9,2
+STU-6F3F6739,10,4.1,13.6,3,9,0,Struggling to concentrate on anything,0.9,12.2,2
+STU-6F3F6739,11,3.4,14.0,3,7,0,Too much pressure from all sides,1.3,13.6,2
+STU-6F3F6739,12,4.5,14.0,2,8,0,Very stressed about deadlines,0.8,13.2,2
+STU-01256285,1,7.7,2.9,0,2,6,Motivated to study and stay on track,4.1,3.6,0
+STU-01256285,2,8.2,2.3,0,2,5,Motivated to study and stay on track,4.9,2.9,0
+STU-01256285,3,8.0,3.8,0,1,5,Enjoying the learning process,3.7,2.0,0
+STU-01256285,4,7.8,4.3,1,1,5,Feeling confident about exams,4.6,4.3,0
+STU-01256285,5,6.5,4.1,0,4,4,Excited about upcoming projects,4.2,3.7,0
+STU-01256285,6,,3.5,0,3,5,Enjoying the learning process,3.5,4.2,0
+STU-01256285,7,8.0,2.7,0,2,6,Feeling balanced and in control,3.5,2.1,0
+STU-01256285,8,8.2,3.5,0,2,5,Excited about upcoming projects,4.0,3.1,0
+STU-01256285,9,8.9,4.1,0,3,6,Excited about upcoming projects,,2.8,0
+STU-01256285,10,7.5,3.1,0,2,6,Happy and well-rested,3.7,3.3,0
+STU-01256285,11,7.4,4.4,0,3,4,Enjoying the learning process,3.6,3.2,0
+STU-01256285,12,7.8,2.5,0,2,6,Feeling great and motivated today,4.0,4.3,0
+STU-33FC9B54,1,4.9,9.7,5,8,0,Feeling numb and disconnected,,13.8,2
+STU-33FC9B54,2,5.2,9.7,5,6,0,Very stressed about deadlines,0.6,12.9,2
+STU-33FC9B54,3,4.8,9.9,5,7,0,Dreading going to class,0.9,14.1,2
+STU-33FC9B54,4,4.5,9.0,6,8,0,"Can't sleep well, too much anxiety",1.0,12.8,2
+STU-33FC9B54,5,3.3,10.7,5,7,0,Feeling isolated and lonely,0.7,12.8,2
+STU-33FC9B54,6,5.2,10.1,6,6,0,"Can't sleep well, too much anxiety",1.7,13.4,2
+STU-33FC9B54,7,4.2,11.1,5,7,0,"Can't sleep well, too much anxiety",0.8,12.7,2
+STU-33FC9B54,8,4.8,9.7,6,7,0,Struggling to concentrate on anything,0.6,12.4,2
+STU-33FC9B54,9,4.7,9.1,6,7,0,"Breaking down emotionally, can't handle it",1.3,13.3,2
+STU-33FC9B54,10,5.2,11.5,5,8,0,Exhausted and burned out from studying,0.8,13.4,2
+STU-33FC9B54,11,4.9,10.8,5,7,0,Struggling to concentrate on anything,0.0,12.8,2
+STU-33FC9B54,12,4.0,8.6,5,6,0,Dreading going to class,0.4,13.6,2
+STU-7B6FC6B1,1,7.5,5.6,0,5,3,Feeling numb and disconnected,3.6,6.5,0
+STU-7B6FC6B1,2,7.3,4.9,1,5,3,Feeling calm and focused,3.5,6.1,0
+STU-7B6FC6B1,3,7.0,4.1,1,5,2,Feeling indifferent about things,,5.5,1
+STU-7B6FC6B1,4,7.6,5.6,1,7,2,"Good energy, looking forward to classes",3.4,8.0,1
+STU-7B6FC6B1,5,7.1,4.6,1,7,3,"Average day, going through the motions",2.9,6.7,1
+STU-7B6FC6B1,6,6.5,4.0,1,7,2,"Neither good nor bad, just normal",2.8,8.2,1
+STU-7B6FC6B1,7,6.4,5.4,2,6,2,Feeling anxious about everything,2.1,7.3,1
+STU-7B6FC6B1,8,6.5,5.5,2,6,1,Feeling anxious about everything,3.2,6.5,1
+STU-7B6FC6B1,9,6.0,4.7,3,7,1,"Can't sleep well, too much anxiety",2.5,9.1,2
+STU-7B6FC6B1,10,6.8,5.5,2,8,1,"Can't sleep well, too much anxiety",2.3,8.7,2
+STU-7B6FC6B1,11,5.0,4.6,4,9,2,Too much pressure from all sides,2.4,8.6,2
+STU-7B6FC6B1,12,5.4,6.0,2,7,0,Feeling anxious about everything,,9.9,2
+STU-0A267127,1,6.5,7.4,2,4,4,Just getting by day to day,4.3,9.5,0
+STU-0A267127,2,5.7,7.4,1,5,4,Feeling anxious about everything,4.0,7.5,1
+STU-0A267127,3,6.0,9.4,2,5,3,Feeling great and motivated today,3.6,8.7,1
+STU-0A267127,4,6.4,8.3,2,4,5,Feeling balanced and in control,4.5,7.5,0
+STU-0A267127,5,6.9,9.8,1,4,3,"Doing alright, could be better",3.1,9.0,0
+STU-0A267127,6,6.3,8.0,2,3,5,Things are manageable but not exciting,4.0,7.2,0
+STU-0A267127,7,6.0,8.3,2,5,4,"Feeling okay, nothing special",3.4,8.6,1
+STU-0A267127,8,6.2,6.7,2,3,2,Feeling indifferent about things,4.1,9.1,0
+STU-0A267127,9,5.5,8.2,2,4,3,Feeling indifferent about things,3.8,8.5,1
+STU-0A267127,10,5.8,6.7,3,4,3,Things are manageable but not exciting,3.8,8.2,1
+STU-0A267127,11,5.7,7.9,1,5,4,"Average day, going through the motions",3.1,8.3,1
+STU-0A267127,12,5.4,8.2,3,4,5,"Neither good nor bad, just normal",3.7,8.7,1
+STU-DC5F286C,1,5.4,6.8,2,5,1,"Routine day, nothing remarkable",1.7,4.7,1
+STU-DC5F286C,2,5.8,5.6,1,4,2,Just getting by day to day,1.9,4.6,1
+STU-DC5F286C,3,5.2,7.4,2,2,1,Just getting by day to day,2.0,7.6,0
+STU-DC5F286C,4,5.3,6.9,2,6,2,Struggling to concentrate on anything,1.7,6.3,1
+STU-DC5F286C,5,5.1,5.6,1,4,1,Just getting by day to day,1.5,6.2,1
+STU-DC5F286C,6,6.2,5.2,2,5,2,"Can't sleep well, too much anxiety",1.7,6.2,1
+STU-DC5F286C,7,4.5,7.3,2,5,1,"Average day, going through the motions",2.3,7.6,1
+STU-DC5F286C,8,5.6,6.1,2,4,2,"Routine day, nothing remarkable",1.9,7.3,1
+STU-DC5F286C,9,5.0,7.1,1,4,2,Motivated to study and stay on track,1.9,6.6,1
+STU-DC5F286C,10,5.1,6.6,2,4,2,"Average day, going through the motions",1.9,5.4,1
+STU-DC5F286C,11,5.4,7.4,1,5,2,Happy and well-rested,2.0,8.2,1
+STU-DC5F286C,12,6.4,8.2,1,4,2,Feeling hopeless about my grades,1.8,5.2,1
+STU-492653E0,1,5.2,7.7,2,6,2,"Neither good nor bad, just normal",,7.6,1
+STU-492653E0,2,5.1,8.2,2,6,4,Feeling anxious about everything,3.3,6.4,1
+STU-492653E0,3,5.4,6.3,2,7,2,"Doing alright, could be better",3.3,7.1,1
+STU-492653E0,4,6.5,6.7,1,7,2,"Routine day, nothing remarkable",3.0,6.7,1
+STU-492653E0,5,7.2,6.7,1,8,3,Constantly tired no matter how much I sleep,3.7,6.2,1
+STU-492653E0,6,6.2,5.3,2,5,3,Feeling indifferent about things,4.0,5.8,1
+STU-492653E0,7,6.9,7.9,2,6,3,"Average day, going through the motions",3.7,8.2,1
+STU-492653E0,8,6.7,4.5,1,6,1,Dreading going to class,3.2,6.0,1
+STU-492653E0,9,5.8,6.5,1,6,3,"Doing alright, could be better",3.7,6.4,1
+STU-492653E0,10,6.6,7.1,1,7,2,Just getting by day to day,3.1,8.4,1
+STU-492653E0,11,6.8,6.7,2,6,2,"Good energy, looking forward to classes",3.6,7.1,1
+STU-492653E0,12,,5.7,1,6,2,"Routine day, nothing remarkable",4.3,6.8,1
+STU-3E126CC0,1,9.3,3.0,1,5,4,"Good energy, looking forward to classes",4.9,5.5,0
+STU-3E126CC0,2,9.4,3.8,0,3,5,Enjoying the learning process,4.4,5.7,0
+STU-3E126CC0,3,8.8,4.2,0,4,4,Feeling great and motivated today,4.7,4.9,0
+STU-3E126CC0,4,7.8,2.4,0,2,4,"Had a productive day, feeling accomplished",4.0,5.5,0
+STU-3E126CC0,5,9.2,1.6,1,2,5,Happy and well-rested,4.8,4.4,0
+STU-3E126CC0,6,9.2,2.8,0,2,5,Excited about upcoming projects,4.1,4.9,0
+STU-3E126CC0,7,8.8,2.9,0,4,4,"Good energy, looking forward to classes",4.6,6.0,0
+STU-3E126CC0,8,8.7,2.8,1,3,4,Feeling confident about exams,4.4,6.6,0
+STU-3E126CC0,9,8.4,4.7,0,3,5,Happy and well-rested,4.0,5.4,0
+STU-3E126CC0,10,9.5,3.3,1,5,5,Feeling confident about exams,3.8,4.8,0
+STU-3E126CC0,11,8.9,4.5,1,2,5,Feeling great and motivated today,4.2,5.3,0
+STU-3E126CC0,12,8.0,4.8,0,2,4,Happy and well-rested,4.9,4.2,0
+STU-BE872A69,1,4.4,11.9,6,8,1,Feeling overwhelmed with assignments,0.7,11.2,2
+STU-BE872A69,2,4.5,13.3,6,8,0,Feeling anxious about everything,0.4,10.8,2
+STU-BE872A69,3,5.3,12.2,5,7,0,Dreading going to class,0.4,10.1,2
+STU-BE872A69,4,4.5,12.2,5,6,0,Exhausted and burned out from studying,1.0,10.9,2
+STU-BE872A69,5,5.6,13.0,6,7,1,Struggling to concentrate on anything,0.9,11.2,2
+STU-BE872A69,6,5.2,12.3,6,7,0,Dreading going to class,0.0,10.3,2
+STU-BE872A69,7,,10.7,6,6,1,Feeling isolated and lonely,0.1,11.3,2
+STU-BE872A69,8,4.7,14.0,5,7,0,Very stressed about deadlines,0.2,10.1,2
+STU-BE872A69,9,4.9,13.6,5,5,1,Feeling hopeless about my grades,0.7,10.1,2
+STU-BE872A69,10,4.1,13.1,5,8,0,Dreading going to class,0.2,10.3,2
+STU-BE872A69,11,4.2,11.9,5,7,1,Constantly tired no matter how much I sleep,0.3,9.2,2
+STU-BE872A69,12,4.2,11.1,6,7,1,Lost all motivation to study,0.8,10.6,2
+STU-30BC1FBE,1,8.1,4.0,0,1,5,Enjoying the learning process,2.6,4.7,0
+STU-30BC1FBE,2,8.5,4.6,0,1,5,"Good energy, looking forward to classes",3.5,5.1,0
+STU-30BC1FBE,3,9.4,5.4,0,2,5,Feeling balanced and in control,3.9,3.5,0
+STU-30BC1FBE,4,8.7,5.8,0,1,5,Feeling balanced and in control,3.7,4.0,0
+STU-30BC1FBE,5,8.8,4.1,0,1,5,"Had a productive day, feeling accomplished",3.1,4.8,0
+STU-30BC1FBE,6,8.1,3.4,0,1,6,Excited about upcoming projects,3.2,5.1,0
+STU-30BC1FBE,7,8.5,5.8,0,1,4,"Had a productive day, feeling accomplished",3.6,4.1,0
+STU-30BC1FBE,8,8.7,4.2,0,1,5,Happy and well-rested,,4.0,0
+STU-30BC1FBE,9,8.2,5.9,0,2,5,Feeling confident about exams,4.0,2.6,0
+STU-30BC1FBE,10,9.1,6.1,0,1,5,Feeling confident about exams,4.8,5.9,0
+STU-30BC1FBE,11,8.7,4.1,0,2,5,Enjoying the learning process,3.5,4.1,0
+STU-30BC1FBE,12,8.7,4.0,0,1,5,Feeling confident about exams,3.3,5.0,0
+STU-FA9A036E,1,3.9,13.6,5,9,0,Lost all motivation to study,0.5,10.7,2
+STU-FA9A036E,2,3.5,13.8,6,9,0,"Can't sleep well, too much anxiety",0.0,10.8,2
+STU-FA9A036E,3,4.9,12.5,6,10,0,Exhausted and burned out from studying,0.1,11.8,2
+STU-FA9A036E,4,3.0,10.6,7,8,1,Feeling anxious about everything,,10.9,2
+STU-FA9A036E,5,3.8,12.4,6,9,0,Dreading going to class,0.8,11.8,2
+STU-FA9A036E,6,3.0,12.7,6,8,0,Feeling hopeless about my grades,0.3,11.2,2
+STU-FA9A036E,7,3.5,11.9,6,7,0,Dreading going to class,0.6,10.5,2
+STU-FA9A036E,8,3.0,12.6,7,8,0,Feeling overwhelmed with assignments,0.3,10.7,2
+STU-FA9A036E,9,3.0,13.3,7,8,0,Feeling overwhelmed with assignments,0.1,9.5,2
+STU-FA9A036E,10,4.5,14.0,7,7,0,Feeling overwhelmed with assignments,0.0,12.4,2
+STU-FA9A036E,11,3.0,13.6,6,7,0,"Can't sleep well, too much anxiety",0.0,10.7,2
+STU-FA9A036E,12,3.5,12.2,6,8,0,"Breaking down emotionally, can't handle it",0.3,11.5,2
+STU-65F648E3,1,7.9,4.1,1,4,2,"Routine day, nothing remarkable",4.2,7.8,0
+STU-65F648E3,2,8.1,5.9,2,4,2,"Neither good nor bad, just normal",4.2,6.9,0
+STU-65F648E3,3,7.4,4.3,2,6,2,"Neither good nor bad, just normal",4.3,7.1,1
+STU-65F648E3,4,7.5,3.2,1,5,2,Just getting by day to day,4.1,8.7,1
+STU-65F648E3,5,6.0,7.0,3,6,0,Feeling balanced and in control,4.0,9.6,1
+STU-65F648E3,6,6.3,4.6,3,5,0,Feeling indifferent about things,3.4,6.6,1
+STU-65F648E3,7,5.7,4.4,3,6,0,Feeling anxious about everything,3.5,8.6,1
+STU-65F648E3,8,5.5,4.5,3,7,2,Struggling to concentrate on anything,3.5,8.5,2
+STU-65F648E3,9,5.7,5.9,4,7,1,Dreading going to class,3.1,9.8,2
+STU-65F648E3,10,6.6,4.4,3,7,0,Feeling numb and disconnected,3.4,10.1,2
+STU-65F648E3,11,5.6,6.9,3,8,0,Dreading going to class,2.1,10.0,2
+STU-65F648E3,12,5.1,6.0,4,7,0,Dreading going to class,2.0,10.6,2
+STU-F3A02792,1,5.1,7.0,4,4,2,Constantly tired no matter how much I sleep,0.9,12.4,1
+STU-F3A02792,2,4.8,6.3,3,4,2,"Breaking down emotionally, can't handle it",1.9,11.4,1
+STU-F3A02792,3,5.0,9.7,3,5,1,Feeling anxious about everything,2.3,11.2,2
+STU-F3A02792,4,4.9,6.7,3,6,1,Feeling isolated and lonely,1.7,10.3,2
+STU-F3A02792,5,5.0,8.6,3,4,2,Constantly tired no matter how much I sleep,2.3,9.0,1
+STU-F3A02792,6,5.5,7.1,2,4,2,Feeling numb and disconnected,2.4,10.1,1
+STU-F3A02792,7,5.2,8.1,1,6,1,Feeling confident about exams,2.8,10.4,1
+STU-F3A02792,8,4.6,8.4,2,4,3,Things are manageable but not exciting,2.9,9.9,1
+STU-F3A02792,9,6.3,7.3,3,2,2,"Feeling okay, nothing special",2.7,9.9,0
+STU-F3A02792,10,6.7,9.0,1,4,1,Feeling balanced and in control,3.5,8.6,1
+STU-F3A02792,11,5.9,7.9,2,3,2,Motivated to study and stay on track,3.1,9.5,0
+STU-F3A02792,12,6.6,9.0,2,2,1,"Good energy, looking forward to classes",3.1,9.9,0
+STU-8BFFB355,1,5.5,7.1,3,5,2,Too much pressure from all sides,1.3,7.3,1
+STU-8BFFB355,2,5.4,8.9,1,4,2,Lost all motivation to study,2.3,7.4,1
+STU-8BFFB355,3,4.8,6.5,3,7,3,Lost all motivation to study,1.5,7.8,2
+STU-8BFFB355,4,5.3,7.5,2,5,2,Feeling anxious about everything,1.8,8.8,1
+STU-8BFFB355,5,6.9,8.7,2,6,2,Feeling anxious about everything,1.3,7.7,1
+STU-8BFFB355,6,6.0,6.2,2,6,3,Exhausted and burned out from studying,2.0,7.5,1
+STU-8BFFB355,7,6.1,7.4,1,6,2,"Routine day, nothing remarkable",2.8,7.0,1
+STU-8BFFB355,8,6.8,8.9,1,4,3,Feeling balanced and in control,2.0,6.4,0
+STU-8BFFB355,9,7.1,9.0,2,3,3,Things are manageable but not exciting,3.1,7.2,0
+STU-8BFFB355,10,6.6,6.5,1,4,4,Excited about upcoming projects,2.7,6.2,0
+STU-8BFFB355,11,6.8,6.9,1,3,3,Feeling calm and focused,3.6,7.4,0
+STU-8BFFB355,12,6.0,6.8,1,3,4,Feeling great and motivated today,3.0,6.0,0
+STU-55FE5E70,1,6.8,5.7,1,4,3,"Average day, going through the motions",4.0,7.9,0
+STU-55FE5E70,2,6.7,6.0,1,4,2,Motivated to study and stay on track,3.1,7.2,0
+STU-55FE5E70,3,6.5,7.3,0,5,2,"Neither good nor bad, just normal",3.8,6.9,0
+STU-55FE5E70,4,6.8,5.8,1,4,2,"Doing alright, could be better",3.0,7.5,0
+STU-55FE5E70,5,6.4,6.4,1,4,3,"Routine day, nothing remarkable",2.7,7.4,0
+STU-55FE5E70,6,6.8,5.8,1,5,3,"Breaking down emotionally, can't handle it",3.5,7.3,0
+STU-55FE5E70,7,7.1,6.6,1,5,3,"Neither good nor bad, just normal",3.4,7.8,0
+STU-55FE5E70,8,5.9,4.7,1,4,3,Just getting by day to day,2.8,7.9,0
+STU-55FE5E70,9,7.0,6.8,1,4,4,Constantly tired no matter how much I sleep,2.9,7.6,0
+STU-55FE5E70,10,6.1,5.8,1,4,2,Just getting by day to day,3.6,7.4,0
+STU-55FE5E70,11,7.4,4.8,1,4,3,Constantly tired no matter how much I sleep,3.9,7.5,0
+STU-55FE5E70,12,6.3,4.4,0,5,2,Struggling to concentrate on anything,3.4,7.7,1
+STU-868D49E0,1,6.6,6.6,1,5,3,Feeling indifferent about things,4.2,5.7,1
+STU-868D49E0,2,5.9,6.5,2,5,3,"Doing alright, could be better",4.3,6.4,1
+STU-868D49E0,3,6.5,5.4,2,7,2,Feeling isolated and lonely,3.0,5.8,1
+STU-868D49E0,4,7.0,7.8,2,6,3,"Doing alright, could be better",3.7,6.9,1
+STU-868D49E0,5,7.1,5.7,3,6,2,Feeling isolated and lonely,2.8,6.7,1
+STU-868D49E0,6,6.4,4.8,3,6,4,"Doing alright, could be better",2.7,7.3,1
+STU-868D49E0,7,4.9,4.8,3,6,1,"Breaking down emotionally, can't handle it",3.1,7.4,1
+STU-868D49E0,8,4.7,6.6,3,6,1,"Breaking down emotionally, can't handle it",,7.0,1
+STU-868D49E0,9,5.5,6.5,3,7,0,Constantly tired no matter how much I sleep,2.3,6.1,2
+STU-868D49E0,10,5.9,5.8,4,7,2,Struggling to concentrate on anything,1.9,8.6,2
+STU-868D49E0,11,5.1,5.8,3,7,1,Constantly tired no matter how much I sleep,2.3,8.5,2
+STU-868D49E0,12,5.2,6.3,5,7,1,Struggling to concentrate on anything,1.6,10.0,2
+STU-7BE408E8,1,5.0,3.4,0,3,4,Feeling indifferent about things,2.8,5.2,0
+STU-7BE408E8,2,6.0,3.4,1,4,3,Things are manageable but not exciting,2.0,7.3,0
+STU-7BE408E8,3,5.6,5.1,2,3,3,Feeling hopeless about my grades,2.2,7.2,0
+STU-7BE408E8,4,5.1,5.9,1,3,2,Lost all motivation to study,2.1,7.3,0
+STU-7BE408E8,5,4.8,2.8,2,4,3,Feeling isolated and lonely,2.2,6.8,1
+STU-7BE408E8,6,5.8,3.9,2,4,2,"Had a productive day, feeling accomplished",2.9,8.5,1
+STU-7BE408E8,7,5.1,5.2,2,5,2,Struggling to concentrate on anything,2.0,9.3,1
+STU-7BE408E8,8,3.6,3.2,3,4,0,Constantly tired no matter how much I sleep,1.8,7.8,1
+STU-7BE408E8,9,4.8,3.7,3,5,2,Too much pressure from all sides,1.2,9.2,1
+STU-7BE408E8,10,3.0,2.6,3,4,1,Feeling isolated and lonely,1.2,10.3,1
+STU-7BE408E8,11,3.8,2.7,3,6,2,"Breaking down emotionally, can't handle it",0.7,9.7,2
+STU-7BE408E8,12,3.2,4.5,4,7,2,Constantly tired no matter how much I sleep,1.3,10.0,2
+STU-D4E2E46F,1,4.2,10.0,6,8,0,Exhausted and burned out from studying,1.4,14.5,2
+STU-D4E2E46F,2,4.8,10.1,6,8,0,Exhausted and burned out from studying,0.7,15.0,2
+STU-D4E2E46F,3,5.4,11.9,7,7,0,Feeling numb and disconnected,0.0,14.8,2
+STU-D4E2E46F,4,4.5,9.0,7,8,0,Dreading going to class,0.7,14.7,2
+STU-D4E2E46F,5,4.4,13.1,6,8,0,Feeling isolated and lonely,0.7,14.3,2
+STU-D4E2E46F,6,4.4,11.4,7,9,0,Dreading going to class,0.2,16.0,2
+STU-D4E2E46F,7,4.6,9.8,6,6,0,"Breaking down emotionally, can't handle it",0.0,15.5,2
+STU-D4E2E46F,8,4.7,11.7,6,8,0,Feeling isolated and lonely,0.5,15.1,2
+STU-D4E2E46F,9,4.7,8.4,7,8,0,"Can't sleep well, too much anxiety",0.5,14.4,2
+STU-D4E2E46F,10,,11.8,6,8,0,Very stressed about deadlines,1.2,15.7,2
+STU-D4E2E46F,11,5.1,7.9,6,8,0,Feeling anxious about everything,1.0,15.4,2
+STU-D4E2E46F,12,5.3,9.6,7,8,0,"Breaking down emotionally, can't handle it",0.8,16.0,2
+STU-EBC3CE3E,1,7.7,3.6,0,4,5,Feeling balanced and in control,4.2,4.2,0
+STU-EBC3CE3E,2,8.1,3.7,0,2,5,Feeling calm and focused,3.6,3.6,0
+STU-EBC3CE3E,3,6.7,4.0,0,4,4,Feeling calm and focused,3.6,6.0,0
+STU-EBC3CE3E,4,8.2,3.8,0,5,5,Feeling great and motivated today,3.9,4.5,0
+STU-EBC3CE3E,5,7.9,4.6,0,3,4,Enjoying the learning process,3.7,3.8,0
+STU-EBC3CE3E,6,7.8,4.6,0,3,6,Feeling calm and focused,4.1,4.9,0
+STU-EBC3CE3E,7,7.6,5.1,0,3,5,Feeling calm and focused,3.4,4.0,0
+STU-EBC3CE3E,8,,3.5,0,3,4,Feeling great and motivated today,3.3,5.6,0
+STU-EBC3CE3E,9,7.6,3.1,0,3,4,"Had a productive day, feeling accomplished",3.8,4.4,0
+STU-EBC3CE3E,10,8.2,3.9,0,3,4,Happy and well-rested,3.3,4.1,0
+STU-EBC3CE3E,11,7.9,4.6,0,3,6,Feeling confident about exams,3.7,4.5,0
+STU-EBC3CE3E,12,6.4,5.5,0,4,4,Motivated to study and stay on track,3.9,4.0,0
+STU-1F512B75,1,9.5,5.5,1,1,3,"Had a productive day, feeling accomplished",3.5,2.7,0
+STU-1F512B75,2,9.2,6.5,0,1,5,Excited about upcoming projects,3.2,2.9,0
+STU-1F512B75,3,9.8,5.0,0,2,3,Feeling great and motivated today,3.8,3.9,0
+STU-1F512B75,4,9.6,6.1,0,1,3,Enjoying the learning process,3.3,3.9,0
+STU-1F512B75,5,9.9,5.8,0,1,3,Excited about upcoming projects,3.8,3.9,0
+STU-1F512B75,6,9.6,6.1,0,2,2,Happy and well-rested,3.3,4.0,0
+STU-1F512B75,7,9.2,5.6,1,1,3,Motivated to study and stay on track,3.3,5.1,0
+STU-1F512B75,8,8.9,5.8,0,1,3,Motivated to study and stay on track,3.4,3.8,0
+STU-1F512B75,9,7.8,5.2,0,1,5,Feeling calm and focused,,4.6,0
+STU-1F512B75,10,8.5,6.1,0,1,3,"Good energy, looking forward to classes",3.6,4.2,0
+STU-1F512B75,11,8.4,4.4,1,1,5,Feeling confident about exams,2.9,4.5,0
+STU-1F512B75,12,,4.8,1,1,4,"Good energy, looking forward to classes",,4.1,0
+STU-E8F44472,1,8.3,3.7,0,1,2,Feeling great and motivated today,5.4,3.1,0
+STU-E8F44472,2,8.7,6.1,0,2,3,"Had a productive day, feeling accomplished",4.5,3.7,0
+STU-E8F44472,3,8.6,6.0,0,2,3,Feeling balanced and in control,5.9,3.0,0
+STU-E8F44472,4,7.4,5.0,1,2,4,Feeling calm and focused,5.0,3.2,0
+STU-E8F44472,5,7.3,6.5,1,3,3,Enjoying the learning process,5.8,4.4,0
+STU-E8F44472,6,6.5,5.5,0,4,3,Feeling great and motivated today,5.5,3.3,0
+STU-E8F44472,7,7.4,4.1,0,3,5,Excited about upcoming projects,4.7,5.0,0
+STU-E8F44472,8,7.0,5.6,0,4,3,Happy and well-rested,5.5,2.1,0
+STU-E8F44472,9,8.3,4.5,0,2,3,Excited about upcoming projects,5.0,3.5,0
+STU-E8F44472,10,6.2,5.1,0,3,4,Feeling great and motivated today,4.9,4.0,0
+STU-E8F44472,11,8.2,4.3,0,2,4,Happy and well-rested,5.3,4.6,0
+STU-E8F44472,12,7.9,3.7,1,3,3,Motivated to study and stay on track,5.5,3.7,0
+STU-1A737CE7,1,4.7,10.7,5,8,0,"Can't sleep well, too much anxiety",1.0,15.1,2
+STU-1A737CE7,2,4.7,11.0,5,8,0,"Breaking down emotionally, can't handle it",0.2,14.9,2
+STU-1A737CE7,3,5.6,12.1,4,8,0,Feeling numb and disconnected,0.7,14.4,2
+STU-1A737CE7,4,4.6,9.4,4,7,0,Feeling isolated and lonely,0.5,16.0,2
+STU-1A737CE7,5,4.9,10.3,5,7,0,Feeling overwhelmed with assignments,0.0,14.1,2
+STU-1A737CE7,6,5.4,12.5,5,9,0,Feeling overwhelmed with assignments,0.0,14.1,2
+STU-1A737CE7,7,3.4,11.4,4,7,0,Feeling isolated and lonely,0.0,15.0,2
+STU-1A737CE7,8,4.3,10.2,5,7,0,Feeling anxious about everything,0.0,14.3,2
+STU-1A737CE7,9,4.6,12.6,5,8,1,Feeling anxious about everything,0.1,13.8,2
+STU-1A737CE7,10,,11.6,5,7,0,Very stressed about deadlines,1.2,13.9,2
+STU-1A737CE7,11,4.6,9.7,4,8,0,Struggling to concentrate on anything,0.8,13.8,2
+STU-1A737CE7,12,4.7,10.6,5,8,0,Feeling isolated and lonely,0.2,15.0,2
+STU-B2420D37,1,4.6,10.7,4,7,0,Constantly tired no matter how much I sleep,0.3,10.7,2
+STU-B2420D37,2,6.2,9.9,2,10,0,Too much pressure from all sides,0.6,10.2,2
+STU-B2420D37,3,4.9,9.8,3,10,0,Dreading going to class,0.4,11.0,2
+STU-B2420D37,4,5.5,10.5,3,9,0,Dreading going to class,0.3,10.4,2
+STU-B2420D37,5,5.0,8.7,3,10,0,Constantly tired no matter how much I sleep,0.2,9.2,2
+STU-B2420D37,6,4.8,8.2,3,9,0,"Can't sleep well, too much anxiety",0.2,10.0,2
+STU-B2420D37,7,4.6,10.9,4,9,0,Feeling numb and disconnected,0.6,9.1,2
+STU-B2420D37,8,4.5,8.8,3,10,0,Dreading going to class,0.7,10.9,2
+STU-B2420D37,9,5.6,9.4,3,10,0,Constantly tired no matter how much I sleep,0.4,9.4,2
+STU-B2420D37,10,4.9,10.6,3,10,0,Feeling isolated and lonely,0.7,10.9,2
+STU-B2420D37,11,5.1,9.3,4,10,0,Exhausted and burned out from studying,0.2,9.1,2
+STU-B2420D37,12,4.0,10.7,3,9,0,Lost all motivation to study,0.0,10.5,2
+STU-B3D7B17F,1,6.4,5.1,0,1,5,"Had a productive day, feeling accomplished",4.6,4.1,0
+STU-B3D7B17F,2,7.9,5.4,0,1,5,Feeling confident about exams,5.3,4.9,0
+STU-B3D7B17F,3,7.7,7.0,0,2,4,Excited about upcoming projects,5.3,4.9,0
+STU-B3D7B17F,4,7.6,6.5,0,1,5,Motivated to study and stay on track,5.1,3.8,0
+STU-B3D7B17F,5,7.2,7.4,0,1,5,"Good energy, looking forward to classes",5.4,3.9,0
+STU-B3D7B17F,6,7.6,4.7,0,1,5,Excited about upcoming projects,4.8,4.6,0
+STU-B3D7B17F,7,8.8,6.3,0,3,5,Feeling great and motivated today,4.8,5.3,0
+STU-B3D7B17F,8,7.8,4.9,0,1,6,Feeling confident about exams,4.8,3.6,0
+STU-B3D7B17F,9,7.7,7.0,0,3,7,"Good energy, looking forward to classes",4.6,4.6,0
+STU-B3D7B17F,10,6.9,6.3,0,3,6,Feeling balanced and in control,4.8,5.2,0
+STU-B3D7B17F,11,7.2,5.7,0,1,5,Feeling calm and focused,5.1,5.3,0
+STU-B3D7B17F,12,7.5,5.7,0,1,6,Excited about upcoming projects,5.5,5.9,0
+STU-935295A9,1,,5.4,1,3,4,Things are manageable but not exciting,3.3,6.7,0
+STU-935295A9,2,5.8,4.3,2,6,2,Dreading going to class,3.4,8.8,1
+STU-935295A9,3,6.6,6.7,2,5,3,Things are manageable but not exciting,2.4,9.2,1
+STU-935295A9,4,6.3,4.9,2,5,2,"Neither good nor bad, just normal",2.6,9.2,1
+STU-935295A9,5,4.9,4.9,2,6,2,Constantly tired no matter how much I sleep,2.3,8.4,1
+STU-935295A9,6,6.1,6.6,3,6,2,"Doing alright, could be better",1.9,8.8,1
+STU-935295A9,7,5.3,5.9,3,7,1,Feeling overwhelmed with assignments,1.6,9.3,2
+STU-935295A9,8,5.2,4.8,4,5,2,Feeling isolated and lonely,1.6,10.4,1
+STU-935295A9,9,3.8,5.8,3,6,0,Feeling hopeless about my grades,1.4,9.8,2
+STU-935295A9,10,4.3,6.8,4,7,1,Exhausted and burned out from studying,1.2,9.8,2
+STU-935295A9,11,3.8,3.7,5,9,0,Constantly tired no matter how much I sleep,1.5,10.6,2
+STU-935295A9,12,3.6,6.4,4,8,0,Lost all motivation to study,0.7,10.9,2
+STU-D909AF82,1,8.2,5.7,0,1,4,"Good energy, looking forward to classes",4.4,2.4,0
+STU-D909AF82,2,8.8,5.0,0,1,4,Feeling confident about exams,4.5,5.1,0
+STU-D909AF82,3,8.7,4.5,0,2,3,"Good energy, looking forward to classes",3.8,4.6,0
+STU-D909AF82,4,9.4,6.4,0,1,5,Feeling balanced and in control,4.3,3.7,0
+STU-D909AF82,5,7.8,5.1,0,1,3,Feeling balanced and in control,5.2,3.3,0
+STU-D909AF82,6,8.4,5.7,0,1,4,Feeling great and motivated today,4.3,2.9,0
+STU-D909AF82,7,7.9,5.8,0,1,5,"Good energy, looking forward to classes",4.7,4.4,0
+STU-D909AF82,8,,4.0,0,1,3,Feeling confident about exams,3.9,4.3,0
+STU-D909AF82,9,9.2,5.4,0,1,3,Feeling calm and focused,4.7,3.3,0
+STU-D909AF82,10,8.3,4.7,0,1,3,Feeling great and motivated today,2.9,5.8,0
+STU-D909AF82,11,7.6,5.3,0,2,2,"Had a productive day, feeling accomplished",5.1,3.2,0
+STU-D909AF82,12,8.4,8.0,0,1,4,Motivated to study and stay on track,4.2,5.2,0
+STU-EF690A7E,1,7.9,7.6,0,1,4,"Good energy, looking forward to classes",4.8,5.0,0
+STU-EF690A7E,2,7.5,4.6,1,1,3,Excited about upcoming projects,4.5,3.5,0
+STU-EF690A7E,3,8.1,5.2,0,1,3,Happy and well-rested,5.4,6.3,0
+STU-EF690A7E,4,7.5,4.5,0,1,5,Enjoying the learning process,5.1,4.7,0
+STU-EF690A7E,5,7.2,7.2,0,1,3,"Good energy, looking forward to classes",5.6,5.2,0
+STU-EF690A7E,6,7.5,6.0,1,2,4,"Had a productive day, feeling accomplished",4.9,4.4,0
+STU-EF690A7E,7,8.1,5.2,0,1,2,"Good energy, looking forward to classes",5.0,6.1,0
+STU-EF690A7E,8,8.2,5.1,0,2,3,Feeling confident about exams,5.5,3.9,0
+STU-EF690A7E,9,7.8,4.3,1,1,3,Feeling balanced and in control,5.1,4.9,0
+STU-EF690A7E,10,8.0,6.0,0,1,3,Feeling calm and focused,5.5,5.4,0
+STU-EF690A7E,11,8.1,6.1,0,1,3,Feeling calm and focused,4.6,5.3,0
+STU-EF690A7E,12,6.7,4.9,1,1,4,Excited about upcoming projects,5.1,5.4,0
+STU-66EA1FBD,1,4.9,14.0,8,10,0,Constantly tired no matter how much I sleep,0.9,14.7,2
+STU-66EA1FBD,2,5.7,13.4,6,7,1,"Can't sleep well, too much anxiety",0.9,13.4,2
+STU-66EA1FBD,3,4.3,12.8,7,9,1,Constantly tired no matter how much I sleep,,13.9,2
+STU-66EA1FBD,4,4.7,11.3,7,8,1,"Breaking down emotionally, can't handle it",0.8,13.4,2
+STU-66EA1FBD,5,5.1,14.0,6,9,1,Feeling anxious about everything,1.0,13.4,2
+STU-66EA1FBD,6,4.9,12.0,6,9,0,Struggling to concentrate on anything,0.5,15.6,2
+STU-66EA1FBD,7,5.2,13.2,7,9,0,Feeling hopeless about my grades,1.3,14.8,2
+STU-66EA1FBD,8,5.5,11.8,6,8,0,"Breaking down emotionally, can't handle it",0.4,13.0,2
+STU-66EA1FBD,9,5.1,14.0,7,9,0,Dreading going to class,0.4,13.2,2
+STU-66EA1FBD,10,4.3,13.2,7,10,0,Constantly tired no matter how much I sleep,1.7,13.1,2
+STU-66EA1FBD,11,5.5,14.0,7,10,1,Lost all motivation to study,1.1,14.5,2
+STU-66EA1FBD,12,5.5,14.0,7,8,1,Dreading going to class,1.1,13.8,2
+STU-578ED35C,1,7.1,5.4,0,2,4,Feeling calm and focused,3.2,3.3,0
+STU-578ED35C,2,7.4,6.0,0,1,6,Feeling calm and focused,3.2,3.2,0
+STU-578ED35C,3,7.6,6.2,0,1,6,Feeling balanced and in control,3.7,3.1,0
+STU-578ED35C,4,7.4,6.3,0,1,6,"Had a productive day, feeling accomplished",2.7,4.4,0
+STU-578ED35C,5,7.9,5.3,0,1,5,Enjoying the learning process,3.7,4.6,0
+STU-578ED35C,6,7.2,7.1,0,3,6,Motivated to study and stay on track,2.7,3.8,0
+STU-578ED35C,7,7.7,7.7,0,1,5,Enjoying the learning process,3.4,4.0,0
+STU-578ED35C,8,6.7,5.4,0,1,5,Feeling confident about exams,3.0,3.3,0
+STU-578ED35C,9,7.8,3.8,0,1,7,"Had a productive day, feeling accomplished",3.4,2.0,0
+STU-578ED35C,10,6.9,5.2,0,1,5,Feeling balanced and in control,3.1,4.4,0
+STU-578ED35C,11,8.5,5.2,0,2,5,"Had a productive day, feeling accomplished",2.7,2.6,0
+STU-578ED35C,12,7.2,6.8,0,1,5,Feeling great and motivated today,3.2,4.9,0
+STU-1420AAE7,1,7.9,1.6,0,2,6,Enjoying the learning process,5.3,5.9,0
+STU-1420AAE7,2,8.3,0.7,1,1,4,Enjoying the learning process,5.0,5.0,0
+STU-1420AAE7,3,9.0,4.1,0,2,3,Feeling calm and focused,5.8,6.3,0
+STU-1420AAE7,4,7.2,2.2,0,1,5,Feeling balanced and in control,,5.1,0
+STU-1420AAE7,5,7.6,2.8,0,1,5,Enjoying the learning process,4.9,6.1,0
+STU-1420AAE7,6,7.5,3.7,0,2,2,Excited about upcoming projects,3.8,5.3,0
+STU-1420AAE7,7,9.3,3.3,0,1,6,Excited about upcoming projects,4.5,3.6,0
+STU-1420AAE7,8,9.2,3.3,0,2,5,Feeling confident about exams,5.0,4.9,0
+STU-1420AAE7,9,8.2,1.5,0,1,5,Enjoying the learning process,5.2,4.5,0
+STU-1420AAE7,10,7.3,2.3,1,2,5,Motivated to study and stay on track,5.2,3.5,0
+STU-1420AAE7,11,8.3,2.2,0,3,6,"Had a productive day, feeling accomplished",4.9,5.6,0
+STU-1420AAE7,12,8.7,2.3,0,1,5,Feeling calm and focused,4.7,5.9,0
+STU-FAFA4A25,1,4.5,9.0,3,6,2,"Breaking down emotionally, can't handle it",,10.6,2
+STU-FAFA4A25,2,4.2,9.9,4,6,0,Feeling anxious about everything,1.6,11.2,2
+STU-FAFA4A25,3,5.4,8.5,3,7,1,Constantly tired no matter how much I sleep,1.5,12.2,2
+STU-FAFA4A25,4,4.5,10.4,2,6,1,Very stressed about deadlines,1.1,12.3,2
+STU-FAFA4A25,5,5.7,10.4,3,5,1,Dreading going to class,1.1,11.7,2
+STU-FAFA4A25,6,6.7,9.8,2,5,2,Constantly tired no matter how much I sleep,1.8,10.6,1
+STU-FAFA4A25,7,4.9,6.7,2,6,2,Constantly tired no matter how much I sleep,2.0,10.7,1
+STU-FAFA4A25,8,5.9,9.0,2,4,2,Happy and well-rested,2.2,10.8,1
+STU-FAFA4A25,9,6.2,8.6,1,5,2,"Feeling okay, nothing special",2.5,10.1,1
+STU-FAFA4A25,10,7.8,7.3,1,4,2,Enjoying the learning process,2.6,9.4,0
+STU-FAFA4A25,11,6.5,8.0,2,3,2,Motivated to study and stay on track,2.4,9.1,0
+STU-FAFA4A25,12,6.5,9.9,1,4,3,"Good energy, looking forward to classes",3.4,8.9,1
+STU-F3C84676,1,7.0,5.0,1,1,4,Feeling great and motivated today,4.4,4.8,0
+STU-F3C84676,2,8.4,4.5,1,2,7,Happy and well-rested,5.7,4.0,0
+STU-F3C84676,3,8.2,4.3,0,2,4,"Good energy, looking forward to classes",5.9,4.9,0
+STU-F3C84676,4,8.8,4.4,0,1,5,Feeling great and motivated today,5.9,4.7,0
+STU-F3C84676,5,7.9,5.6,1,1,5,Feeling calm and focused,5.7,4.5,0
+STU-F3C84676,6,8.2,4.2,0,1,5,Feeling balanced and in control,5.3,3.9,0
+STU-F3C84676,7,8.3,4.1,0,1,3,"Had a productive day, feeling accomplished",5.0,5.0,0
+STU-F3C84676,8,8.3,4.0,0,1,4,Feeling great and motivated today,5.6,6.4,0
+STU-F3C84676,9,8.2,4.4,0,2,4,Happy and well-rested,5.4,5.0,0
+STU-F3C84676,10,8.8,5.5,0,2,4,Feeling confident about exams,5.3,5.4,0
+STU-F3C84676,11,8.3,6.2,0,3,4,"Had a productive day, feeling accomplished",6.2,6.0,0
+STU-F3C84676,12,8.3,3.0,1,1,4,Enjoying the learning process,4.9,6.2,0
+STU-A1EE55EE,1,7.2,3.4,2,2,1,Very stressed about deadlines,2.7,6.7,0
+STU-A1EE55EE,2,7.3,5.4,2,5,3,Constantly tired no matter how much I sleep,2.6,7.6,1
+STU-A1EE55EE,3,7.2,4.9,0,3,2,Happy and well-rested,2.3,7.4,0
+STU-A1EE55EE,4,7.3,6.1,1,4,1,Excited about upcoming projects,2.6,7.8,0
+STU-A1EE55EE,5,6.6,5.7,2,5,2,Things are manageable but not exciting,2.3,7.0,1
+STU-A1EE55EE,6,6.8,5.4,3,5,2,Things are manageable but not exciting,2.2,7.2,1
+STU-A1EE55EE,7,4.9,6.6,3,4,1,Constantly tired no matter how much I sleep,1.9,8.8,1
+STU-A1EE55EE,8,5.9,5.0,3,6,1,Feeling numb and disconnected,0.6,10.1,2
+STU-A1EE55EE,9,,5.1,3,6,0,Feeling hopeless about my grades,1.2,9.2,2
+STU-A1EE55EE,10,6.5,5.0,4,5,0,Feeling hopeless about my grades,1.2,10.0,1
+STU-A1EE55EE,11,5.7,7.7,4,6,0,Very stressed about deadlines,1.4,8.9,2
+STU-A1EE55EE,12,5.2,6.9,4,6,0,Too much pressure from all sides,,10.8,2
+STU-6F57410E,1,5.4,10.1,1,6,2,Too much pressure from all sides,0.4,10.4,2
+STU-6F57410E,2,5.8,11.3,2,6,3,Feeling numb and disconnected,1.4,9.5,1
+STU-6F57410E,3,4.7,10.8,2,6,2,Dreading going to class,1.1,9.7,2
+STU-6F57410E,4,6.0,10.8,0,5,2,"Can't sleep well, too much anxiety",0.9,8.1,1
+STU-6F57410E,5,4.9,9.7,1,6,2,Too much pressure from all sides,1.7,8.7,1
+STU-6F57410E,6,5.2,10.1,1,4,3,Feeling numb and disconnected,1.6,10.2,1
+STU-6F57410E,7,6.1,9.8,2,6,3,"Neither good nor bad, just normal",1.3,9.1,1
+STU-6F57410E,8,5.7,10.8,1,3,2,Feeling hopeless about my grades,1.6,8.0,1
+STU-6F57410E,9,5.7,11.0,0,4,3,"Doing alright, could be better",2.1,8.4,1
+STU-6F57410E,10,6.5,11.1,1,5,2,Feeling great and motivated today,2.8,9.0,1
+STU-6F57410E,11,7.2,9.9,0,4,3,Feeling great and motivated today,1.7,6.7,0
+STU-6F57410E,12,7.3,8.8,0,4,3,"Good energy, looking forward to classes",2.9,8.3,0
+STU-792C6AFB,1,3.8,8.3,6,9,0,Constantly tired no matter how much I sleep,1.5,12.4,2
+STU-792C6AFB,2,3.4,7.8,7,9,0,Too much pressure from all sides,0.9,10.2,2
+STU-792C6AFB,3,4.8,7.8,6,9,1,"Breaking down emotionally, can't handle it",1.1,10.6,2
+STU-792C6AFB,4,5.3,9.8,6,8,0,Dreading going to class,0.7,11.6,2
+STU-792C6AFB,5,3.8,10.9,6,9,0,Feeling hopeless about my grades,0.3,9.3,2
+STU-792C6AFB,6,3.2,10.1,7,9,0,Dreading going to class,1.6,11.0,2
+STU-792C6AFB,7,4.5,8.8,6,9,0,Feeling hopeless about my grades,2.2,9.4,2
+STU-792C6AFB,8,3.8,8.5,7,9,0,Feeling numb and disconnected,0.9,10.0,2
+STU-792C6AFB,9,4.5,9.3,5,10,0,Exhausted and burned out from studying,1.0,10.9,2
+STU-792C6AFB,10,4.8,10.8,6,10,0,Exhausted and burned out from studying,1.4,10.3,2
+STU-792C6AFB,11,4.1,10.3,6,9,0,Constantly tired no matter how much I sleep,1.8,10.4,2
+STU-792C6AFB,12,3.8,9.8,6,9,0,Struggling to concentrate on anything,1.0,10.9,2
+STU-A9317334,1,5.1,11.3,3,5,1,"Can't sleep well, too much anxiety",0.9,9.5,2
+STU-A9317334,2,6.9,10.8,2,6,3,Feeling isolated and lonely,1.6,10.1,1
+STU-A9317334,3,6.0,11.5,2,5,1,Exhausted and burned out from studying,1.5,11.8,2
+STU-A9317334,4,5.7,10.2,3,5,3,"Breaking down emotionally, can't handle it",1.5,12.4,1
+STU-A9317334,5,7.2,10.3,3,6,2,Lost all motivation to study,2.1,11.0,1
+STU-A9317334,6,7.7,9.4,2,3,2,Very stressed about deadlines,2.2,9.7,1
+STU-A9317334,7,7.1,11.9,2,5,3,Happy and well-rested,2.6,8.8,1
+STU-A9317334,8,6.5,9.6,2,3,3,"Feeling okay, nothing special",2.9,9.6,0
+STU-A9317334,9,7.0,8.2,2,3,4,"Average day, going through the motions",2.3,9.7,0
+STU-A9317334,10,7.8,11.1,1,4,3,"Had a productive day, feeling accomplished",2.3,7.1,0
+STU-A9317334,11,8.3,11.7,1,3,3,Feeling balanced and in control,3.4,9.3,0
+STU-A9317334,12,8.2,10.7,0,3,3,Feeling great and motivated today,3.3,8.5,0
+STU-19D16F72,1,8.9,5.7,0,3,3,Motivated to study and stay on track,5.5,6.5,0
+STU-19D16F72,2,8.6,3.8,1,3,4,Feeling balanced and in control,5.3,4.7,0
+STU-19D16F72,3,8.7,3.3,0,4,3,Feeling great and motivated today,5.5,5.7,0
+STU-19D16F72,4,8.6,6.0,0,2,4,Feeling calm and focused,5.4,4.3,0
+STU-19D16F72,5,8.1,3.9,1,2,4,Feeling great and motivated today,5.3,6.3,0
+STU-19D16F72,6,7.4,4.8,0,3,3,Happy and well-rested,5.3,4.8,0
+STU-19D16F72,7,8.9,3.4,0,4,2,Motivated to study and stay on track,5.4,5.1,0
+STU-19D16F72,8,9.3,5.3,0,1,3,Feeling calm and focused,5.7,5.9,0
+STU-19D16F72,9,9.5,5.4,0,3,4,Enjoying the learning process,4.9,3.9,0
+STU-19D16F72,10,7.6,5.6,0,2,3,Feeling calm and focused,5.0,4.6,0
+STU-19D16F72,11,7.5,7.5,0,1,4,Feeling great and motivated today,5.1,4.6,0
+STU-19D16F72,12,,5.4,0,2,3,Excited about upcoming projects,5.9,5.0,0
+STU-F7DB0CF7,1,4.6,12.4,5,8,1,Dreading going to class,0.0,13.3,2
+STU-F7DB0CF7,2,5.0,12.5,6,7,0,Feeling isolated and lonely,0.4,12.1,2
+STU-F7DB0CF7,3,5.1,13.6,5,8,0,Exhausted and burned out from studying,0.5,12.8,2
+STU-F7DB0CF7,4,4.1,14.0,5,7,0,Feeling numb and disconnected,0.3,14.2,2
+STU-F7DB0CF7,5,3.8,11.9,5,7,0,"Breaking down emotionally, can't handle it",0.5,13.8,2
+STU-F7DB0CF7,6,3.0,12.3,4,8,0,Feeling anxious about everything,1.3,13.7,2
+STU-F7DB0CF7,7,3.6,13.5,5,8,0,Struggling to concentrate on anything,0.4,12.9,2
+STU-F7DB0CF7,8,3.0,14.0,5,7,0,Feeling anxious about everything,0.9,13.3,2
+STU-F7DB0CF7,9,3.6,13.7,5,8,0,Feeling anxious about everything,0.3,14.6,2
+STU-F7DB0CF7,10,3.7,14.0,6,8,0,Lost all motivation to study,0.6,13.1,2
+STU-F7DB0CF7,11,3.7,13.0,5,9,0,Too much pressure from all sides,1.2,12.8,2
+STU-F7DB0CF7,12,4.2,13.2,4,8,0,Feeling numb and disconnected,,14.5,2
+STU-A7B416F9,1,7.8,5.0,1,2,2,Feeling confident about exams,4.7,8.0,0
+STU-A7B416F9,2,7.7,3.7,0,1,4,Feeling calm and focused,4.6,6.1,0
+STU-A7B416F9,3,8.2,3.2,0,2,3,"Good energy, looking forward to classes",4.6,7.4,0
+STU-A7B416F9,4,8.7,3.3,1,1,4,Excited about upcoming projects,4.9,5.8,0
+STU-A7B416F9,5,6.4,3.8,1,1,3,Enjoying the learning process,4.0,6.7,0
+STU-A7B416F9,6,8.3,3.6,0,1,3,Feeling calm and focused,5.0,7.1,0
+STU-A7B416F9,7,7.2,4.0,1,1,2,Happy and well-rested,4.4,7.1,0
+STU-A7B416F9,8,7.9,4.5,0,1,3,"Good energy, looking forward to classes",4.9,7.5,0
+STU-A7B416F9,9,9.1,3.2,0,1,4,"Good energy, looking forward to classes",4.5,8.1,0
+STU-A7B416F9,10,8.6,3.9,0,1,3,Feeling great and motivated today,4.4,8.3,0
+STU-A7B416F9,11,8.2,4.9,1,1,3,Enjoying the learning process,5.2,7.5,0
+STU-A7B416F9,12,6.9,2.0,1,1,3,Feeling balanced and in control,4.4,7.1,0
+STU-AD5F38BE,1,7.8,5.4,0,5,5,Excited about upcoming projects,5.4,6.3,0
+STU-AD5F38BE,2,8.1,4.4,0,3,5,Happy and well-rested,5.5,3.5,0
+STU-AD5F38BE,3,7.6,6.2,0,2,5,Enjoying the learning process,5.2,3.4,0
+STU-AD5F38BE,4,6.8,4.1,0,2,6,Motivated to study and stay on track,5.7,4.3,0
+STU-AD5F38BE,5,7.0,4.9,0,1,6,Feeling great and motivated today,5.2,3.0,0
+STU-AD5F38BE,6,7.2,5.2,0,2,6,Feeling confident about exams,5.1,3.5,0
+STU-AD5F38BE,7,8.0,3.5,0,2,5,Happy and well-rested,5.2,4.9,0
+STU-AD5F38BE,8,7.5,4.3,0,1,5,Enjoying the learning process,5.2,5.5,0
+STU-AD5F38BE,9,7.3,7.2,0,2,6,Feeling confident about exams,5.5,4.9,0
+STU-AD5F38BE,10,7.2,6.0,0,4,6,Happy and well-rested,5.3,4.3,0
+STU-AD5F38BE,11,6.7,2.9,0,4,5,Happy and well-rested,5.3,5.1,0
+STU-AD5F38BE,12,7.1,7.6,0,2,4,Excited about upcoming projects,5.5,6.0,0
+STU-A1AE2EAC,1,5.9,3.2,2,3,5,"Neither good nor bad, just normal",,5.5,0
+STU-A1AE2EAC,2,6.0,4.9,2,2,4,"Routine day, nothing remarkable",3.3,5.4,0
+STU-A1AE2EAC,3,5.8,3.9,2,5,3,"Doing alright, could be better",3.5,6.4,1
+STU-A1AE2EAC,4,6.1,6.0,2,5,3,"Neither good nor bad, just normal",4.4,7.5,1
+STU-A1AE2EAC,5,6.2,3.8,3,5,3,Feeling overwhelmed with assignments,3.2,6.4,1
+STU-A1AE2EAC,6,6.3,4.7,2,5,2,Things are manageable but not exciting,2.9,7.8,1
+STU-A1AE2EAC,7,4.0,3.3,3,6,3,Dreading going to class,3.2,7.4,1
+STU-A1AE2EAC,8,4.9,5.8,4,5,3,Dreading going to class,2.6,7.2,1
+STU-A1AE2EAC,9,4.5,4.0,4,6,2,"Can't sleep well, too much anxiety",3.4,8.6,2
+STU-A1AE2EAC,10,4.6,5.5,4,5,3,Feeling hopeless about my grades,2.5,7.6,1
+STU-A1AE2EAC,11,5.6,6.1,4,7,1,Exhausted and burned out from studying,2.8,8.8,2
+STU-A1AE2EAC,12,3.5,4.1,5,6,1,Feeling isolated and lonely,1.4,9.1,2
+STU-DD7A7B5C,1,7.1,5.4,1,5,2,"Average day, going through the motions",2.0,5.5,1
+STU-DD7A7B5C,2,,6.1,1,6,2,Feeling numb and disconnected,2.3,5.0,1
+STU-DD7A7B5C,3,6.0,4.8,1,6,2,"Doing alright, could be better",1.9,6.1,1
+STU-DD7A7B5C,4,4.8,5.9,1,5,2,Happy and well-rested,1.3,6.2,1
+STU-DD7A7B5C,5,6.1,6.6,2,5,1,"Feeling okay, nothing special",1.3,6.7,1
+STU-DD7A7B5C,6,5.1,5.2,2,6,1,Exhausted and burned out from studying,1.7,7.4,1
+STU-DD7A7B5C,7,5.7,5.5,2,6,1,Lost all motivation to study,1.3,7.1,1
+STU-DD7A7B5C,8,4.2,6.5,2,5,0,Lost all motivation to study,1.2,7.3,1
+STU-DD7A7B5C,9,4.3,5.7,2,7,1,Feeling anxious about everything,1.3,7.7,2
+STU-DD7A7B5C,10,5.0,6.3,2,7,1,"Breaking down emotionally, can't handle it",0.2,7.2,2
+STU-DD7A7B5C,11,4.4,5.1,3,8,0,Too much pressure from all sides,0.7,8.2,2
+STU-DD7A7B5C,12,4.5,6.5,4,9,0,Dreading going to class,0.1,9.4,2
+STU-251560DE,1,8.2,3.5,0,2,4,Feeling calm and focused,2.9,6.0,0
+STU-251560DE,2,8.1,2.4,0,1,4,Motivated to study and stay on track,3.1,5.7,0
+STU-251560DE,3,7.6,5.1,0,1,3,Feeling calm and focused,3.4,6.3,0
+STU-251560DE,4,7.5,4.9,1,1,4,Feeling confident about exams,3.1,7.4,0
+STU-251560DE,5,8.4,1.9,0,1,2,"Good energy, looking forward to classes",2.9,7.0,0
+STU-251560DE,6,7.6,3.5,1,1,5,Feeling great and motivated today,3.0,5.1,0
+STU-251560DE,7,,6.2,0,3,2,Feeling calm and focused,3.2,5.5,0
+STU-251560DE,8,7.9,4.8,0,3,4,Feeling calm and focused,3.1,5.9,0
+STU-251560DE,9,8.1,4.5,0,1,4,"Had a productive day, feeling accomplished",3.4,7.6,0
+STU-251560DE,10,7.3,4.1,0,1,3,Motivated to study and stay on track,2.6,6.3,0
+STU-251560DE,11,9.0,4.8,0,1,3,Feeling calm and focused,3.4,7.1,0
+STU-251560DE,12,8.4,2.4,0,2,2,Feeling balanced and in control,2.8,6.5,0
+STU-5960BE12,1,8.1,4.6,0,1,5,Feeling calm and focused,5.9,2.7,0
+STU-5960BE12,2,8.9,2.4,0,1,4,Happy and well-rested,5.9,3.5,0
+STU-5960BE12,3,7.4,3.1,0,1,5,Feeling calm and focused,5.5,2.8,0
+STU-5960BE12,4,,2.4,0,1,5,Enjoying the learning process,5.9,2.9,0
+STU-5960BE12,5,8.0,3.0,0,2,5,Feeling confident about exams,5.6,3.3,0
+STU-5960BE12,6,7.6,2.8,0,2,4,"Good energy, looking forward to classes",,2.8,0
+STU-5960BE12,7,8.3,5.0,0,3,6,Happy and well-rested,5.7,3.7,0
+STU-5960BE12,8,8.5,2.7,0,2,5,Motivated to study and stay on track,4.9,5.4,0
+STU-5960BE12,9,8.5,2.8,0,2,4,Enjoying the learning process,5.7,3.2,0
+STU-5960BE12,10,7.4,4.5,0,1,4,Feeling confident about exams,5.3,3.5,0
+STU-5960BE12,11,8.6,3.5,0,2,4,"Good energy, looking forward to classes",5.6,2.6,0
+STU-5960BE12,12,8.9,4.5,0,1,5,"Good energy, looking forward to classes",5.3,3.3,0
+STU-31ADDC83,1,7.2,9.5,2,4,4,"Routine day, nothing remarkable",3.5,8.8,0
+STU-31ADDC83,2,6.3,6.4,3,6,2,"Routine day, nothing remarkable",3.7,8.2,1
+STU-31ADDC83,3,6.3,6.6,3,4,2,Just getting by day to day,4.1,8.4,1
+STU-31ADDC83,4,6.1,6.6,2,4,2,Struggling to concentrate on anything,4.2,8.5,1
+STU-31ADDC83,5,5.9,6.0,2,4,4,"Feeling okay, nothing special",2.3,9.2,1
+STU-31ADDC83,6,6.4,7.6,2,5,4,"Doing alright, could be better",,7.7,1
+STU-31ADDC83,7,5.7,8.0,3,5,3,"Feeling okay, nothing special",3.0,7.4,1
+STU-31ADDC83,8,6.6,7.9,2,5,3,Things are manageable but not exciting,2.9,8.3,1
+STU-31ADDC83,9,7.6,7.9,2,4,2,"Doing alright, could be better",3.3,9.1,0
+STU-31ADDC83,10,7.0,9.6,3,6,3,Things are manageable but not exciting,3.2,7.3,1
+STU-31ADDC83,11,6.4,7.4,2,6,3,"Doing alright, could be better",3.4,8.1,1
+STU-31ADDC83,12,7.2,6.0,2,4,3,Just getting by day to day,2.7,8.7,0
+STU-9C117DF8,1,,6.1,0,4,5,"Routine day, nothing remarkable",2.2,8.2,0
+STU-9C117DF8,2,6.7,5.5,1,6,3,Too much pressure from all sides,2.4,8.3,1
+STU-9C117DF8,3,5.8,7.4,2,5,4,"Routine day, nothing remarkable",2.4,9.1,1
+STU-9C117DF8,4,6.2,5.0,2,6,4,Feeling confident about exams,1.7,7.8,1
+STU-9C117DF8,5,6.7,6.0,2,6,4,Enjoying the learning process,1.1,9.3,1
+STU-9C117DF8,6,5.8,5.9,3,5,4,"Feeling okay, nothing special",1.6,8.7,1
+STU-9C117DF8,7,6.5,5.6,2,6,4,Dreading going to class,0.9,9.0,1
+STU-9C117DF8,8,4.3,5.6,3,8,4,Feeling overwhelmed with assignments,0.9,11.2,2
+STU-9C117DF8,9,5.8,6.5,3,7,2,Feeling numb and disconnected,0.2,9.4,2
+STU-9C117DF8,10,5.6,5.7,3,9,3,Feeling numb and disconnected,0.6,9.7,2
+STU-9C117DF8,11,4.7,5.6,3,8,2,Very stressed about deadlines,0.7,11.2,2
+STU-9C117DF8,12,3.3,5.6,4,10,1,Feeling numb and disconnected,0.3,10.2,2
+STU-19DC58BB,1,3.3,11.1,5,9,1,Too much pressure from all sides,0.6,13.6,2
+STU-19DC58BB,2,3.8,10.6,5,10,1,Feeling overwhelmed with assignments,0.6,12.3,2
+STU-19DC58BB,3,4.2,11.8,5,9,0,Lost all motivation to study,0.5,13.0,2
+STU-19DC58BB,4,3.6,10.2,6,8,1,Feeling overwhelmed with assignments,0.8,12.5,2
+STU-19DC58BB,5,3.5,8.6,5,9,0,Feeling hopeless about my grades,1.7,12.8,2
+STU-19DC58BB,6,4.9,11.6,6,9,0,"Can't sleep well, too much anxiety",0.8,12.0,2
+STU-19DC58BB,7,3.1,10.6,5,9,0,Feeling numb and disconnected,0.5,10.8,2
+STU-19DC58BB,8,3.0,9.5,6,8,0,Too much pressure from all sides,1.1,13.0,2
+STU-19DC58BB,9,4.7,9.0,5,9,1,Exhausted and burned out from studying,0.9,13.5,2
+STU-19DC58BB,10,4.7,9.1,5,9,0,Very stressed about deadlines,0.7,12.5,2
+STU-19DC58BB,11,,9.8,5,9,0,"Breaking down emotionally, can't handle it",1.0,13.3,2
+STU-19DC58BB,12,4.0,12.7,5,9,0,"Can't sleep well, too much anxiety",0.6,12.6,2
+STU-F22893F1,1,6.5,8.7,1,5,3,Enjoying the learning process,2.3,9.1,1
+STU-F22893F1,2,7.4,7.5,2,6,4,"Feeling okay, nothing special",2.5,9.2,1
+STU-F22893F1,3,5.9,10.4,2,5,3,"Routine day, nothing remarkable",2.7,10.4,1
+STU-F22893F1,4,7.8,6.4,2,7,4,"Feeling okay, nothing special",2.8,7.9,1
+STU-F22893F1,5,6.5,7.4,2,6,4,Enjoying the learning process,2.4,10.0,1
+STU-F22893F1,6,7.1,8.0,1,5,4,"Feeling okay, nothing special",2.6,9.3,0
+STU-F22893F1,7,6.7,7.6,1,6,4,Feeling indifferent about things,2.7,11.3,1
+STU-F22893F1,8,7.6,10.0,2,6,2,Feeling indifferent about things,3.1,8.0,1
+STU-F22893F1,9,8.0,7.8,2,6,4,Happy and well-rested,2.8,9.0,1
+STU-F22893F1,10,7.0,8.3,2,5,3,"Can't sleep well, too much anxiety",2.4,10.3,1
+STU-F22893F1,11,6.7,9.3,1,7,3,"Had a productive day, feeling accomplished",3.4,9.0,1
+STU-F22893F1,12,7.4,8.6,1,5,5,"Doing alright, could be better",2.5,8.5,0
+STU-9E216A0D,1,,4.5,0,4,5,Enjoying the learning process,3.6,6.7,0
+STU-9E216A0D,2,7.2,4.0,1,4,4,Just getting by day to day,4.5,8.3,0
+STU-9E216A0D,3,7.1,3.9,2,5,5,Things are manageable but not exciting,3.9,7.8,0
+STU-9E216A0D,4,6.3,6.2,1,5,3,Happy and well-rested,3.5,8.3,1
+STU-9E216A0D,5,,4.6,1,3,4,"Doing alright, could be better",3.4,9.5,0
+STU-9E216A0D,6,5.8,4.7,1,6,3,Exhausted and burned out from studying,3.4,8.2,1
+STU-9E216A0D,7,5.2,5.8,2,7,3,Feeling isolated and lonely,,10.0,1
+STU-9E216A0D,8,6.6,5.9,2,7,3,Too much pressure from all sides,3.4,11.4,1
+STU-9E216A0D,9,5.0,5.7,2,7,2,Feeling numb and disconnected,3.4,9.9,1
+STU-9E216A0D,10,5.6,6.1,2,7,2,Feeling numb and disconnected,2.7,10.8,1
+STU-9E216A0D,11,5.1,6.2,3,6,2,Very stressed about deadlines,3.1,10.3,1
+STU-9E216A0D,12,4.9,5.9,3,8,1,Too much pressure from all sides,3.0,12.1,2
+STU-2DF27A14,1,6.8,4.8,1,4,4,Too much pressure from all sides,3.9,5.9,0
+STU-2DF27A14,2,7.1,5.8,2,3,3,"Average day, going through the motions",3.1,6.9,0
+STU-2DF27A14,3,6.7,4.2,2,5,3,Things are manageable but not exciting,3.8,5.6,1
+STU-2DF27A14,4,6.3,3.6,3,4,2,"Feeling okay, nothing special",2.5,6.5,1
+STU-2DF27A14,5,6.3,4.5,2,6,3,"Neither good nor bad, just normal",3.4,6.6,1
+STU-2DF27A14,6,6.4,6.8,3,4,3,Happy and well-rested,2.7,7.0,1
+STU-2DF27A14,7,6.7,4.3,3,4,2,Too much pressure from all sides,2.6,8.0,1
+STU-2DF27A14,8,6.1,7.6,2,7,1,Lost all motivation to study,3.4,7.0,1
+STU-2DF27A14,9,6.7,5.8,4,5,0,Struggling to concentrate on anything,2.4,8.0,1
+STU-2DF27A14,10,5.1,4.4,4,5,1,Feeling anxious about everything,2.2,7.1,1
+STU-2DF27A14,11,5.2,3.7,4,7,2,Feeling numb and disconnected,1.6,6.3,2
+STU-2DF27A14,12,4.9,4.0,4,6,0,Very stressed about deadlines,1.7,7.9,2
+STU-92F1E709,1,7.2,5.0,0,4,4,Feeling overwhelmed with assignments,3.5,4.9,0
+STU-92F1E709,2,7.4,5.5,0,5,3,"Routine day, nothing remarkable",3.4,6.6,0
+STU-92F1E709,3,7.8,3.3,1,5,5,"Average day, going through the motions",3.2,7.5,0
+STU-92F1E709,4,6.3,4.5,1,5,3,Feeling indifferent about things,3.3,7.1,1
+STU-92F1E709,5,5.8,5.7,1,6,3,Feeling anxious about everything,2.8,7.4,1
+STU-92F1E709,6,4.9,3.9,2,6,4,"Neither good nor bad, just normal",2.8,7.9,1
+STU-92F1E709,7,4.8,5.0,2,6,2,Feeling numb and disconnected,2.9,7.9,1
+STU-92F1E709,8,5.6,5.9,2,7,3,Struggling to concentrate on anything,2.4,8.9,1
+STU-92F1E709,9,4.9,4.4,2,7,1,Feeling overwhelmed with assignments,2.2,7.9,2
+STU-92F1E709,10,4.6,3.2,3,8,3,Exhausted and burned out from studying,2.1,8.1,2
+STU-92F1E709,11,4.1,5.1,2,7,2,Feeling anxious about everything,2.2,8.0,2
+STU-92F1E709,12,4.8,2.7,3,8,1,"Can't sleep well, too much anxiety",1.3,8.0,2
+STU-D76C66CF,1,4.6,14.0,5,8,1,Lost all motivation to study,1.9,11.7,2
+STU-D76C66CF,2,6.3,14.0,4,9,1,Feeling numb and disconnected,1.4,12.3,2
+STU-D76C66CF,3,3.6,13.2,4,8,0,"Breaking down emotionally, can't handle it",2.2,12.6,2
+STU-D76C66CF,4,4.6,14.0,4,9,0,Feeling numb and disconnected,1.9,12.9,2
+STU-D76C66CF,5,5.2,13.7,5,9,0,Feeling hopeless about my grades,1.9,11.1,2
+STU-D76C66CF,6,5.1,14.0,4,9,2,Very stressed about deadlines,,11.3,2
+STU-D76C66CF,7,4.7,14.0,5,10,0,Feeling isolated and lonely,2.4,11.8,2
+STU-D76C66CF,8,4.7,14.0,4,8,0,"Can't sleep well, too much anxiety",1.2,11.3,2
+STU-D76C66CF,9,4.9,13.7,4,9,1,Feeling anxious about everything,0.9,11.8,2
+STU-D76C66CF,10,4.7,13.4,5,8,0,Exhausted and burned out from studying,1.4,10.9,2
+STU-D76C66CF,11,4.5,13.0,4,8,0,Feeling anxious about everything,1.3,12.8,2
+STU-D76C66CF,12,4.4,14.0,4,10,0,Feeling numb and disconnected,1.4,10.1,2
+STU-5093C372,1,7.9,6.3,1,4,4,Happy and well-rested,,6.5,0
+STU-5093C372,2,6.6,4.8,0,4,5,Enjoying the learning process,3.0,6.8,0
+STU-5093C372,3,7.2,4.9,1,4,4,Feeling confident about exams,2.9,6.2,0
+STU-5093C372,4,7.3,6.4,0,4,4,Happy and well-rested,2.7,5.7,0
+STU-5093C372,5,8.6,5.6,0,3,5,Excited about upcoming projects,3.3,4.5,0
+STU-5093C372,6,6.8,4.2,1,4,5,"Had a productive day, feeling accomplished",3.0,5.0,0
+STU-5093C372,7,8.6,6.1,0,2,4,Enjoying the learning process,3.2,5.7,0
+STU-5093C372,8,7.2,5.7,0,4,4,Feeling confident about exams,3.6,4.0,0
+STU-5093C372,9,8.3,6.3,1,4,4,Feeling great and motivated today,3.6,5.4,0
+STU-5093C372,10,7.8,5.4,0,3,4,"Had a productive day, feeling accomplished",3.4,6.4,0
+STU-5093C372,11,7.0,4.8,0,5,5,Happy and well-rested,3.0,5.8,0
+STU-5093C372,12,7.8,3.8,0,4,4,Feeling calm and focused,3.6,5.4,0
+STU-3B19BEEB,1,7.7,6.2,1,4,5,Struggling to concentrate on anything,2.6,5.4,0
+STU-3B19BEEB,2,6.3,5.1,1,4,3,Things are manageable but not exciting,2.9,6.4,0
+STU-3B19BEEB,3,6.4,4.0,2,5,4,Struggling to concentrate on anything,,6.4,1
+STU-3B19BEEB,4,5.8,5.4,1,4,3,"Good energy, looking forward to classes",2.3,6.4,0
+STU-3B19BEEB,5,,2.5,1,5,3,"Routine day, nothing remarkable",2.1,7.8,1
+STU-3B19BEEB,6,6.3,3.9,2,5,3,Just getting by day to day,1.6,7.3,1
+STU-3B19BEEB,7,5.4,3.9,3,4,3,Dreading going to class,1.5,7.2,1
+STU-3B19BEEB,8,5.8,3.3,3,6,2,Feeling hopeless about my grades,2.3,9.5,1
+STU-3B19BEEB,9,6.6,4.3,3,5,1,Feeling hopeless about my grades,1.1,8.6,1
+STU-3B19BEEB,10,5.5,5.3,3,7,2,"Can't sleep well, too much anxiety",0.6,8.5,2
+STU-3B19BEEB,11,5.1,4.1,3,6,1,Too much pressure from all sides,0.8,8.3,2
+STU-3B19BEEB,12,5.7,5.1,3,7,3,Feeling anxious about everything,0.9,7.3,2
+STU-541EB777,1,5.2,5.5,1,3,3,"Average day, going through the motions",5.0,5.9,0
+STU-541EB777,2,5.5,4.4,2,3,2,Feeling indifferent about things,3.8,5.8,0
+STU-541EB777,3,6.3,3.6,2,4,2,"Average day, going through the motions",4.9,6.6,1
+STU-541EB777,4,5.5,4.7,2,5,3,Excited about upcoming projects,3.7,6.4,1
+STU-541EB777,5,3.7,4.5,2,5,3,"Neither good nor bad, just normal",3.3,7.1,1
+STU-541EB777,6,4.7,3.9,3,5,0,Just getting by day to day,2.6,7.4,1
+STU-541EB777,7,5.7,4.1,2,7,1,Struggling to concentrate on anything,4.0,8.1,1
+STU-541EB777,8,4.4,4.4,3,5,0,Very stressed about deadlines,3.1,8.7,1
+STU-541EB777,9,4.5,3.6,3,5,0,Very stressed about deadlines,3.1,7.6,1
+STU-541EB777,10,3.7,3.8,4,7,1,Feeling overwhelmed with assignments,3.1,7.8,2
+STU-541EB777,11,3.3,3.3,4,7,0,Feeling isolated and lonely,2.2,8.6,2
+STU-541EB777,12,4.0,5.6,5,7,0,Constantly tired no matter how much I sleep,2.2,8.2,2
+STU-50852D6C,1,7.3,5.7,2,4,4,Feeling indifferent about things,,8.7,0
+STU-50852D6C,2,6.9,7.6,2,5,2,"Had a productive day, feeling accomplished",3.2,8.8,1
+STU-50852D6C,3,8.2,7.9,2,5,4,Motivated to study and stay on track,3.6,6.7,0
+STU-50852D6C,4,7.7,9.3,3,5,4,Things are manageable but not exciting,3.5,7.6,1
+STU-50852D6C,5,7.5,7.9,1,4,3,"Had a productive day, feeling accomplished",3.6,8.3,0
+STU-50852D6C,6,7.2,7.3,3,5,4,"Average day, going through the motions",3.3,7.9,1
+STU-50852D6C,7,7.4,6.6,2,5,2,Just getting by day to day,3.6,8.2,1
+STU-50852D6C,8,8.0,6.9,3,5,3,Feeling overwhelmed with assignments,3.6,9.2,1
+STU-50852D6C,9,7.5,6.4,1,5,4,Things are manageable but not exciting,3.0,9.2,0
+STU-50852D6C,10,8.3,7.8,2,5,3,"Doing alright, could be better",3.9,8.3,0
+STU-50852D6C,11,8.5,7.5,2,5,3,"Neither good nor bad, just normal",3.5,8.3,0
+STU-50852D6C,12,7.8,8.5,2,6,2,"Neither good nor bad, just normal",4.2,8.9,1
+STU-13A1AF6A,1,9.6,5.0,0,3,5,Excited about upcoming projects,5.0,5.6,0
+STU-13A1AF6A,2,9.2,4.7,0,1,6,"Good energy, looking forward to classes",5.1,4.9,0
+STU-13A1AF6A,3,9.4,5.6,0,1,6,"Good energy, looking forward to classes",5.0,5.0,0
+STU-13A1AF6A,4,8.4,7.1,1,3,5,"Good energy, looking forward to classes",4.5,3.7,0
+STU-13A1AF6A,5,9.6,6.0,1,2,5,Motivated to study and stay on track,4.4,6.1,0
+STU-13A1AF6A,6,8.9,5.5,1,2,6,Excited about upcoming projects,4.6,5.0,0
+STU-13A1AF6A,7,8.5,4.8,1,4,6,"Had a productive day, feeling accomplished",4.1,5.0,0
+STU-13A1AF6A,8,9.4,7.8,0,1,4,Excited about upcoming projects,,4.5,0
+STU-13A1AF6A,9,9.4,5.7,1,1,6,Happy and well-rested,4.0,6.0,0
+STU-13A1AF6A,10,8.7,4.9,1,1,6,"Good energy, looking forward to classes",4.5,3.9,0
+STU-13A1AF6A,11,8.7,6.4,0,1,6,Happy and well-rested,4.8,6.3,0
+STU-13A1AF6A,12,8.3,5.7,0,2,6,"Good energy, looking forward to classes",4.7,5.3,0
+STU-9D519A6E,1,7.7,7.7,0,3,2,"Average day, going through the motions",2.3,7.1,0
+STU-9D519A6E,2,6.6,6.4,1,4,2,"Doing alright, could be better",1.6,6.5,1
+STU-9D519A6E,3,5.4,5.0,1,4,3,"Routine day, nothing remarkable",2.0,7.3,1
+STU-9D519A6E,4,5.5,6.8,1,6,2,"Doing alright, could be better",2.8,8.6,1
+STU-9D519A6E,5,5.5,7.2,2,6,2,"Neither good nor bad, just normal",2.1,8.0,1
+STU-9D519A6E,6,5.3,8.4,2,6,1,Things are manageable but not exciting,1.4,9.1,1
+STU-9D519A6E,7,4.9,7.4,2,6,1,Struggling to concentrate on anything,2.1,7.9,1
+STU-9D519A6E,8,4.7,7.2,2,7,1,Feeling numb and disconnected,1.7,8.6,2
+STU-9D519A6E,9,3.8,7.7,2,8,0,Feeling anxious about everything,1.4,9.8,2
+STU-9D519A6E,10,5.3,7.6,4,7,1,Feeling hopeless about my grades,0.1,9.3,2
+STU-9D519A6E,11,3.0,7.0,3,9,0,Lost all motivation to study,0.6,8.6,2
+STU-9D519A6E,12,3.8,7.4,4,7,0,Feeling numb and disconnected,0.1,9.4,2
+STU-97685E9F,1,7.4,5.8,2,4,4,Just getting by day to day,4.1,6.5,0
+STU-97685E9F,2,6.4,5.0,2,4,3,"Neither good nor bad, just normal",4.5,5.7,0
+STU-97685E9F,3,8.1,5.8,2,4,3,"Doing alright, could be better",3.6,6.2,0
+STU-97685E9F,4,6.9,6.3,3,6,2,"Neither good nor bad, just normal",3.7,7.4,1
+STU-97685E9F,5,6.8,6.1,2,6,2,Struggling to concentrate on anything,3.2,7.5,1
+STU-97685E9F,6,6.0,5.8,2,7,2,"Routine day, nothing remarkable",2.7,8.2,1
+STU-97685E9F,7,5.9,7.5,3,8,1,Feeling anxious about everything,3.5,7.8,2
+STU-97685E9F,8,6.7,5.6,3,9,2,Lost all motivation to study,2.9,6.7,2
+STU-97685E9F,9,6.4,5.7,4,7,0,Exhausted and burned out from studying,3.4,7.2,2
+STU-97685E9F,10,4.9,7.4,4,7,0,Struggling to concentrate on anything,2.3,7.6,2
+STU-97685E9F,11,6.6,6.2,5,7,0,Feeling hopeless about my grades,2.8,9.5,2
+STU-97685E9F,12,5.0,6.8,4,9,0,Feeling isolated and lonely,2.1,8.6,2
+STU-885708BF,1,6.4,8.9,2,6,5,Feeling hopeless about my grades,3.9,5.7,1
+STU-885708BF,2,6.6,7.7,2,5,2,"Doing alright, could be better",4.3,7.1,1
+STU-885708BF,3,7.7,8.6,2,5,3,"Neither good nor bad, just normal",4.4,8.1,1
+STU-885708BF,4,6.6,7.9,1,4,4,"Feeling okay, nothing special",,6.6,0
+STU-885708BF,5,6.1,7.5,3,4,4,Constantly tired no matter how much I sleep,3.6,8.9,1
+STU-885708BF,6,6.3,8.9,3,4,4,Exhausted and burned out from studying,3.9,6.5,1
+STU-885708BF,7,,8.8,2,5,3,Feeling indifferent about things,3.7,6.6,1
+STU-885708BF,8,6.8,7.6,2,5,4,Very stressed about deadlines,3.0,5.6,1
+STU-885708BF,9,7.3,8.8,2,5,3,Lost all motivation to study,3.6,6.5,1
+STU-885708BF,10,8.0,8.1,2,4,4,"Routine day, nothing remarkable",,8.3,0
+STU-885708BF,11,7.6,7.5,2,4,4,"Good energy, looking forward to classes",3.1,8.2,0
+STU-885708BF,12,6.2,7.5,2,6,4,"Neither good nor bad, just normal",3.3,5.0,1
+STU-8A7602D8,1,6.0,7.4,1,4,3,Things are manageable but not exciting,3.5,5.2,0
+STU-8A7602D8,2,6.5,4.9,1,5,2,Feeling balanced and in control,3.1,6.0,1
+STU-8A7602D8,3,5.9,7.3,2,3,2,Things are manageable but not exciting,3.9,6.0,0
+STU-8A7602D8,4,5.7,8.5,1,4,1,Things are manageable but not exciting,,6.2,1
+STU-8A7602D8,5,6.1,6.7,1,5,2,Just getting by day to day,3.5,6.7,1
+STU-8A7602D8,6,4.6,5.2,2,7,2,"Average day, going through the motions",2.9,7.1,1
+STU-8A7602D8,7,4.9,6.2,2,5,2,Very stressed about deadlines,2.9,7.6,1
+STU-8A7602D8,8,4.5,4.3,2,7,1,Lost all motivation to study,1.5,8.3,2
+STU-8A7602D8,9,4.8,4.5,3,7,2,Exhausted and burned out from studying,2.3,8.1,2
+STU-8A7602D8,10,4.5,6.1,3,7,1,Too much pressure from all sides,2.5,8.2,2
+STU-8A7602D8,11,4.3,5.6,4,7,0,Too much pressure from all sides,1.8,8.8,2
+STU-8A7602D8,12,3.9,6.8,4,7,0,Struggling to concentrate on anything,1.6,9.3,2
+STU-665C40C9,1,6.3,7.4,1,5,3,Feeling balanced and in control,3.8,6.3,1
+STU-665C40C9,2,6.8,6.0,2,5,2,Happy and well-rested,4.1,6.2,1
+STU-665C40C9,3,6.6,6.8,1,5,5,Struggling to concentrate on anything,4.2,8.3,0
+STU-665C40C9,4,6.7,6.5,2,3,2,Feeling hopeless about my grades,3.9,7.9,0
+STU-665C40C9,5,7.1,6.1,2,5,1,"Had a productive day, feeling accomplished",4.3,7.2,1
+STU-665C40C9,6,6.7,7.7,1,6,3,"Doing alright, could be better",3.5,8.7,1
+STU-665C40C9,7,6.2,6.1,3,6,1,Constantly tired no matter how much I sleep,3.5,7.8,1
+STU-665C40C9,8,5.4,6.8,3,6,1,Struggling to concentrate on anything,3.2,9.1,1
+STU-665C40C9,9,5.9,6.6,4,6,1,Feeling hopeless about my grades,3.5,8.1,1
+STU-665C40C9,10,5.2,5.1,4,7,1,Constantly tired no matter how much I sleep,3.1,9.6,2
+STU-665C40C9,11,5.1,6.3,3,7,1,Lost all motivation to study,2.8,9.4,2
+STU-665C40C9,12,5.5,6.8,3,7,0,Too much pressure from all sides,2.8,10.5,2
+STU-548DA534,1,7.3,8.0,2,3,3,"Neither good nor bad, just normal",2.3,6.3,0
+STU-548DA534,2,5.8,5.0,2,5,2,"Feeling okay, nothing special",2.8,7.1,1
+STU-548DA534,3,6.2,5.2,2,4,2,Feeling indifferent about things,2.3,5.3,1
+STU-548DA534,4,7.1,4.8,2,4,3,"Average day, going through the motions",,7.1,0
+STU-548DA534,5,5.8,2.6,3,3,3,Excited about upcoming projects,1.2,8.1,1
+STU-548DA534,6,6.2,3.8,3,5,2,Just getting by day to day,1.7,6.9,1
+STU-548DA534,7,7.0,3.5,2,4,2,"Doing alright, could be better",1.4,7.9,1
+STU-548DA534,8,6.7,5.8,2,5,4,Just getting by day to day,,8.2,1
+STU-548DA534,9,7.0,3.6,2,4,3,"Routine day, nothing remarkable",1.9,7.6,0
+STU-548DA534,10,7.0,3.8,2,4,2,"Routine day, nothing remarkable",2.4,7.2,1
+STU-548DA534,11,5.4,4.7,1,4,3,Feeling indifferent about things,2.4,7.6,1
+STU-548DA534,12,5.9,5.7,3,2,2,"Had a productive day, feeling accomplished",2.2,7.7,0
+STU-B958B823,1,8.5,6.6,0,2,4,Feeling great and motivated today,5.3,5.5,0
+STU-B958B823,2,7.8,5.3,0,2,5,Feeling confident about exams,5.7,5.1,0
+STU-B958B823,3,7.9,3.6,0,2,5,"Had a productive day, feeling accomplished",5.3,6.1,0
+STU-B958B823,4,8.4,4.6,1,1,5,Excited about upcoming projects,5.5,4.5,0
+STU-B958B823,5,6.8,5.6,0,2,4,Feeling calm and focused,5.4,4.4,0
+STU-B958B823,6,7.5,5.1,1,2,4,Enjoying the learning process,5.7,5.1,0
+STU-B958B823,7,8.6,3.2,1,2,4,Excited about upcoming projects,5.7,4.4,0
+STU-B958B823,8,8.6,6.1,0,3,5,Enjoying the learning process,4.9,6.7,0
+STU-B958B823,9,8.9,4.9,1,2,5,Excited about upcoming projects,5.3,5.0,0
+STU-B958B823,10,7.4,5.0,0,2,5,Feeling confident about exams,5.2,5.3,0
+STU-B958B823,11,7.9,5.7,0,1,5,Enjoying the learning process,5.6,5.8,0
+STU-B958B823,12,8.0,4.0,0,3,4,Happy and well-rested,5.3,4.4,0
+STU-895AC9FD,1,6.5,9.5,2,8,1,Constantly tired no matter how much I sleep,2.2,9.8,2
+STU-895AC9FD,2,6.8,6.5,1,8,2,Exhausted and burned out from studying,2.3,10.0,1
+STU-895AC9FD,3,6.8,5.7,1,8,1,Lost all motivation to study,2.0,8.4,1
+STU-895AC9FD,4,7.3,7.9,1,9,2,Feeling hopeless about my grades,1.7,7.2,2
+STU-895AC9FD,5,5.9,8.5,2,7,3,Too much pressure from all sides,2.7,7.4,1
+STU-895AC9FD,6,7.0,8.1,1,6,1,"Can't sleep well, too much anxiety",3.7,7.2,1
+STU-895AC9FD,7,5.8,7.7,1,6,3,Happy and well-rested,2.9,7.6,1
+STU-895AC9FD,8,7.2,7.8,1,4,3,"Doing alright, could be better",2.4,7.6,0
+STU-895AC9FD,9,6.7,7.6,1,5,4,Things are manageable but not exciting,3.6,7.5,0
+STU-895AC9FD,10,7.6,8.3,1,6,3,Happy and well-rested,3.6,7.8,1
+STU-895AC9FD,11,6.9,7.4,0,4,3,Feeling great and motivated today,3.3,5.8,0
+STU-895AC9FD,12,8.3,8.9,0,5,4,Feeling calm and focused,3.6,7.3,0
+STU-A46C5659,1,7.8,4.9,0,4,5,Feeling calm and focused,5.3,6.2,0
+STU-A46C5659,2,7.6,4.8,0,3,6,"Good energy, looking forward to classes",5.8,3.4,0
+STU-A46C5659,3,8.1,5.7,0,3,5,"Had a productive day, feeling accomplished",5.6,5.6,0
+STU-A46C5659,4,7.5,5.5,0,2,4,Feeling balanced and in control,5.6,5.0,0
+STU-A46C5659,5,7.4,5.2,0,4,5,"Had a productive day, feeling accomplished",6.7,5.4,0
+STU-A46C5659,6,8.2,3.8,0,3,3,Enjoying the learning process,5.9,4.7,0
+STU-A46C5659,7,7.5,4.9,0,2,4,Excited about upcoming projects,5.7,5.4,0
+STU-A46C5659,8,7.9,4.3,0,3,4,Feeling confident about exams,7.0,6.2,0
+STU-A46C5659,9,7.0,4.1,0,3,4,Feeling confident about exams,6.6,5.0,0
+STU-A46C5659,10,7.7,3.7,0,3,5,Feeling calm and focused,5.8,4.4,0
+STU-A46C5659,11,7.2,3.7,0,3,3,Motivated to study and stay on track,6.1,5.1,0
+STU-A46C5659,12,7.0,3.7,0,3,5,"Had a productive day, feeling accomplished",5.9,6.1,0
+STU-58E97F3B,1,6.1,5.8,0,3,3,"Routine day, nothing remarkable",3.4,6.3,0
+STU-58E97F3B,2,6.6,6.4,1,3,3,Just getting by day to day,2.5,10.1,0
+STU-58E97F3B,3,6.3,6.2,2,3,2,Things are manageable but not exciting,1.9,8.4,0
+STU-58E97F3B,4,6.9,6.8,2,6,1,Just getting by day to day,2.3,8.1,1
+STU-58E97F3B,5,6.8,5.5,2,4,0,"Routine day, nothing remarkable",1.7,8.5,1
+STU-58E97F3B,6,5.6,6.2,1,3,2,Feeling indifferent about things,1.5,7.8,0
+STU-58E97F3B,7,5.7,6.4,1,6,1,Feeling anxious about everything,2.5,8.9,1
+STU-58E97F3B,8,,5.8,2,5,1,Feeling anxious about everything,0.8,9.8,1
+STU-58E97F3B,9,6.6,6.2,2,5,0,Very stressed about deadlines,1.0,9.6,1
+STU-58E97F3B,10,5.0,6.6,2,6,1,Too much pressure from all sides,1.4,9.4,1
+STU-58E97F3B,11,5.0,6.8,3,6,0,"Can't sleep well, too much anxiety",0.8,10.0,2
+STU-58E97F3B,12,4.7,6.9,4,5,0,Struggling to concentrate on anything,1.4,10.2,2
+STU-8553F6FB,1,5.7,8.8,2,5,2,Very stressed about deadlines,2.2,13.1,1
+STU-8553F6FB,2,5.8,8.0,3,6,1,Exhausted and burned out from studying,2.4,11.3,2
+STU-8553F6FB,3,5.9,7.6,3,5,2,Feeling isolated and lonely,1.5,11.7,1
+STU-8553F6FB,4,5.3,8.4,4,5,2,Very stressed about deadlines,2.4,11.0,1
+STU-8553F6FB,5,5.7,7.4,3,4,2,"Can't sleep well, too much anxiety",3.8,12.3,1
+STU-8553F6FB,6,6.1,6.7,3,4,3,Struggling to concentrate on anything,3.3,9.7,1
+STU-8553F6FB,7,7.2,7.9,2,4,3,Things are manageable but not exciting,2.7,9.8,0
+STU-8553F6FB,8,7.0,8.1,2,3,4,"Neither good nor bad, just normal",3.5,9.8,0
+STU-8553F6FB,9,7.2,7.7,1,2,3,Things are manageable but not exciting,2.5,9.7,0
+STU-8553F6FB,10,,7.4,1,4,4,Excited about upcoming projects,3.7,11.2,0
+STU-8553F6FB,11,6.2,7.8,1,4,5,Motivated to study and stay on track,4.6,9.2,0
+STU-8553F6FB,12,6.1,10.4,1,2,4,Enjoying the learning process,3.5,7.8,0
+STU-B9F17F7A,1,5.9,3.4,0,5,3,"Neither good nor bad, just normal",3.5,5.5,0
+STU-B9F17F7A,2,6.1,4.6,1,6,3,"Routine day, nothing remarkable",3.7,6.6,1
+STU-B9F17F7A,3,6.2,4.9,1,5,3,"Neither good nor bad, just normal",2.7,8.1,1
+STU-B9F17F7A,4,6.2,3.7,1,6,2,"Routine day, nothing remarkable",3.3,6.4,1
+STU-B9F17F7A,5,5.4,3.2,2,6,3,Just getting by day to day,2.3,7.3,1
+STU-B9F17F7A,6,4.7,3.3,2,7,2,Constantly tired no matter how much I sleep,3.0,8.2,1
+STU-B9F17F7A,7,5.7,4.7,2,8,1,"Can't sleep well, too much anxiety",2.4,7.4,2
+STU-B9F17F7A,8,4.6,4.2,2,7,3,Exhausted and burned out from studying,2.1,7.5,1
+STU-B9F17F7A,9,4.4,4.2,2,8,2,Feeling numb and disconnected,2.4,7.8,2
+STU-B9F17F7A,10,4.3,5.8,2,7,1,Feeling hopeless about my grades,1.9,8.2,2
+STU-B9F17F7A,11,3.7,4.2,2,7,1,Dreading going to class,1.7,8.9,2
+STU-B9F17F7A,12,4.0,3.9,3,8,1,Dreading going to class,,9.4,2
+STU-9AAD89D5,1,8.1,4.6,0,4,6,Motivated to study and stay on track,3.3,3.8,0
+STU-9AAD89D5,2,7.3,7.5,1,3,5,Happy and well-rested,3.9,3.7,0
+STU-9AAD89D5,3,7.7,6.6,0,4,7,Motivated to study and stay on track,3.7,2.8,0
+STU-9AAD89D5,4,7.0,6.6,0,1,5,Happy and well-rested,4.6,2.1,0
+STU-9AAD89D5,5,8.3,6.5,0,3,5,Motivated to study and stay on track,4.2,3.5,0
+STU-9AAD89D5,6,6.8,4.7,0,3,6,Motivated to study and stay on track,3.9,2.0,0
+STU-9AAD89D5,7,8.0,5.9,0,4,5,Excited about upcoming projects,3.5,2.0,0
+STU-9AAD89D5,8,8.1,6.9,0,4,5,"Had a productive day, feeling accomplished",4.3,4.1,0
+STU-9AAD89D5,9,7.4,6.5,0,4,5,Feeling balanced and in control,5.1,2.9,0
+STU-9AAD89D5,10,7.9,6.9,0,3,7,Feeling great and motivated today,4.0,3.2,0
+STU-9AAD89D5,11,6.9,6.2,0,3,5,Feeling calm and focused,3.8,2.1,0
+STU-9AAD89D5,12,6.1,5.8,0,3,3,"Good energy, looking forward to classes",4.4,3.8,0
+STU-2F28613B,1,6.7,5.5,2,6,2,Feeling calm and focused,3.4,6.2,1
+STU-2F28613B,2,7.2,5.4,1,5,3,"Neither good nor bad, just normal",3.7,6.5,0
+STU-2F28613B,3,7.7,6.9,2,7,2,"Routine day, nothing remarkable",2.5,7.1,1
+STU-2F28613B,4,7.3,5.0,2,5,0,"Average day, going through the motions",3.1,8.6,1
+STU-2F28613B,5,6.8,5.5,0,6,1,Feeling indifferent about things,2.6,6.1,1
+STU-2F28613B,6,8.2,8.7,1,6,2,Just getting by day to day,2.8,8.0,1
+STU-2F28613B,7,8.2,5.6,1,6,1,"Feeling okay, nothing special",3.7,5.8,1
+STU-2F28613B,8,7.4,7.4,0,6,2,"Routine day, nothing remarkable",3.1,6.8,1
+STU-2F28613B,9,6.6,7.5,1,5,1,Things are manageable but not exciting,2.5,5.2,1
+STU-2F28613B,10,6.9,7.1,2,6,2,Feeling calm and focused,3.7,5.1,1
+STU-2F28613B,11,7.4,6.0,0,5,2,"Feeling okay, nothing special",2.5,7.4,0
+STU-2F28613B,12,7.4,7.3,0,6,2,Just getting by day to day,3.0,7.5,1
+STU-7E602B0B,1,8.9,3.0,0,1,4,"Had a productive day, feeling accomplished",,3.1,0
+STU-7E602B0B,2,9.4,4.1,0,1,4,Motivated to study and stay on track,4.7,3.9,0
+STU-7E602B0B,3,9.0,3.4,0,2,4,"Had a productive day, feeling accomplished",5.2,4.8,0
+STU-7E602B0B,4,8.0,2.3,0,1,3,Feeling calm and focused,5.1,4.1,0
+STU-7E602B0B,5,8.5,4.5,0,2,4,Feeling calm and focused,5.2,3.2,0
+STU-7E602B0B,6,9.4,2.3,0,1,4,Feeling balanced and in control,5.3,4.0,0
+STU-7E602B0B,7,7.8,3.3,0,1,4,Feeling confident about exams,5.1,3.5,0
+STU-7E602B0B,8,9.8,4.6,0,1,5,Feeling balanced and in control,5.2,5.0,0
+STU-7E602B0B,9,8.8,4.2,0,1,4,Happy and well-rested,4.8,4.4,0
+STU-7E602B0B,10,9.1,5.0,0,1,3,Excited about upcoming projects,5.0,4.1,0
+STU-7E602B0B,11,,2.6,0,1,5,Feeling balanced and in control,5.1,3.9,0
+STU-7E602B0B,12,8.8,3.7,0,1,4,Excited about upcoming projects,4.4,4.8,0
+STU-117EE478,1,4.8,8.4,2,7,0,Lost all motivation to study,0.4,15.0,2
+STU-117EE478,2,3.0,8.2,4,7,0,Exhausted and burned out from studying,0.3,13.8,2
+STU-117EE478,3,3.9,8.7,3,8,0,Feeling numb and disconnected,0.2,13.6,2
+STU-117EE478,4,3.4,7.7,2,8,0,Exhausted and burned out from studying,1.5,13.4,2
+STU-117EE478,5,4.8,8.5,3,7,0,Lost all motivation to study,0.1,13.9,2
+STU-117EE478,6,4.2,7.6,3,7,1,Feeling overwhelmed with assignments,0.6,13.7,2
+STU-117EE478,7,3.0,8.6,4,8,0,Feeling anxious about everything,0.5,14.6,2
+STU-117EE478,8,4.5,6.3,4,9,1,Struggling to concentrate on anything,0.1,13.1,2
+STU-117EE478,9,3.7,7.5,2,8,0,Dreading going to class,0.0,13.5,2
+STU-117EE478,10,3.6,8.2,4,7,0,Feeling isolated and lonely,0.0,14.9,2
+STU-117EE478,11,4.6,7.3,4,8,0,Feeling anxious about everything,0.0,13.2,2
+STU-117EE478,12,4.0,9.3,3,8,0,Dreading going to class,0.0,15.1,2
+STU-4A0F2989,1,5.9,6.0,2,6,2,"Good energy, looking forward to classes",3.3,7.4,1
+STU-4A0F2989,2,7.5,6.3,2,6,4,Feeling indifferent about things,2.8,7.2,1
+STU-4A0F2989,3,6.0,4.8,2,5,3,Dreading going to class,3.2,6.8,1
+STU-4A0F2989,4,6.3,6.6,2,4,2,Too much pressure from all sides,3.1,7.7,1
+STU-4A0F2989,5,,6.5,3,7,2,"Can't sleep well, too much anxiety",2.3,8.4,1
+STU-4A0F2989,6,5.2,6.4,3,6,2,Lost all motivation to study,,7.7,1
+STU-4A0F2989,7,5.7,5.1,4,6,2,Feeling hopeless about my grades,1.2,9.0,2
+STU-4A0F2989,8,5.8,4.5,3,6,2,Feeling overwhelmed with assignments,1.8,9.4,1
+STU-4A0F2989,9,5.2,5.1,3,7,1,Feeling isolated and lonely,,9.5,2
+STU-4A0F2989,10,5.3,5.7,4,8,0,Feeling numb and disconnected,1.3,10.9,2
+STU-4A0F2989,11,4.0,4.2,4,8,2,Too much pressure from all sides,0.7,9.2,2
+STU-4A0F2989,12,4.3,3.7,4,9,0,"Can't sleep well, too much anxiety",1.6,9.8,2
+STU-5BBF8E9D,1,4.8,12.1,6,9,0,"Breaking down emotionally, can't handle it",1.0,11.8,2
+STU-5BBF8E9D,2,3.1,11.7,6,8,0,Feeling numb and disconnected,0.8,14.1,2
+STU-5BBF8E9D,3,3.5,12.4,6,8,0,"Can't sleep well, too much anxiety",1.0,13.1,2
+STU-5BBF8E9D,4,4.4,12.8,6,10,0,Exhausted and burned out from studying,0.4,12.0,2
+STU-5BBF8E9D,5,4.5,12.9,6,8,0,"Can't sleep well, too much anxiety",0.8,13.1,2
+STU-5BBF8E9D,6,4.2,11.3,6,8,0,"Breaking down emotionally, can't handle it",1.1,13.2,2
+STU-5BBF8E9D,7,3.6,11.4,7,9,0,Struggling to concentrate on anything,0.8,12.5,2
+STU-5BBF8E9D,8,,13.1,6,10,0,Feeling numb and disconnected,1.4,12.3,2
+STU-5BBF8E9D,9,4.9,11.9,6,9,0,Exhausted and burned out from studying,1.2,13.4,2
+STU-5BBF8E9D,10,4.3,13.5,5,10,0,Lost all motivation to study,1.2,12.5,2
+STU-5BBF8E9D,11,3.7,12.3,6,10,0,Feeling numb and disconnected,0.3,12.1,2
+STU-5BBF8E9D,12,,13.8,7,8,1,Too much pressure from all sides,0.9,11.4,2
+STU-7B2B3FA2,1,7.4,4.2,1,4,4,"Neither good nor bad, just normal",4.9,7.0,0
+STU-7B2B3FA2,2,6.1,4.6,1,3,4,Feeling indifferent about things,,6.7,0
+STU-7B2B3FA2,3,5.4,5.1,2,4,4,Things are manageable but not exciting,4.2,7.3,0
+STU-7B2B3FA2,4,5.6,5.5,1,4,3,"Average day, going through the motions",4.6,6.7,0
+STU-7B2B3FA2,5,4.7,4.9,3,6,4,Feeling indifferent about things,3.9,7.2,1
+STU-7B2B3FA2,6,4.5,3.5,3,6,2,Just getting by day to day,4.4,8.0,1
+STU-7B2B3FA2,7,4.6,5.4,3,5,2,Constantly tired no matter how much I sleep,4.4,7.6,1
+STU-7B2B3FA2,8,4.8,5.3,2,6,2,Constantly tired no matter how much I sleep,3.4,7.8,1
+STU-7B2B3FA2,9,4.4,5.1,3,5,2,Struggling to concentrate on anything,3.2,8.3,1
+STU-7B2B3FA2,10,4.4,4.5,3,8,1,Feeling anxious about everything,3.2,8.9,2
+STU-7B2B3FA2,11,4.4,3.8,3,8,1,Feeling overwhelmed with assignments,3.3,10.1,2
+STU-7B2B3FA2,12,4.1,3.8,4,8,0,Feeling numb and disconnected,2.9,10.1,2
+STU-7D3FA5A3,1,4.5,9.4,4,10,0,Lost all motivation to study,1.5,12.5,2
+STU-7D3FA5A3,2,4.2,8.1,5,10,1,Feeling numb and disconnected,1.9,13.8,2
+STU-7D3FA5A3,3,5.7,10.2,5,9,0,"Breaking down emotionally, can't handle it",0.6,13.6,2
+STU-7D3FA5A3,4,5.9,9.0,4,10,1,Very stressed about deadlines,0.7,13.3,2
+STU-7D3FA5A3,5,4.9,6.9,4,8,0,"Breaking down emotionally, can't handle it",1.3,13.2,2
+STU-7D3FA5A3,6,4.9,11.2,5,9,0,Constantly tired no matter how much I sleep,1.9,12.4,2
+STU-7D3FA5A3,7,6.7,10.7,5,9,1,Too much pressure from all sides,1.1,14.2,2
+STU-7D3FA5A3,8,5.8,7.7,5,9,0,Too much pressure from all sides,2.0,12.4,2
+STU-7D3FA5A3,9,5.4,9.8,4,8,1,"Breaking down emotionally, can't handle it",1.1,12.5,2
+STU-7D3FA5A3,10,4.0,8.5,4,9,1,Struggling to concentrate on anything,1.5,13.1,2
+STU-7D3FA5A3,11,6.2,9.1,5,9,0,Feeling numb and disconnected,1.4,12.4,2
+STU-7D3FA5A3,12,3.9,8.5,5,10,0,Very stressed about deadlines,0.9,14.0,2
+STU-1D00688D,1,3.9,11.5,5,8,0,Lost all motivation to study,0.0,11.3,2
+STU-1D00688D,2,4.6,11.5,4,7,0,Dreading going to class,0.7,11.0,2
+STU-1D00688D,3,4.2,12.3,4,8,0,Feeling hopeless about my grades,0.0,12.8,2
+STU-1D00688D,4,3.9,12.5,4,8,0,Exhausted and burned out from studying,0.4,9.9,2
+STU-1D00688D,5,4.8,11.7,4,8,1,Feeling hopeless about my grades,0.4,11.0,2
+STU-1D00688D,6,3.0,11.9,5,9,0,Feeling numb and disconnected,0.4,10.6,2
+STU-1D00688D,7,3.0,14.0,5,8,0,Exhausted and burned out from studying,0.0,11.7,2
+STU-1D00688D,8,4.4,13.2,4,10,0,Constantly tired no matter how much I sleep,0.5,12.6,2
+STU-1D00688D,9,3.4,11.3,4,9,0,Feeling isolated and lonely,0.3,9.4,2
+STU-1D00688D,10,3.7,13.4,5,8,1,Struggling to concentrate on anything,0.8,11.7,2
+STU-1D00688D,11,3.8,12.0,5,8,0,Feeling numb and disconnected,0.4,10.9,2
+STU-1D00688D,12,4.1,11.6,4,10,0,Feeling isolated and lonely,0.4,11.1,2
+STU-F42D3EB2,1,7.2,8.4,2,4,3,"Neither good nor bad, just normal",1.5,7.7,1
+STU-F42D3EB2,2,5.9,6.9,2,4,3,"Routine day, nothing remarkable",1.7,9.8,1
+STU-F42D3EB2,3,7.2,8.2,3,4,4,"Feeling okay, nothing special",2.1,8.6,1
+STU-F42D3EB2,4,6.7,7.4,2,4,1,Motivated to study and stay on track,1.7,8.9,1
+STU-F42D3EB2,5,7.9,9.2,2,5,3,Excited about upcoming projects,2.0,9.9,1
+STU-F42D3EB2,6,7.1,7.3,2,4,3,"Feeling okay, nothing special",2.2,8.8,0
+STU-F42D3EB2,7,7.7,7.5,2,5,3,Feeling hopeless about my grades,1.9,8.3,1
+STU-F42D3EB2,8,7.2,8.5,2,4,2,"Neither good nor bad, just normal",2.8,7.6,0
+STU-F42D3EB2,9,7.6,8.2,2,4,1,Feeling isolated and lonely,2.2,9.5,1
+STU-F42D3EB2,10,6.8,7.1,1,4,3,"Good energy, looking forward to classes",,7.9,0
+STU-F42D3EB2,11,7.2,6.0,2,5,2,Feeling confident about exams,2.0,9.0,1
+STU-F42D3EB2,12,7.2,7.8,2,4,2,Just getting by day to day,2.6,9.2,1
+STU-D8C580DF,1,5.3,6.4,0,4,3,"Neither good nor bad, just normal",3.8,7.6,0
+STU-D8C580DF,2,6.0,6.2,1,5,4,"Good energy, looking forward to classes",3.5,9.3,1
+STU-D8C580DF,3,5.8,6.0,1,5,3,"Doing alright, could be better",3.6,8.5,1
+STU-D8C580DF,4,5.0,5.3,1,6,2,"Average day, going through the motions",3.2,9.4,1
+STU-D8C580DF,5,4.8,3.7,2,7,3,"Feeling okay, nothing special",2.9,8.7,1
+STU-D8C580DF,6,4.2,5.7,2,6,3,"Average day, going through the motions",2.7,9.9,1
+STU-D8C580DF,7,4.5,6.9,2,5,3,"Can't sleep well, too much anxiety",2.7,8.2,1
+STU-D8C580DF,8,4.9,6.3,2,7,3,Feeling anxious about everything,3.1,10.0,1
+STU-D8C580DF,9,5.8,7.3,3,7,3,Exhausted and burned out from studying,3.0,8.6,1
+STU-D8C580DF,10,4.9,4.8,3,7,2,Dreading going to class,1.7,9.7,2
+STU-D8C580DF,11,,5.2,3,8,2,Too much pressure from all sides,1.8,10.8,2
+STU-D8C580DF,12,3.5,7.3,4,8,2,Constantly tired no matter how much I sleep,2.3,9.8,2
+STU-898778C6,1,5.1,10.4,2,6,2,Feeling overwhelmed with assignments,1.5,10.6,2
+STU-898778C6,2,5.0,10.3,3,6,1,Feeling overwhelmed with assignments,1.9,9.9,2
+STU-898778C6,3,5.3,7.2,2,7,3,"Breaking down emotionally, can't handle it",2.0,11.5,2
+STU-898778C6,4,5.2,10.1,2,8,1,Struggling to concentrate on anything,1.9,9.9,2
+STU-898778C6,5,6.5,9.6,2,6,1,Feeling numb and disconnected,1.8,10.4,1
+STU-898778C6,6,6.0,8.5,1,6,2,Very stressed about deadlines,2.5,8.7,1
+STU-898778C6,7,7.4,7.7,1,5,3,Feeling hopeless about my grades,2.1,10.5,1
+STU-898778C6,8,7.1,8.7,1,5,1,"Routine day, nothing remarkable",3.5,9.1,1
+STU-898778C6,9,7.2,10.3,1,6,1,Happy and well-rested,3.5,10.0,1
+STU-898778C6,10,7.3,10.3,1,5,1,"Had a productive day, feeling accomplished",3.6,9.7,1
+STU-898778C6,11,7.9,10.8,1,6,3,"Had a productive day, feeling accomplished",3.1,9.2,1
+STU-898778C6,12,7.4,9.6,1,3,1,"Had a productive day, feeling accomplished",3.8,9.1,0
+STU-F3E308D6,1,6.9,1.7,0,4,3,Feeling confident about exams,4.6,3.8,0
+STU-F3E308D6,2,7.3,4.7,0,3,4,Feeling confident about exams,5.5,4.2,0
+STU-F3E308D6,3,6.6,2.2,0,2,5,"Good energy, looking forward to classes",,4.4,0
+STU-F3E308D6,4,6.5,2.7,0,3,5,Excited about upcoming projects,5.6,4.2,0
+STU-F3E308D6,5,6.8,2.6,0,3,4,Happy and well-rested,5.1,3.1,0
+STU-F3E308D6,6,7.3,1.8,0,3,5,Excited about upcoming projects,6.0,3.7,0
+STU-F3E308D6,7,7.2,3.7,0,3,4,Excited about upcoming projects,5.0,3.2,0
+STU-F3E308D6,8,,4.9,0,3,5,"Had a productive day, feeling accomplished",5.6,3.4,0
+STU-F3E308D6,9,7.2,2.8,0,3,5,Enjoying the learning process,5.4,3.6,0
+STU-F3E308D6,10,7.2,1.7,0,2,5,Feeling balanced and in control,,3.5,0
+STU-F3E308D6,11,7.0,3.8,0,2,5,Feeling great and motivated today,5.4,3.9,0
+STU-F3E308D6,12,7.5,5.7,0,3,4,Feeling balanced and in control,5.9,3.2,0
+STU-BAD56666,1,8.6,4.3,0,1,3,Excited about upcoming projects,5.9,2.0,0
+STU-BAD56666,2,8.6,4.6,0,1,4,Motivated to study and stay on track,5.7,3.9,0
+STU-BAD56666,3,8.7,5.3,0,1,5,Feeling confident about exams,,4.2,0
+STU-BAD56666,4,9.4,5.8,0,1,4,Feeling calm and focused,5.2,3.3,0
+STU-BAD56666,5,8.3,5.6,1,2,5,Excited about upcoming projects,5.8,3.2,0
+STU-BAD56666,6,8.8,6.9,0,1,5,Happy and well-rested,5.3,3.2,0
+STU-BAD56666,7,9.7,6.8,1,2,5,Feeling balanced and in control,5.1,3.1,0
+STU-BAD56666,8,8.2,5.7,0,1,4,Motivated to study and stay on track,5.8,2.3,0
+STU-BAD56666,9,8.8,5.0,0,2,4,Feeling calm and focused,5.2,4.0,0
+STU-BAD56666,10,8.0,6.5,0,2,4,"Had a productive day, feeling accomplished",5.4,3.4,0
+STU-BAD56666,11,8.6,6.6,1,1,4,"Had a productive day, feeling accomplished",5.8,3.7,0
+STU-BAD56666,12,8.7,6.5,0,1,4,Excited about upcoming projects,4.9,3.2,0
+STU-F0688156,1,5.5,4.6,2,4,5,Things are manageable but not exciting,3.8,5.9,0
+STU-F0688156,2,6.2,5.6,1,4,4,Things are manageable but not exciting,3.1,7.0,0
+STU-F0688156,3,,4.3,2,6,4,"Neither good nor bad, just normal",2.9,5.7,1
+STU-F0688156,4,6.0,3.7,3,6,4,"Average day, going through the motions",3.1,4.5,1
+STU-F0688156,5,7.1,4.2,3,5,3,Feeling indifferent about things,2.6,6.9,1
+STU-F0688156,6,5.4,4.0,3,5,3,"Feeling okay, nothing special",2.5,6.3,1
+STU-F0688156,7,5.3,3.7,3,5,2,Feeling numb and disconnected,2.4,5.6,1
+STU-F0688156,8,5.8,3.6,3,7,2,Feeling numb and disconnected,2.7,7.0,1
+STU-F0688156,9,5.6,3.8,4,7,2,Too much pressure from all sides,2.3,7.5,2
+STU-F0688156,10,4.2,3.3,5,8,3,Feeling isolated and lonely,2.4,8.0,2
+STU-F0688156,11,4.7,4.4,5,8,2,Exhausted and burned out from studying,2.3,6.9,2
+STU-F0688156,12,4.9,5.5,4,7,2,Dreading going to class,1.6,8.5,2
+STU-2C24E3DA,1,7.3,5.6,1,2,2,"Doing alright, could be better",4.6,7.4,0
+STU-2C24E3DA,2,6.9,7.4,0,4,4,Feeling indifferent about things,4.6,9.2,0
+STU-2C24E3DA,3,7.8,7.1,1,3,2,"Doing alright, could be better",4.5,9.7,0
+STU-2C24E3DA,4,7.5,7.7,1,5,3,"Average day, going through the motions",3.6,8.6,0
+STU-2C24E3DA,5,7.3,7.3,1,4,4,"Average day, going through the motions",3.5,8.9,0
+STU-2C24E3DA,6,6.2,7.1,2,6,2,"Feeling okay, nothing special",3.8,9.7,1
+STU-2C24E3DA,7,5.8,7.2,3,6,1,Struggling to concentrate on anything,3.6,10.4,1
+STU-2C24E3DA,8,5.5,8.9,2,6,2,Struggling to concentrate on anything,3.4,10.8,1
+STU-2C24E3DA,9,7.2,6.6,2,7,1,"Can't sleep well, too much anxiety",3.0,10.6,1
+STU-2C24E3DA,10,6.4,7.0,3,6,1,Feeling hopeless about my grades,3.1,9.8,1
+STU-2C24E3DA,11,5.6,7.4,2,6,1,Feeling numb and disconnected,3.0,11.8,1
+STU-2C24E3DA,12,5.3,6.4,4,7,1,Feeling numb and disconnected,2.5,10.0,2
+STU-F21BD9A4,1,8.3,2.9,1,5,4,Just getting by day to day,4.2,9.6,0
+STU-F21BD9A4,2,7.8,3.6,1,4,3,"Neither good nor bad, just normal",3.2,7.1,0
+STU-F21BD9A4,3,7.0,5.1,1,5,3,"Average day, going through the motions",3.8,9.2,1
+STU-F21BD9A4,4,7.1,5.0,1,6,2,"Had a productive day, feeling accomplished",3.8,8.2,1
+STU-F21BD9A4,5,7.4,4.2,2,7,1,Feeling calm and focused,3.9,7.2,1
+STU-F21BD9A4,6,6.1,4.3,2,7,2,Feeling great and motivated today,3.0,7.1,1
+STU-F21BD9A4,7,7.9,2.2,3,7,0,Lost all motivation to study,,8.4,1
+STU-F21BD9A4,8,6.6,3.8,3,7,2,Feeling hopeless about my grades,3.6,9.0,1
+STU-F21BD9A4,9,6.6,4.8,4,6,1,Dreading going to class,2.9,10.5,1
+STU-F21BD9A4,10,5.6,4.1,3,7,0,Feeling isolated and lonely,2.4,10.0,2
+STU-F21BD9A4,11,6.2,3.3,4,9,1,Too much pressure from all sides,1.9,10.4,2
+STU-F21BD9A4,12,6.4,4.3,3,9,1,"Breaking down emotionally, can't handle it",3.0,10.8,2
+STU-2B3AEAF2,1,4.6,12.2,6,10,0,Dreading going to class,0.3,12.4,2
+STU-2B3AEAF2,2,4.8,11.7,6,8,0,Lost all motivation to study,0.8,12.2,2
+STU-2B3AEAF2,3,4.2,10.3,5,9,1,Feeling hopeless about my grades,0.7,11.6,2
+STU-2B3AEAF2,4,4.9,9.5,5,9,0,Feeling hopeless about my grades,0.3,12.9,2
+STU-2B3AEAF2,5,4.5,11.8,6,8,0,"Breaking down emotionally, can't handle it",0.6,10.9,2
+STU-2B3AEAF2,6,4.8,11.8,5,8,1,Feeling hopeless about my grades,0.0,12.8,2
+STU-2B3AEAF2,7,,9.7,6,10,0,Very stressed about deadlines,,11.9,2
+STU-2B3AEAF2,8,5.6,9.9,6,10,0,Too much pressure from all sides,0.1,11.5,2
+STU-2B3AEAF2,9,6.1,11.8,5,9,0,Dreading going to class,0.1,11.9,2
+STU-2B3AEAF2,10,5.3,11.3,6,9,1,Dreading going to class,0.3,13.0,2
+STU-2B3AEAF2,11,5.2,10.9,5,8,1,Feeling anxious about everything,1.0,13.2,2
+STU-2B3AEAF2,12,5.4,8.7,5,9,0,"Can't sleep well, too much anxiety",0.7,11.8,2

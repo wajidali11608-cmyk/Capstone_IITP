@@ -1,0 +1,74 @@
+[
+  {
+    "feature": "stress_level",
+    "importance": 0.1067
+  },
+  {
+    "feature": "stress_sleep_interaction",
+    "importance": 0.0933
+  },
+  {
+    "feature": "late_submissions",
+    "importance": 0.0588
+  },
+  {
+    "feature": "social_isolation_score",
+    "importance": 0.0312
+  },
+  {
+    "feature": "exercise_hours",
+    "importance": 0.0303
+  },
+  {
+    "feature": "social_activity_freq",
+    "importance": 0.0299
+  },
+  {
+    "feature": "sleep_hours",
+    "importance": 0.0274
+  },
+  {
+    "feature": "has_negative_emotion",
+    "importance": 0.0225
+  },
+  {
+    "feature": "has_positive_emotion",
+    "importance": 0.0209
+  },
+  {
+    "feature": "screen_time",
+    "importance": 0.0181
+  },
+  {
+    "feature": "study_hours",
+    "importance": 0.0084
+  },
+  {
+    "feature": "negative_sentiment_trend",
+    "importance": 0.0077
+  },
+  {
+    "feature": "procrastination_score",
+    "importance": 0.0069
+  },
+  {
+    "feature": "study_overload",
+    "importance": 0.0028
+  },
+  {
+    "feature": "sleep_irregularity",
+    "importance": 0.0018
+  },
+  {
+    "feature": "screen_study_ratio",
+    "importance": 0.0017
+  },
+  {
+    "feature": "sentiment_polarity",
+    "importance": 0.0016
+  },
+  {
+    "feature": "sentiment_subjectivity",
+    "importance": 0.0013
+  }
+]

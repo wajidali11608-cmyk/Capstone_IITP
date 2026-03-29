@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Self-Assessment Portal</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <!-- Load Chart.js for the final dynamic SHAP chart -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0"></script>
+</head>
+
+<body class="student-body">
+    <!-- Interactive Particle Background -->
+    <canvas id="particle-canvas"></canvas>
+
+    <!-- Background Animated Blobs (fallback layer) -->
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+
+    <header class="header slide-down transparent" style="z-index: 10;">
+        <h1 class="shimmer-text">Personal Assessment</h1>
+        <p>A safe, intelligent space to analyze your study habits and emotional wellbeing.</p>
+        <div class="header-nav" style="margin-top: 1rem;">
+            <a href="/">← Back to Admin Dash</a>
+        </div>
+    </header>
+
+    <main class="container centered-container fade-in" style="z-index: 10; position: relative;">
+        <!-- Hover-spotlight makes the light follow the mouse inside the card -->
+        <section class="predict-section glass-card full-width-card wizard-card hover-spotlight" id="wizard-card">
+
+            <div class="form-header" id="form-header">
+                <div class="icon glow-purple pulse-icon">✨</div>
+                <h2>Burnout Risk Evaluation</h2>
+                <div class="wizard-progress">
+                    <div class="progress-bar-bg">
+                        <div class="progress-bar-fill" id="progress-bar"></div>
+                    </div>
+                    <div class="step-indicator">
+                        <span class="step-dot active" data-step="1">1</span>
+                        <span class="step-dot" data-step="2">2</span>
+                        <span class="step-dot" data-step="3">3</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="wizard-wrapper">
+
+                <!-- STEP 1 -->
+                <div class="wizard-step active" id="step-1">
+                    <h3 class="step-title typing-text">Module 1: Academic Workload</h3>
+                    <p class="step-desc">Let's start by looking at your current university commitments.</p>
+
+                    <div class="slide-group">
+                        <label>Study Hours / Day: <span id="val-study" class="val-display">5.0</span></label>
+                        <input type="range" class="styled-slider glow-blue" id="pred-study" min="0" max="16" step="0.5"
+                            value="5" oninput="updateVal('study')">
+                    </div>
+
+                    <div class="slide-group" style="margin-top: 2rem;">
+                        <label>Late Submissions: <span id="val-late" class="val-display">0</span></label>
+                        <input type="range" class="styled-slider glow-cyan" id="pred-late" min="0" max="10" step="1"
+                            value="0" oninput="updateVal('late')">
+                    </div>
+
+                    <div class="wizard-actions">
+                        <div></div> <!-- Spacer -->
+                        <button class="advanced-btn next-btn" onclick="nextStep(1)">Continue ➔</button>
+                    </div>
+                </div>
+
+                <!-- STEP 2 -->
+                <div class="wizard-step" id="step-2">
+                    <h3 class="step-title">Module 2: Lifestyle & Health</h3>
+                    <p class="step-desc">Your physical habits heavily influence cognitive endurance.</p>
+
+                    <div class="slide-group">
+                        <label>Sleep Hours / Night: <span id="val-sleep" class="val-display">7.0</span></label>
+                        <input type="range" class="styled-slider glow-purple" id="pred-sleep" min="0" max="12"
+                            step="0.5" value="7" oninput="updateVal('sleep')">
+                    </div>
+
+                    <div class="slide-group" style="margin-top: 2rem;">
+                        <label>Exercise Hours / Week: <span id="val-exercise" class="val-display">2.0</span></label>
+                        <input type="range" class="styled-slider glow-green" id="pred-exercise" min="0" max="14"
+                            step="0.5" value="2" oninput="updateVal('exercise')">
+                    </div>
+
+                    <div class="slide-group" style="margin-top: 2rem;">
+                        <label>Screen Time (hrs/day): <span id="val-screen" class="val-display">6.0</span></label>
+                        <input type="range" class="styled-slider glow-cyan" id="pred-screen" min="0" max="18" step="0.5"
+                            value="6" oninput="updateVal('screen')">
+                    </div>
+
+                    <div class="wizard-actions">
+                        <button class="ghost-btn" onclick="prevStep(2)">← Back</button>
+                        <button class="advanced-btn next-btn" onclick="nextStep(2)">Continue ➔</button>
+                    </div>
+                </div>
+
+                <!-- STEP 3 -->
+                <div class="wizard-step" id="step-3">
+                    <h3 class="step-title">Module 3: Wellbeing & Social</h3>
+                    <p class="step-desc">Lastly, let's explore your emotional and social state.</p>
+
+                    <div class="slide-group">
+                        <label>Stress Level (1-10): <span id="val-stress" class="val-display">5</span></label>
+                        <input type="range" class="styled-slider glow-red" id="pred-stress" min="1" max="10" step="1"
+                            value="5" oninput="updateVal('stress')">
+                    </div>
+
+                    <div class="slide-group" style="margin-top: 2rem;">
+                        <label>Social Activity (days/week): <span id="val-social" class="val-display">3</span></label>
+                        <input type="range" class="styled-slider glow-blue" id="pred-social" min="0" max="7" step="1"
+                            value="3" oninput="updateVal('social')">
+                    </div>
+
+                    <div class="slide-group" style="margin-top: 2rem;">
+                        <label>Describe your current emotional state</label>
+                        <textarea class="glass-textarea" id="pred-emotion"
+                            placeholder="Example: I've been feeling extremely tired lately and struggling to keep up with assignments..."></textarea>
+                    </div>
+
+                    <div class="wizard-actions">
+                        <button class="ghost-btn" onclick="prevStep(3)">← Back</button>
+                        <button class="advanced-btn submit-btn pulse-glow" id="btn-predict"
+                            onclick="submitPrediction()">✨ Run AI Analysis</button>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Loader for prediction -->
+            <div id="predict-loader" class="predict-loader" style="display: none;">
+                <div class="neural-sphere"></div>
+                <h3 class="loading-main shimmer-text">Processing Neural Network</h3>
+                <p class="loading-sub" id="loading-sub">Extracting behavioral micro-features...</p>
+            </div>
+
+            <!-- Result Box -->
+            <div id="prediction-result" class="prediction-result" style="z-index: 5;"></div>
+
+            <div id="restart-action"
+                style="display: none; text-align: center; margin-top: 2rem; position: relative; z-index: 10;">
+                <button class="ghost-btn" onclick="location.reload()">Start New Session ↺</button>
+            </div>
+
+        </section>
+    </main>
+
+    <script src="/static/js/student.js"></script>
+</body>
+
+</html>
